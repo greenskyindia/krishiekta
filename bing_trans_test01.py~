@@ -1,0 +1,29 @@
+#!/usr/local/bin/python3
+
+import subprocess
+import urllib.request
+import json
+import datetime
+import sys
+
+url = 'http://api.microsofttranslator.com/V2/Http.svc/Translate'
+
+
+#headers
+
+trans_head = {
+		"appId": "0.1"
+		,"text": "http://www.wunderground.com/weather/api/d/terms.html"
+		,"features": {
+		"conditions": 1
+		}
+
+
+local_file = 'data001/blgen002.xml'
+
+#f = urllib.request.urlopen(url) 
+
+urllib.request.urlretrieve(url, local_file)
+
+#print headers
+

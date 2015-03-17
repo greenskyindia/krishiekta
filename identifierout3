@@ -1,0 +1,23 @@
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST006.identifier WHERE id = 57;
+Something went wrong again: Unread result found.
+Value Condition: 0
+Source Name: Business LIne
+List of Tags: 
+['rss', 'channel', 'item', '4']
+___________________________________________________
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST006.identifier WHERE id = 7;
+Something went wrong again: Unread result found.
+Value Condition: 0
+Source Name: The Hindu
+List of Tags: 
+['html', 'body', 'div#bgwhite', 'div#container', 'div#content', 'div#left-column', 'h1.detail-title']
+___________________________________________________
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST006.identifier WHERE id = 5;
+Something went wrong again: Unread result found.
+Value Condition: 1
+Source Name: Business Line
+List of Tags: 
+['html', 'body#homebg', 'div#container', 'div#content', 'div#left-column', 'div.art-horizontal-colored', 'div#hcenter', 'img.main-image']
+___________________________________________________

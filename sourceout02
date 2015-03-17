@@ -1,0 +1,452 @@
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, name, url, short_name, information, language, gen_page_type, date_format, last_fetch_date, last_base_date, gen_date_id, gen_title_id, gen_url_id, spec_date_id, spec_title_id, spec_url_id, spec_content_id, spec_location_id, spec_tag_id, spec_keyword_id, spec_image_id, spec_video_id, spec_audio_id, spec_related_id, category1, weight_cat1, category2, weight_cat2, category3, weight_cat3 FROM KEDBTST007.source;
+Something went wrong again: Unread result found.
+{'date': 57, 'title': 55, 'url': 56}
+{'date': 60, 'title': 58, 'url': 59}
+{'date': None, 'title': None, 'url': None}
+{'date': None, 'title': None, 'url': None}
+{'date': None, 'title': None, 'url': None}
+{'date': None, 'title': None, 'url': None}
+{'date': 63, 'title': 61, 'url': 62}
+{'date': 66, 'title': 64, 'url': 65}
+{'date': 69, 'title': 67, 'url': 68}
+{'date': None, 'title': None, 'url': None}
+55
+57
+56
+{'date': 57, 'title': 55, 'url': 56}
+{'date': None, 'tag': None, 'content': 2, 'keyword': 3, 'video': None, 'url': None, 'audio': None, 'image': 5, 'related': 6, 'title': 1, 'location': 4}
+2
+1
+5
+3
+Business Linehttp://www.thehindubusinessline.com/industry-and-economy/agri-biz/?service=rss
+Inside
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 55;
+Something went wrong again: Unread result found.
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 57;
+Something went wrong again: Unread result found.
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 56;
+Something went wrong again: Unread result found.
+data002/BusLin_27Mar2014_17h_04min.xml
+We're in the initiator!
+Bye Bye Initiator!
+UPDATE KEDBTST007.source SET last_fetch_date="2014-03-27 17:04:24", last_base_date="2014-03-25 13:53:58" WHERE id = 1;
+-------------------
+58
+60
+59
+{'date': 60, 'title': 58, 'url': 59}
+{'date': None, 'tag': None, 'content': 8, 'keyword': 9, 'video': None, 'url': None, 'audio': None, 'image': 11, 'related': 12, 'title': 7, 'location': 10}
+8
+7
+11
+9
+The Hinduhttp://www.thehindu.com/system/topicRoot/Agriculture/?service=rss
+Inside
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 58;
+Something went wrong again: Unread result found.
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 60;
+Something went wrong again: Unread result found.
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 59;
+Something went wrong again: Unread result found.
+Thu, 27 Mar 2014 08:24:58 +0530
+2014-03-25 13:53:58
+			#####Date Value satisfied
+We're in the initiator!
+Bye Bye Initiator!
+INSERT INTO KEDBTST007.raw_data (uid, source_id, url, date, title, content, cge_ready) VALUES(%s,%s,%s,%s,%s,%s,%s)
+-------------------
+510
+2
+http://www.thehindu.com/news/national/tamil-nadu/poor-rainfall-pushes-up-jackfruit-yield/article5838097.ece?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+2014-03-27 08:24:58
+Poor rainfall pushes up jackfruit yield 
+temp
+0
+Wed, 26 Mar 2014 22:56:22 +0530
+2014-03-25 13:53:58
+			#####Date Value satisfied
+We're in the initiator!
+Bye Bye Initiator!
+INSERT INTO KEDBTST007.raw_data (uid, source_id, url, date, title, content, cge_ready) VALUES(%s,%s,%s,%s,%s,%s,%s)
+-------------------
+520
+2
+http://www.thehindu.com/sci-tech/science/using-bio-fuel-to-run-an-irrigation-pump-for-five-acres/article5835856.ece?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+2014-03-26 22:56:22
+Using bio fuel to run an irrigation pump for five acres
+temp
+0
+Wed, 26 Mar 2014 22:51:36 +0530
+2014-03-25 13:53:58
+			#####Date Value satisfied
+We're in the initiator!
+Bye Bye Initiator!
+INSERT INTO KEDBTST007.raw_data (uid, source_id, url, date, title, content, cge_ready) VALUES(%s,%s,%s,%s,%s,%s,%s)
+-------------------
+530
+2
+http://www.thehindu.com/sci-tech/science/controlling-blast-infestation-in-rice/article5835859.ece?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+2014-03-26 22:51:36
+Controlling blast infestation in rice
+temp
+0
+data002/Hindu_27Mar2014_17h_04min.xml
+We're in the initiator!
+Bye Bye Initiator!
+UPDATE KEDBTST007.source SET last_fetch_date="2014-03-27 17:04:30", last_base_date="2014-03-25 13:53:58" WHERE id = 2;
+-------------------
+Economic Times
+None
+14
+13
+17
+15
+Economic Timeshttp://economictimes.indiatimes.com/News/Economy/Agriculture/articlelist/1202099874.cms
+EcoTim_27Mar2014_17_04.html
+Times of India
+None
+20
+19
+23
+21
+Times of Indiahttp://articles.timesofindia.indiatimes.com/keyword/agriculture
+TOI_27Mar2014_17_04.html
+NDTV
+None
+None
+None
+None
+None
+NDTVhttp://www.ndtv.com/topic/agriculture/news
+NDTV_27Mar2014_17_04.html
+Business Today
+None
+26
+25
+29
+27
+Business Todayhttp://businesstoday.intoday.in/categorylist/15/1/agriculture.html
+BusTod_27Mar2014_17_04.html
+61
+63
+62
+{'date': 63, 'title': 61, 'url': 62}
+{'date': None, 'tag': None, 'content': 32, 'keyword': 33, 'video': None, 'url': None, 'audio': None, 'image': 35, 'related': 36, 'title': 31, 'location': 34}
+32
+31
+35
+33
+Agriculture.com-Crophttp://www.agriculture.com/rss/news/crops
+Inside
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 61;
+Something went wrong again: Unread result found.
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 63;
+Something went wrong again: Unread result found.
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 62;
+Something went wrong again: Unread result found.
+Wednesday Mar 26 10:59:23 EDT 2014
+2014-03-25 13:53:59
+			#####Date Value satisfied
+We're in the initiator!
+Bye Bye Initiator!
+INSERT INTO KEDBTST007.raw_data (uid, source_id, url, date, title, content, cge_ready) VALUES(%s,%s,%s,%s,%s,%s,%s)
+-------------------
+510
+7
+http://www.agriculture.com/news/crops/early-late-cn-plting-in-ste_2-ar42509
+2014-03-26 10:59:23
+Early or Late Corn Planting in Store? 
+temp
+0
+Tuesday Mar 25 13:39:56 EDT 2014
+2014-03-25 13:53:59
+Friday Mar 21 19:15:45 EDT 2014
+2014-03-25 13:53:59
+Friday Mar 21 14:13:46 EDT 2014
+2014-03-25 13:53:59
+Monday Mar 17 09:04:17 EDT 2014
+2014-03-25 13:53:59
+Monday Mar 17 09:00:16 EDT 2014
+2014-03-25 13:53:59
+Friday Mar 14 10:07:54 EDT 2014
+2014-03-25 13:53:59
+Tuesday Mar 11 11:13:26 EDT 2014
+2014-03-25 13:53:59
+Monday Mar 10 11:16:07 EDT 2014
+2014-03-25 13:53:59
+Thursday Mar 06 18:01:14 EST 2014
+2014-03-25 13:53:59
+Monday Mar 03 15:08:07 EST 2014
+2014-03-25 13:53:59
+Friday Feb 28 11:18:14 EST 2014
+2014-03-25 13:53:59
+Wednesday Feb 26 11:05:15 EST 2014
+2014-03-25 13:53:59
+Tuesday Feb 25 12:36:14 EST 2014
+2014-03-25 13:53:59
+Monday Feb 24 14:23:15 EST 2014
+2014-03-25 13:53:59
+Friday Feb 21 17:34:57 EST 2014
+2014-03-25 13:53:59
+Friday Feb 21 16:29:54 EST 2014
+2014-03-25 13:53:59
+Thursday Feb 20 12:45:11 EST 2014
+2014-03-25 13:53:59
+Thursday Feb 20 10:58:58 EST 2014
+2014-03-25 13:53:59
+Wednesday Feb 19 11:15:25 EST 2014
+2014-03-25 13:53:59
+Monday Feb 17 15:06:00 EST 2014
+2014-03-25 13:53:59
+Monday Feb 17 12:11:09 EST 2014
+2014-03-25 13:53:59
+Thursday Feb 13 13:10:50 EST 2014
+2014-03-25 13:53:59
+Monday Feb 10 12:05:24 EST 2014
+2014-03-25 13:53:59
+Monday Feb 10 09:10:22 EST 2014
+2014-03-25 13:53:59
+Friday Feb 07 18:01:39 EST 2014
+2014-03-25 13:53:59
+Thursday Feb 06 09:49:07 EST 2014
+2014-03-25 13:53:59
+Thursday Feb 06 08:59:58 EST 2014
+2014-03-25 13:53:59
+Wednesday Feb 05 09:48:00 EST 2014
+2014-03-25 13:53:59
+Wednesday Feb 05 08:53:04 EST 2014
+2014-03-25 13:53:59
+data002/AgCrop_27Mar2014_17h_04min.xml
+We're in the initiator!
+Bye Bye Initiator!
+UPDATE KEDBTST007.source SET last_fetch_date="2014-03-27 17:04:31", last_base_date="2014-03-25 13:53:59" WHERE id = 7;
+-------------------
+64
+66
+65
+{'date': 66, 'title': 64, 'url': 65}
+{'date': None, 'tag': None, 'content': 38, 'keyword': 39, 'video': None, 'url': None, 'audio': None, 'image': 41, 'related': 42, 'title': 37, 'location': 40}
+38
+37
+41
+39
+Agriculture.com-Businesshttp://www.agriculture.com/rss/news/business
+Inside
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 64;
+Something went wrong again: Unread result found.
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 66;
+Something went wrong again: Unread result found.
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 65;
+Something went wrong again: Unread result found.
+Wednesday Mar 26 12:57:46 EDT 2014
+2014-03-25 13:54:00
+			#####Date Value satisfied
+We're in the initiator!
+Bye Bye Initiator!
+INSERT INTO KEDBTST007.raw_data (uid, source_id, url, date, title, content, cge_ready) VALUES(%s,%s,%s,%s,%s,%s,%s)
+-------------------
+510
+8
+http://www.agriculture.com/news/business/what-to-know-this-week-spring-wear_5-ar42510
+2014-03-26 12:57:46
+What to Know This Week: Spring Weather Worries and Big USDA Data
+temp
+0
+Tuesday Mar 25 11:17:55 EDT 2014
+2014-03-25 13:54:00
+Friday Mar 14 11:45:50 EDT 2014
+2014-03-25 13:54:00
+Thursday Mar 13 17:50:27 EDT 2014
+2014-03-25 13:54:00
+Thursday Mar 06 14:44:55 EST 2014
+2014-03-25 13:54:00
+Wednesday Mar 05 18:06:20 EST 2014
+2014-03-25 13:54:00
+Tuesday Mar 04 15:02:26 EST 2014
+2014-03-25 13:54:00
+Tuesday Mar 04 14:34:09 EST 2014
+2014-03-25 13:54:00
+Monday Mar 03 16:29:27 EST 2014
+2014-03-25 13:54:00
+Thursday Feb 27 15:26:41 EST 2014
+2014-03-25 13:54:00
+Thursday Feb 27 12:04:41 EST 2014
+2014-03-25 13:54:00
+Wednesday Feb 26 13:33:31 EST 2014
+2014-03-25 13:54:00
+Monday Feb 24 09:34:29 EST 2014
+2014-03-25 13:54:00
+Friday Feb 21 11:58:35 EST 2014
+2014-03-25 13:54:00
+Thursday Feb 20 17:53:59 EST 2014
+2014-03-25 13:54:00
+Thursday Feb 20 09:50:13 EST 2014
+2014-03-25 13:54:00
+Thursday Feb 20 08:46:17 EST 2014
+2014-03-25 13:54:00
+Wednesday Feb 19 16:35:08 EST 2014
+2014-03-25 13:54:00
+Wednesday Feb 19 11:07:32 EST 2014
+2014-03-25 13:54:00
+Tuesday Feb 18 14:26:05 EST 2014
+2014-03-25 13:54:00
+Friday Feb 14 12:47:10 EST 2014
+2014-03-25 13:54:00
+Thursday Feb 13 15:07:42 EST 2014
+2014-03-25 13:54:00
+Thursday Feb 13 12:04:52 EST 2014
+2014-03-25 13:54:00
+Wednesday Feb 12 13:20:57 EST 2014
+2014-03-25 13:54:00
+Thursday Feb 06 12:21:36 EST 2014
+2014-03-25 13:54:00
+Monday Feb 03 13:46:45 EST 2014
+2014-03-25 13:54:00
+Friday Jan 31 12:08:14 EST 2014
+2014-03-25 13:54:00
+Thursday Jan 30 12:48:08 EST 2014
+2014-03-25 13:54:00
+Thursday Jan 30 07:29:56 EST 2014
+2014-03-25 13:54:00
+Monday Jan 27 16:53:26 EST 2014
+2014-03-25 13:54:00
+data002/AgBus_27Mar2014_17h_04min.xml
+We're in the initiator!
+Bye Bye Initiator!
+UPDATE KEDBTST007.source SET last_fetch_date="2014-03-27 17:04:32", last_base_date="2014-03-25 13:54:00" WHERE id = 8;
+-------------------
+67
+69
+68
+{'date': 69, 'title': 67, 'url': 68}
+{'date': None, 'tag': None, 'content': 44, 'keyword': 45, 'video': None, 'url': None, 'audio': None, 'image': 47, 'related': 48, 'title': 43, 'location': 46}
+44
+43
+47
+45
+Agriculture.com-Livestockhttp://www.agriculture.com/rss/news/livestock
+Inside
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 67;
+Something went wrong again: Unread result found.
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 69;
+Something went wrong again: Unread result found.
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 68;
+Something went wrong again: Unread result found.
+Tuesday Mar 25 16:41:50 EDT 2014
+2014-03-25 13:54:01
+			#####Date Value satisfied
+We're in the initiator!
+Bye Bye Initiator!
+INSERT INTO KEDBTST007.raw_data (uid, source_id, url, date, title, content, cge_ready) VALUES(%s,%s,%s,%s,%s,%s,%s)
+-------------------
+510
+9
+http://www.agriculture.com/news/livestock/expsion-of-federal-authity-over-waters_3-ar42504
+2014-03-25 16:41:50
+Expansion of Federal Authority Over "Waters of the United States" Proposed
+temp
+0
+Thursday Mar 20 14:52:33 EDT 2014
+2014-03-25 13:54:01
+Tuesday Mar 18 12:55:27 EDT 2014
+2014-03-25 13:54:01
+Friday Feb 28 13:05:11 EST 2014
+2014-03-25 13:54:01
+Friday Feb 28 10:04:15 EST 2014
+2014-03-25 13:54:01
+Thursday Feb 06 10:01:24 EST 2014
+2014-03-25 13:54:01
+Wednesday Feb 05 16:12:41 EST 2014
+2014-03-25 13:54:01
+Wednesday Feb 05 07:42:35 EST 2014
+2014-03-25 13:54:01
+Tuesday Feb 04 15:42:59 EST 2014
+2014-03-25 13:54:01
+Friday Jan 31 16:00:13 EST 2014
+2014-03-25 13:54:01
+Friday Jan 31 14:49:23 EST 2014
+2014-03-25 13:54:01
+Friday Jan 31 14:03:15 EST 2014
+2014-03-25 13:54:01
+Friday Jan 17 13:30:08 EST 2014
+2014-03-25 13:54:01
+Wednesday Jan 08 16:44:22 EST 2014
+2014-03-25 13:54:01
+Monday Dec 16 15:12:30 EST 2013
+2014-03-25 13:54:01
+Thursday Dec 12 15:52:50 EST 2013
+2014-03-25 13:54:01
+Thursday Dec 05 14:40:20 EST 2013
+2014-03-25 13:54:01
+Tuesday Nov 26 20:55:46 EST 2013
+2014-03-25 13:54:01
+Wednesday Nov 20 10:56:19 EST 2013
+2014-03-25 13:54:01
+Tuesday Nov 12 10:11:15 EST 2013
+2014-03-25 13:54:01
+Tuesday Nov 05 11:31:03 EST 2013
+2014-03-25 13:54:01
+Wednesday Oct 23 11:24:52 EDT 2013
+2014-03-25 13:54:01
+Thursday Sep 26 15:19:32 EDT 2013
+2014-03-25 13:54:01
+Wednesday Sep 25 16:28:01 EDT 2013
+2014-03-25 13:54:01
+Tuesday Sep 24 11:59:03 EDT 2013
+2014-03-25 13:54:01
+Tuesday Sep 24 10:16:11 EDT 2013
+2014-03-25 13:54:01
+Tuesday Aug 27 13:41:58 EDT 2013
+2014-03-25 13:54:01
+Tuesday Aug 27 11:38:00 EDT 2013
+2014-03-25 13:54:01
+Tuesday Aug 20 14:39:52 EDT 2013
+2014-03-25 13:54:01
+Monday Aug 12 10:18:27 EDT 2013
+2014-03-25 13:54:01
+data002/AgLiv_27Mar2014_17h_04min.xml
+We're in the initiator!
+Bye Bye Initiator!
+UPDATE KEDBTST007.source SET last_fetch_date="2014-03-27 17:04:33", last_base_date="2014-03-25 13:54:01" WHERE id = 9;
+-------------------
+New Kerala
+None
+50
+49
+53
+51
+New Keralahttp://www.newkerala.com/agriculture-news.php#.UotzsSfGHMI
+NwKer_27Mar2014_17_04.html

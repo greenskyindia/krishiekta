@@ -1,0 +1,28 @@
+#!/usr/local/bin/python
+
+import serial
+
+dev_name='/dev/ttyACM0'
+ser = serial.Serial(dev_name, 9600, timeout=5)
+
+
+print ser.portstr       # check which port was really used
+
+w = ser.write('ATD 9910236826')      # write a string
+
+s = ser.read(10)        # read up to ten bytes (timeout)
+print s
+
+s2 = ser.read(10)
+print s2
+
+line = ser.readline()   # read a '\n' terminated line
+print line
+
+line2 = ser.readline()   # read a '\n' terminated line
+print line2
+
+
+
+ser.close()
+

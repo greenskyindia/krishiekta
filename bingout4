@@ -1,0 +1,6 @@
+OAuth Token : http%3a%2f%2fschemas.xmlsoap.org%2fws%2f2005%2f05%2fidentity%2fclaims%2fnameidentifier=GreenSkyWeather&http%3a%2f%2fschemas.microsoft.com%2faccesscontrolservice%2f2010%2f07%2fclaims%2fidentityprovider=https%3a%2f%2fdatamarket.accesscontrol.windows.net%2f&Audience=http%3a%2f%2fapi.microsofttranslator.com&ExpiresOn=1379171811&Issuer=https%3a%2f%2fdatamarket.accesscontrol.windows.net%2f&HMACSHA256=6DlZiP71SJlaGNMk2HRk9LmnTN697NxuB2T4XyHwWu0%3d
+-------------------------------------------
+Expires In: "599"
+b''
+<string xmlns="http://schemas.microsoft.com/2003/10/Serialization/">मैं एक संदेश अंग्रेजी से हिन्दी को अनुवाद करना चाहते हैं। यह एक साधारण वाक्य अंग्रेजी है। इस वाक्य का अनुवाद अब है। मैं भाषा अनुवाद का परीक्षण कर रहा हूँ। आइए हम कुछ डेटा लाने</string>
+मैं एक संदेश अंग्रेजी से हिन्दी को अनुवाद करना चाहते हैं। यह एक साधारण वाक्य अंग्रेजी है। इस वाक्य का अनुवाद अब है। मैं भाषा अनुवाद का परीक्षण कर रहा हूँ। आइए हम कुछ डेटा लाने

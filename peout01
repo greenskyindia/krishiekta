@@ -1,0 +1,4953 @@
+No problem
+Error
+****************************************************
+<__main__.ParsingEngine object at 0x7ffb7d756c50>
+733
+7
+****************************************************
+****************************************************
+****************************************************
+Tag :  html  --- ID:  0
+***Parent :  0
+	Kids :  [1, 73]
+Combined Name :  html
+Attrib name :  xmlns
+Attrib name :  xml:lang
+Attrib name :  xmlns:fb
+Attrib name :  lang
+________________________________________________________________________
+Tag :  head  --- ID:  1
+***Parent :  0
+	Kids :  [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 65, 66, 68, 69, 70, 71, 72]
+Combined Name :  head
+________________________________________________________________________
+Tag :  script  --- ID:  2
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  src
+Attrib name :  type
+________________________________________________________________________
+Tag :  script  --- ID:  3
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  src
+Attrib name :  type
+________________________________________________________________________
+Tag :  script  --- ID:  4
+***Parent :  1
+	Kids :  []
+Combined Name :  script#LR1
+Attrib name :  src
+Attrib name :  async
+Attrib name :  type
+Attrib name :  id
+________________________________________________________________________
+Tag :  script  --- ID:  5
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  src
+Attrib name :  type
+________________________________________________________________________
+Tag :  link  --- ID:  6
+***Parent :  1
+	Kids :  []
+Combined Name :  link
+Attrib name :  media
+Attrib name :  href
+Attrib name :  type
+Attrib name :  rel
+________________________________________________________________________
+Tag :  link  --- ID:  7
+***Parent :  1
+	Kids :  []
+Combined Name :  link
+Attrib name :  media
+Attrib name :  href
+Attrib name :  type
+Attrib name :  rel
+________________________________________________________________________
+Tag :  script  --- ID:  8
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  async
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  9
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  async
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  10
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  gapi_processed
+Attrib name :  src
+Attrib name :  async
+Attrib name :  type
+________________________________________________________________________
+Tag :  script  --- ID:  11
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  src
+Attrib name :  async
+Attrib name :  type
+________________________________________________________________________
+Tag :  script  --- ID:  12
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  async
+Attrib name :  src
+Attrib name :  type
+________________________________________________________________________
+Tag :  script  --- ID:  13
+***Parent :  1
+	Kids :  []
+Combined Name :  script#twitter-wjs
+Attrib name :  src
+Attrib name :  id
+________________________________________________________________________
+Tag :  script  --- ID:  14
+***Parent :  1
+	Kids :  []
+Combined Name :  script#facebook-jssdk
+Attrib name :  src
+Attrib name :  id
+________________________________________________________________________
+Tag :  script  --- ID:  15
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  src
+Attrib name :  async
+________________________________________________________________________
+Tag :  script  --- ID:  16
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+Attrib name :  src
+________________________________________________________________________
+Tag :  title  --- ID:  17
+***Parent :  1
+	Kids :  []
+Combined Name :  title
+________________________________________________________________________
+Tag :  meta  --- ID:  18
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  http-equiv
+Attrib name :  content
+________________________________________________________________________
+Tag :  link  --- ID:  19
+***Parent :  1
+	Kids :  []
+Combined Name :  link
+Attrib name :  rel
+Attrib name :  type
+Attrib name :  href
+________________________________________________________________________
+Tag :  link  --- ID:  20
+***Parent :  1
+	Kids :  []
+Combined Name :  link
+Attrib name :  rel
+Attrib name :  type
+Attrib name :  href
+________________________________________________________________________
+Tag :  meta  --- ID:  21
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  name
+Attrib name :  content
+________________________________________________________________________
+Tag :  meta  --- ID:  22
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  name
+Attrib name :  content
+________________________________________________________________________
+Tag :  meta  --- ID:  23
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  name
+Attrib name :  content
+________________________________________________________________________
+Tag :  meta  --- ID:  24
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  name
+Attrib name :  content
+________________________________________________________________________
+Tag :  meta  --- ID:  25
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  name
+Attrib name :  content
+________________________________________________________________________
+Tag :  meta  --- ID:  26
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  name
+Attrib name :  content
+________________________________________________________________________
+Tag :  meta  --- ID:  27
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  name
+Attrib name :  content
+________________________________________________________________________
+Tag :  link  --- ID:  28
+***Parent :  1
+	Kids :  []
+Combined Name :  link
+Attrib name :  rel
+Attrib name :  href
+________________________________________________________________________
+Tag :  meta  --- ID:  29
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  name
+Attrib name :  content
+________________________________________________________________________
+Tag :  meta  --- ID:  30
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  name
+Attrib name :  content
+________________________________________________________________________
+Tag :  meta  --- ID:  31
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  name
+Attrib name :  content
+________________________________________________________________________
+Tag :  meta  --- ID:  32
+***Parent :  1
+	Kids :  []
+Combined Name :  meta#http://www.thehindubusinessline.com/industry-and-economy/agri-biz/punjab-waives-rural-development-market-fee-on-basmati/article5128380.ece
+Attrib name :  rel
+Attrib name :  id
+________________________________________________________________________
+Tag :  meta  --- ID:  33
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  property
+Attrib name :  content
+________________________________________________________________________
+Tag :  meta  --- ID:  34
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  property
+Attrib name :  content
+________________________________________________________________________
+Tag :  meta  --- ID:  35
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  property
+Attrib name :  content
+________________________________________________________________________
+Tag :  meta  --- ID:  36
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  property
+Attrib name :  content
+________________________________________________________________________
+Tag :  meta  --- ID:  37
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  property
+Attrib name :  content
+________________________________________________________________________
+Tag :  meta  --- ID:  38
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  property
+Attrib name :  content
+________________________________________________________________________
+Tag :  meta  --- ID:  39
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  name
+Attrib name :  content
+________________________________________________________________________
+Tag :  meta  --- ID:  40
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  property
+Attrib name :  content
+________________________________________________________________________
+Tag :  meta  --- ID:  41
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  property
+Attrib name :  content
+________________________________________________________________________
+Tag :  meta  --- ID:  42
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  property
+Attrib name :  content
+________________________________________________________________________
+Tag :  meta  --- ID:  43
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  property
+Attrib name :  content
+________________________________________________________________________
+Tag :  meta  --- ID:  44
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  property
+Attrib name :  content
+________________________________________________________________________
+Tag :  link  --- ID:  45
+***Parent :  1
+	Kids :  []
+Combined Name :  link
+Attrib name :  rel
+Attrib name :  type
+Attrib name :  href
+Attrib name :  media
+________________________________________________________________________
+Tag :  link  --- ID:  46
+***Parent :  1
+	Kids :  []
+Combined Name :  link
+Attrib name :  rel
+Attrib name :  type
+Attrib name :  href
+Attrib name :  media
+________________________________________________________________________
+Tag :  link  --- ID:  47
+***Parent :  1
+	Kids :  []
+Combined Name :  link
+Attrib name :  rel
+Attrib name :  type
+Attrib name :  href
+Attrib name :  media
+________________________________________________________________________
+Tag :  script  --- ID:  48
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  49
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  50
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  51
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  52
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  53
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  54
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  55
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  56
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  57
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  58
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  59
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+________________________________________________________________________
+Tag :  script  --- ID:  60
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  src
+Attrib name :  type
+________________________________________________________________________
+Tag :  script  --- ID:  61
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  62
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+________________________________________________________________________
+Tag :  noscript  --- ID:  63
+***Parent :  1
+	Kids :  [64]
+Combined Name :  noscript
+________________________________________________________________________
+Tag :  style  --- ID:  64
+***Parent :  63
+	Kids :  []
+Combined Name :  style
+Attrib name :  type
+________________________________________________________________________
+Tag :  script  --- ID:  65
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+________________________________________________________________________
+Tag :  noscript  --- ID:  66
+***Parent :  1
+	Kids :  [67]
+Combined Name :  noscript
+________________________________________________________________________
+Tag :  img  --- ID:  67
+***Parent :  66
+	Kids :  []
+Combined Name :  img
+Attrib name :  src
+________________________________________________________________________
+Tag :  meta  --- ID:  68
+***Parent :  1
+	Kids :  []
+Combined Name :  meta
+Attrib name :  name
+Attrib name :  content
+________________________________________________________________________
+Tag :  script  --- ID:  69
+***Parent :  1
+	Kids :  []
+Combined Name :  script
+Attrib name :  src
+Attrib name :  type
+________________________________________________________________________
+Tag :  style  --- ID:  70
+***Parent :  1
+	Kids :  []
+Combined Name :  style
+Attrib name :  type
+________________________________________________________________________
+Tag :  style  --- ID:  71
+***Parent :  1
+	Kids :  []
+Combined Name :  style
+Attrib name :  type
+________________________________________________________________________
+Tag :  style  --- ID:  72
+***Parent :  1
+	Kids :  []
+Combined Name :  style
+Attrib name :  type
+________________________________________________________________________
+Tag :  body  --- ID:  73
+***Parent :  0
+	Kids :  [74, 75, 76, 83, 84]
+Combined Name :  body#homebg
+Attrib name :  data-twttr-rendered
+Attrib name :  style
+Attrib name :  id
+________________________________________________________________________
+Tag :  iframe  --- ID:  74
+***Parent :  73
+	Kids :  []
+Combined Name :  iframe#twttrHubFrameSecure
+Attrib name :  src
+Attrib name :  style
+Attrib name :  name
+Attrib name :  tabindex
+Attrib name :  allowtransparency
+Attrib name :  id
+Attrib name :  frameborder
+Attrib name :  scrolling
+________________________________________________________________________
+Tag :  iframe  --- ID:  75
+***Parent :  73
+	Kids :  []
+Combined Name :  iframe#twttrHubFrame
+Attrib name :  src
+Attrib name :  style
+Attrib name :  name
+Attrib name :  tabindex
+Attrib name :  allowtransparency
+Attrib name :  id
+Attrib name :  frameborder
+Attrib name :  scrolling
+________________________________________________________________________
+Tag :  div  --- ID:  76
+***Parent :  73
+	Kids :  [77, 81]
+Combined Name :  div. fb_reset#fb-root
+Attrib name :  class
+Attrib name :  id
+________________________________________________________________________
+Tag :  div  --- ID:  77
+***Parent :  76
+	Kids :  [78]
+Combined Name :  div
+Attrib name :  style
+________________________________________________________________________
+Tag :  div  --- ID:  78
+***Parent :  77
+	Kids :  [79, 80]
+Combined Name :  div
+________________________________________________________________________
+Tag :  iframe  --- ID:  79
+***Parent :  78
+	Kids :  []
+Combined Name :  iframe#fb_xdm_frame_http
+Attrib name :  src
+Attrib name :  style
+Attrib name :  tab-index
+Attrib name :  title
+Attrib name :  aria-hidden
+Attrib name :  id
+Attrib name :  allowtransparency
+Attrib name :  name
+Attrib name :  frameborder
+Attrib name :  scrolling
+________________________________________________________________________
+Tag :  iframe  --- ID:  80
+***Parent :  78
+	Kids :  []
+Combined Name :  iframe#fb_xdm_frame_https
+Attrib name :  src
+Attrib name :  style
+Attrib name :  tab-index
+Attrib name :  title
+Attrib name :  aria-hidden
+Attrib name :  id
+Attrib name :  allowtransparency
+Attrib name :  name
+Attrib name :  frameborder
+Attrib name :  scrolling
+________________________________________________________________________
+Tag :  div  --- ID:  81
+***Parent :  76
+	Kids :  [82]
+Combined Name :  div
+Attrib name :  style
+________________________________________________________________________
+Tag :  div  --- ID:  82
+***Parent :  81
+	Kids :  []
+Combined Name :  div
+________________________________________________________________________
+Tag :  script  --- ID:  83
+***Parent :  73
+	Kids :  []
+Combined Name :  script
+________________________________________________________________________
+Tag :  div  --- ID:  84
+***Parent :  73
+	Kids :  [85, 93, 102, 139, 144, 157, 168]
+Combined Name :  div#container
+Attrib name :  id
+________________________________________________________________________
+Tag :  div  --- ID:  85
+***Parent :  84
+	Kids :  [86]
+Combined Name :  div#topstrip
+Attrib name :  id
+________________________________________________________________________
+Tag :  div  --- ID:  86
+***Parent :  85
+	Kids :  [87]
+Combined Name :  div#topstrip-site-map
+Attrib name :  id
+________________________________________________________________________
+Tag :  div  --- ID:  87
+***Parent :  86
+	Kids :  [88]
+Combined Name :  div#c99
+Attrib name :  id
+________________________________________________________________________
+Tag :  span  --- ID:  88
+***Parent :  87
+	Kids :  [89, 90, 91, 92]
+Combined Name :  span.c98
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  89
+***Parent :  88
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  90
+***Parent :  88
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  91
+***Parent :  88
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  92
+***Parent :  88
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  target
+Attrib name :  title
+________________________________________________________________________
+Tag :  div  --- ID:  93
+***Parent :  84
+	Kids :  [94]
+Combined Name :  div#ad-bar
+Attrib name :  id
+________________________________________________________________________
+Tag :  div  --- ID:  94
+***Parent :  93
+	Kids :  [95]
+Combined Name :  div#ad1.right-toutad
+Attrib name :  id
+Attrib name :  class
+________________________________________________________________________
+Tag :  center  --- ID:  95
+***Parent :  94
+	Kids :  [96, 97, 98, 99, 100, 101]
+Combined Name :  center
+________________________________________________________________________
+Tag :  script  --- ID:  96
+***Parent :  95
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+________________________________________________________________________
+Tag :  script  --- ID:  97
+***Parent :  95
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  98
+***Parent :  95
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  99
+***Parent :  95
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  span  --- ID:  100
+***Parent :  95
+	Kids :  []
+Combined Name :  span#Zedo-Ad=1393185_57_2_728_90;Domain=.zedo.com
+Attrib name :  id
+________________________________________________________________________
+Tag :  iframe  --- ID:  101
+***Parent :  95
+	Kids :  []
+Combined Name :  iframe#zzblankad
+Attrib name :  style
+Attrib name :  id
+Attrib name :  height
+Attrib name :  width
+________________________________________________________________________
+Tag :  div  --- ID:  102
+***Parent :  84
+	Kids :  [103, 132]
+Combined Name :  div#header-nav
+Attrib name :  id
+________________________________________________________________________
+Tag :  form  --- ID:  103
+***Parent :  102
+	Kids :  [104]
+Combined Name :  form#simpleSearchForm
+Attrib name :  id
+Attrib name :  method
+Attrib name :  action
+________________________________________________________________________
+Tag :  fieldset  --- ID:  104
+***Parent :  103
+	Kids :  [105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131]
+Combined Name :  fieldset
+________________________________________________________________________
+Tag :  input  --- ID:  105
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  106
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  107
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  108
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  109
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  110
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  111
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  112
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  113
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  114
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  115
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  116
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  117
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  118
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  119
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  120
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  121
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  122
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  123
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  124
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  125
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  126
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  127
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  128
+***Parent :  104
+	Kids :  []
+Combined Name :  input
+Attrib name :  name
+Attrib name :  value
+Attrib name :  type
+________________________________________________________________________
+Tag :  span  --- ID:  129
+***Parent :  104
+	Kids :  []
+Combined Name :  span
+________________________________________________________________________
+Tag :  input  --- ID:  130
+***Parent :  104
+	Kids :  []
+Combined Name :  input#searchString.text
+Attrib name :  name
+Attrib name :  size
+Attrib name :  id
+Attrib name :  class
+Attrib name :  type
+________________________________________________________________________
+Tag :  input  --- ID:  131
+***Parent :  104
+	Kids :  []
+Combined Name :  input.submit
+Attrib name :  value
+Attrib name :  class
+Attrib name :  type
+________________________________________________________________________
+Tag :  div  --- ID:  132
+***Parent :  102
+	Kids :  [133, 135, 136]
+Combined Name :  div#c99
+Attrib name :  id
+________________________________________________________________________
+Tag :  div  --- ID:  133
+***Parent :  132
+	Kids :  [134]
+Combined Name :  div.twit
+Attrib name :  class
+________________________________________________________________________
+Tag :  iframe  --- ID:  134
+***Parent :  133
+	Kids :  []
+Combined Name :  iframe.twitter-follow-button twitter-follow-button
+Attrib name :  data-twttr-rendered
+Attrib name :  title
+Attrib name :  style
+Attrib name :  class
+Attrib name :  src
+Attrib name :  allowtransparency
+Attrib name :  frameborder
+Attrib name :  scrolling
+________________________________________________________________________
+Tag :  script  --- ID:  135
+***Parent :  132
+	Kids :  []
+Combined Name :  script
+________________________________________________________________________
+Tag :  div  --- ID:  136
+***Parent :  132
+	Kids :  [137]
+Combined Name :  div.fb-like fb_edge_widget_with_comment fb_iframe_widget
+Attrib name :  fb-xfbml-state
+Attrib name :  class
+Attrib name :  data-href
+Attrib name :  data-send
+Attrib name :  data-layout
+Attrib name :  data-show-faces
+________________________________________________________________________
+Tag :  span  --- ID:  137
+***Parent :  136
+	Kids :  [138]
+Combined Name :  span
+Attrib name :  style
+________________________________________________________________________
+Tag :  iframe  --- ID:  138
+***Parent :  137
+	Kids :  []
+Combined Name :  iframe.fb_ltr#f2e52a930a8846
+Attrib name :  src
+Attrib name :  class
+Attrib name :  title
+Attrib name :  style
+Attrib name :  name
+Attrib name :  id
+Attrib name :  scrolling
+________________________________________________________________________
+Tag :  div  --- ID:  139
+***Parent :  84
+	Kids :  [140, 143]
+Combined Name :  div#header
+Attrib name :  id
+________________________________________________________________________
+Tag :  div  --- ID:  140
+***Parent :  139
+	Kids :  [141]
+Combined Name :  div#headerlogo
+Attrib name :  id
+________________________________________________________________________
+Tag :  a  --- ID:  141
+***Parent :  140
+	Kids :  [142]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  img  --- ID:  142
+***Parent :  141
+	Kids :  []
+Combined Name :  img
+Attrib name :  src
+Attrib name :  alt
+________________________________________________________________________
+Tag :  div  --- ID:  143
+***Parent :  139
+	Kids :  []
+Combined Name :  div.clear
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  144
+***Parent :  84
+	Kids :  [145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156]
+Combined Name :  div#nav-bar
+Attrib name :  id
+________________________________________________________________________
+Tag :  a  --- ID:  145
+***Parent :  144
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  146
+***Parent :  144
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  147
+***Parent :  144
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  148
+***Parent :  144
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  149
+***Parent :  144
+	Kids :  []
+Combined Name :  a.active
+Attrib name :  href
+Attrib name :  title
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  150
+***Parent :  144
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  151
+***Parent :  144
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  152
+***Parent :  144
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  153
+***Parent :  144
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  154
+***Parent :  144
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  155
+***Parent :  144
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  div  --- ID:  156
+***Parent :  144
+	Kids :  []
+Combined Name :  div.clear
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  157
+***Parent :  84
+	Kids :  [158, 167]
+Combined Name :  div#subnav-bar
+Attrib name :  id
+________________________________________________________________________
+Tag :  div  --- ID:  158
+***Parent :  157
+	Kids :  [159, 160, 161, 162, 163, 164, 165, 166]
+Combined Name :  div#firstlist
+Attrib name :  id
+________________________________________________________________________
+Tag :  a  --- ID:  159
+***Parent :  158
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  160
+***Parent :  158
+	Kids :  []
+Combined Name :  a.active
+Attrib name :  href
+Attrib name :  title
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  161
+***Parent :  158
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  162
+***Parent :  158
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  163
+***Parent :  158
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  164
+***Parent :  158
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  165
+***Parent :  158
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  166
+***Parent :  158
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  div  --- ID:  167
+***Parent :  157
+	Kids :  []
+Combined Name :  div.clear
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  168
+***Parent :  84
+	Kids :  [169]
+Combined Name :  div#content
+Attrib name :  id
+________________________________________________________________________
+Tag :  div  --- ID:  169
+***Parent :  168
+	Kids :  [170, 171, 172, 173, 184, 185, 207, 210, 212, 213, 420, 421]
+Combined Name :  div#left-column
+Attrib name :  id
+________________________________________________________________________
+Tag :  h1  --- ID:  170
+***Parent :  169
+	Kids :  []
+Combined Name :  h1.detail-title
+Attrib name :  class
+________________________________________________________________________
+Tag :  script  --- ID:  171
+***Parent :  169
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+________________________________________________________________________
+Tag :  span  --- ID:  172
+***Parent :  169
+	Kids :  []
+Combined Name :  span.author
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  173
+***Parent :  169
+	Kids :  [174]
+Combined Name :  div.detail-info
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  174
+***Parent :  173
+	Kids :  [175, 176, 177, 178, 179, 180, 181]
+Combined Name :  div.article-links
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  175
+***Parent :  174
+	Kids :  []
+Combined Name :  a#click
+Attrib name :  id
+Attrib name :  href
+________________________________________________________________________
+Tag :  a  --- ID:  176
+***Parent :  174
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  span  --- ID:  177
+***Parent :  174
+	Kids :  []
+Combined Name :  span#count5128380.countcomment
+Attrib name :  id
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  178
+***Parent :  174
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  script  --- ID:  179
+***Parent :  174
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  type
+________________________________________________________________________
+Tag :  a  --- ID:  180
+***Parent :  174
+	Kids :  []
+Combined Name :  a#inc
+Attrib name :  href
+Attrib name :  onclick
+Attrib name :  title
+Attrib name :  id
+________________________________________________________________________
+Tag :  noscript  --- ID:  181
+***Parent :  174
+	Kids :  [182, 183]
+Combined Name :  noscript
+________________________________________________________________________
+Tag :  a  --- ID:  182
+***Parent :  181
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  183
+***Parent :  181
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  script  --- ID:  184
+***Parent :  169
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+________________________________________________________________________
+Tag :  div  --- ID:  185
+***Parent :  169
+	Kids :  [186, 206]
+Combined Name :  div#topShare
+Attrib name :  id
+Attrib name :  style
+________________________________________________________________________
+Tag :  div  --- ID:  186
+***Parent :  185
+	Kids :  [187, 190, 192, 195, 199, 201]
+Combined Name :  div#addsharetop
+Attrib name :  id
+________________________________________________________________________
+Tag :  div  --- ID:  187
+***Parent :  186
+	Kids :  [188]
+Combined Name :  div.fb-like fb_edge_widget_with_comment fb_iframe_widget
+Attrib name :  fb-xfbml-state
+Attrib name :  class
+Attrib name :  data-href
+Attrib name :  data-send
+Attrib name :  data-layout
+Attrib name :  data-show-faces
+Attrib name :  data-font
+________________________________________________________________________
+Tag :  span  --- ID:  188
+***Parent :  187
+	Kids :  [189]
+Combined Name :  span
+Attrib name :  style
+________________________________________________________________________
+Tag :  iframe  --- ID:  189
+***Parent :  188
+	Kids :  []
+Combined Name :  iframe.fb_ltr#ff5d90e25a3f96
+Attrib name :  src
+Attrib name :  class
+Attrib name :  title
+Attrib name :  style
+Attrib name :  name
+Attrib name :  id
+Attrib name :  scrolling
+________________________________________________________________________
+Tag :  div  --- ID:  190
+***Parent :  186
+	Kids :  [191]
+Combined Name :  div.twit
+Attrib name :  class
+________________________________________________________________________
+Tag :  iframe  --- ID:  191
+***Parent :  190
+	Kids :  []
+Combined Name :  iframe.twitter-share-button twitter-count-horizontal
+Attrib name :  data-twttr-rendered
+Attrib name :  title
+Attrib name :  style
+Attrib name :  class
+Attrib name :  src
+Attrib name :  allowtransparency
+Attrib name :  frameborder
+Attrib name :  scrolling
+________________________________________________________________________
+Tag :  div  --- ID:  192
+***Parent :  186
+	Kids :  [193]
+Combined Name :  div.gplus
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  193
+***Parent :  192
+	Kids :  [194]
+Combined Name :  div#___plusone_0
+Attrib name :  id
+Attrib name :  style
+________________________________________________________________________
+Tag :  iframe  --- ID:  194
+***Parent :  193
+	Kids :  []
+Combined Name :  iframe#I2_1379182089759
+Attrib name :  title
+Attrib name :  data-gapiattached
+Attrib name :  src
+Attrib name :  name
+Attrib name :  id
+Attrib name :  vspace
+Attrib name :  tabindex
+Attrib name :  style
+Attrib name :  marginwidth
+Attrib name :  marginheight
+Attrib name :  hspace
+Attrib name :  frameborder
+Attrib name :  scrolling
+Attrib name :  width
+________________________________________________________________________
+Tag :  div  --- ID:  195
+***Parent :  186
+	Kids :  [196]
+Combined Name :  div.pin
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  196
+***Parent :  195
+	Kids :  [197]
+Combined Name :  a.PIN_1379182088843_pin_it_button PIN_1379182088843_pin_it_button_inline PIN_1379182088843_pin_it_beside
+Attrib name :  data-pin-config
+Attrib name :  data-pin-log
+Attrib name :  target
+Attrib name :  class
+Attrib name :  href
+________________________________________________________________________
+Tag :  span  --- ID:  197
+***Parent :  196
+	Kids :  [198]
+Combined Name :  span#PIN_1379182088843_pin_count_0.PIN_1379182088843_hidden
+Attrib name :  id
+Attrib name :  class
+________________________________________________________________________
+Tag :  i  --- ID:  198
+***Parent :  197
+	Kids :  []
+Combined Name :  i
+________________________________________________________________________
+Tag :  div  --- ID:  199
+***Parent :  186
+	Kids :  [200]
+Combined Name :  div.twit1
+Attrib name :  class
+________________________________________________________________________
+Tag :  script  --- ID:  200
+***Parent :  199
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+________________________________________________________________________
+Tag :  div  --- ID:  201
+***Parent :  186
+	Kids :  [202]
+Combined Name :  div.twit1
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  202
+***Parent :  201
+	Kids :  [203, 205]
+Combined Name :  a.addthis_counter addthis_pill_style
+Attrib name :  style
+Attrib name :  href
+Attrib name :  class
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  203
+***Parent :  202
+	Kids :  [204]
+Combined Name :  a.atc_s addthis_button_compact
+Attrib name :  class
+________________________________________________________________________
+Tag :  span  --- ID:  204
+***Parent :  203
+	Kids :  []
+Combined Name :  span
+________________________________________________________________________
+Tag :  a  --- ID:  205
+***Parent :  202
+	Kids :  []
+Combined Name :  a.addthis_button_expanded
+Attrib name :  href
+Attrib name :  title
+Attrib name :  target
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  206
+***Parent :  185
+	Kids :  []
+Combined Name :  div.line2
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  207
+***Parent :  169
+	Kids :  [208]
+Combined Name :  div.art-horizontal-colored
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  208
+***Parent :  207
+	Kids :  [209]
+Combined Name :  div#hcenter
+Attrib name :  id
+________________________________________________________________________
+Tag :  img  --- ID:  209
+***Parent :  208
+	Kids :  []
+Combined Name :  img.main-image
+Attrib name :  src
+Attrib name :  class
+Attrib name :  alt
+Attrib name :  title
+________________________________________________________________________
+Tag :  div  --- ID:  210
+***Parent :  169
+	Kids :  [211]
+Combined Name :  div.photo-caption
+Attrib name :  class
+________________________________________________________________________
+Tag :  span  --- ID:  211
+***Parent :  210
+	Kids :  []
+Combined Name :  span.photo-source
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  212
+***Parent :  169
+	Kids :  []
+Combined Name :  div.line zero15
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  213
+***Parent :  169
+	Kids :  [214, 229, 377, 394, 395, 396, 397, 398, 399, 400, 401, 403, 410, 417, 418, 419]
+Combined Name :  div#article-block
+Attrib name :  id
+________________________________________________________________________
+Tag :  div  --- ID:  214
+***Parent :  213
+	Kids :  [215, 216, 217, 218, 219, 220, 221]
+Combined Name :  div.google-ads
+Attrib name :  class
+________________________________________________________________________
+Tag :  script  --- ID:  215
+***Parent :  214
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+________________________________________________________________________
+Tag :  script  --- ID:  216
+***Parent :  214
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+________________________________________________________________________
+Tag :  script  --- ID:  217
+***Parent :  214
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  218
+***Parent :  214
+	Kids :  []
+Combined Name :  script
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  219
+***Parent :  214
+	Kids :  []
+Combined Name :  script
+________________________________________________________________________
+Tag :  script  --- ID:  220
+***Parent :  214
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  div  --- ID:  221
+***Parent :  214
+	Kids :  [222, 224]
+Combined Name :  div#google-ad-border
+Attrib name :  id
+________________________________________________________________________
+Tag :  div  --- ID:  222
+***Parent :  221
+	Kids :  [223]
+Combined Name :  div.ad_label
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  223
+***Parent :  222
+	Kids :  []
+Combined Name :  a.ad_attribution
+Attrib name :  class
+Attrib name :  href
+Attrib name :  target
+________________________________________________________________________
+Tag :  div  --- ID:  224
+***Parent :  221
+	Kids :  [225, 226, 227, 228]
+Combined Name :  div.ad_no_background
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  225
+***Parent :  224
+	Kids :  []
+Combined Name :  a.ad_title_small
+Attrib name :  class
+Attrib name :  href
+Attrib name :  target
+________________________________________________________________________
+Tag :  span  --- ID:  226
+***Parent :  224
+	Kids :  []
+Combined Name :  span.ad_text_small
+Attrib name :  class
+________________________________________________________________________
+Tag :  br  --- ID:  227
+***Parent :  224
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  a  --- ID:  228
+***Parent :  224
+	Kids :  []
+Combined Name :  a.ad_url_small
+Attrib name :  class
+Attrib name :  href
+Attrib name :  target
+________________________________________________________________________
+Tag :  div  --- ID:  229
+***Parent :  213
+	Kids :  [230, 231, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 251, 255, 256, 280, 281, 282, 295, 297, 376]
+Combined Name :  div.article-text
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  230
+***Parent :  229
+	Kids :  []
+Combined Name :  div.articleLead
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  231
+***Parent :  229
+	Kids :  [232]
+Combined Name :  div.article-dateline
+Attrib name :  class
+________________________________________________________________________
+Tag :  span  --- ID:  232
+***Parent :  231
+	Kids :  []
+Combined Name :  span.upper
+Attrib name :  class
+________________________________________________________________________
+Tag :  p  --- ID:  233
+***Parent :  229
+	Kids :  []
+Combined Name :  p.body
+Attrib name :  class
+________________________________________________________________________
+Tag :  p  --- ID:  234
+***Parent :  229
+	Kids :  []
+Combined Name :  p.body
+Attrib name :  class
+________________________________________________________________________
+Tag :  p  --- ID:  235
+***Parent :  229
+	Kids :  []
+Combined Name :  p.body
+Attrib name :  class
+________________________________________________________________________
+Tag :  p  --- ID:  236
+***Parent :  229
+	Kids :  []
+Combined Name :  p.body
+Attrib name :  class
+________________________________________________________________________
+Tag :  p  --- ID:  237
+***Parent :  229
+	Kids :  []
+Combined Name :  p.body
+Attrib name :  class
+________________________________________________________________________
+Tag :  p  --- ID:  238
+***Parent :  229
+	Kids :  []
+Combined Name :  p.body
+Attrib name :  class
+________________________________________________________________________
+Tag :  p  --- ID:  239
+***Parent :  229
+	Kids :  []
+Combined Name :  p.body
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  240
+***Parent :  229
+	Kids :  []
+Combined Name :  div.photo-caption
+Attrib name :  class
+________________________________________________________________________
+Tag :  script  --- ID:  241
+***Parent :  229
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+________________________________________________________________________
+Tag :  div  --- ID:  242
+***Parent :  229
+	Kids :  [243]
+Combined Name :  div#articleKeywords
+Attrib name :  id
+________________________________________________________________________
+Tag :  p  --- ID:  243
+***Parent :  242
+	Kids :  [244, 245, 246, 247, 248, 249, 250]
+Combined Name :  p
+________________________________________________________________________
+Tag :  a  --- ID:  244
+***Parent :  243
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  a  --- ID:  245
+***Parent :  243
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  a  --- ID:  246
+***Parent :  243
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  a  --- ID:  247
+***Parent :  243
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  a  --- ID:  248
+***Parent :  243
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  a  --- ID:  249
+***Parent :  243
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  a  --- ID:  250
+***Parent :  243
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  div  --- ID:  251
+***Parent :  229
+	Kids :  [252]
+Combined Name :  div
+________________________________________________________________________
+Tag :  span  --- ID:  252
+***Parent :  251
+	Kids :  [253, 254]
+Combined Name :  span
+Attrib name :  style
+________________________________________________________________________
+Tag :  span  --- ID:  253
+***Parent :  252
+	Kids :  []
+Combined Name :  span#count5128380a
+Attrib name :  id
+________________________________________________________________________
+Tag :  a  --- ID:  254
+***Parent :  252
+	Kids :  []
+Combined Name :  a.linkbtn
+Attrib name :  href
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  255
+***Parent :  229
+	Kids :  []
+Combined Name :  div.noline
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  256
+***Parent :  229
+	Kids :  [257, 258, 270]
+Combined Name :  div.related-columnnew
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  257
+***Parent :  256
+	Kids :  []
+Combined Name :  div.rel-art
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  258
+***Parent :  256
+	Kids :  [259, 260, 262, 264, 266, 268]
+Combined Name :  div.related-section
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  259
+***Parent :  258
+	Kids :  []
+Combined Name :  div.arthead
+Attrib name :  class
+________________________________________________________________________
+Tag :  h3  --- ID:  260
+***Parent :  258
+	Kids :  [261]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  261
+***Parent :  260
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  alt
+________________________________________________________________________
+Tag :  h3  --- ID:  262
+***Parent :  258
+	Kids :  [263]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  263
+***Parent :  262
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  alt
+________________________________________________________________________
+Tag :  h3  --- ID:  264
+***Parent :  258
+	Kids :  [265]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  265
+***Parent :  264
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  alt
+________________________________________________________________________
+Tag :  h3  --- ID:  266
+***Parent :  258
+	Kids :  [267]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  267
+***Parent :  266
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  alt
+________________________________________________________________________
+Tag :  h3  --- ID:  268
+***Parent :  258
+	Kids :  [269]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  269
+***Parent :  268
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  alt
+________________________________________________________________________
+Tag :  div  --- ID:  270
+***Parent :  256
+	Kids :  [271, 272, 274, 276, 278]
+Combined Name :  div.related-tags
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  271
+***Parent :  270
+	Kids :  []
+Combined Name :  div.arthead
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  272
+***Parent :  270
+	Kids :  [273]
+Combined Name :  a.bold
+Attrib name :  class
+Attrib name :  href
+________________________________________________________________________
+Tag :  span  --- ID:  273
+***Parent :  272
+	Kids :  []
+Combined Name :  span.blpipe
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  274
+***Parent :  270
+	Kids :  [275]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  span  --- ID:  275
+***Parent :  274
+	Kids :  []
+Combined Name :  span.blpipe
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  276
+***Parent :  270
+	Kids :  [277]
+Combined Name :  a.bold
+Attrib name :  class
+Attrib name :  href
+________________________________________________________________________
+Tag :  span  --- ID:  277
+***Parent :  276
+	Kids :  []
+Combined Name :  span.blpipe
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  278
+***Parent :  270
+	Kids :  [279]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  span  --- ID:  279
+***Parent :  278
+	Kids :  []
+Combined Name :  span.blpipe
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  280
+***Parent :  229
+	Kids :  []
+Combined Name :  div.noline
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  281
+***Parent :  229
+	Kids :  []
+Combined Name :  div.logocode
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  282
+***Parent :  229
+	Kids :  [283, 284, 286, 289, 291, 294]
+Combined Name :  div.obboth
+Attrib name :  class
+________________________________________________________________________
+Tag :  script  --- ID:  283
+***Parent :  282
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+________________________________________________________________________
+Tag :  div  --- ID:  284
+***Parent :  282
+	Kids :  [285]
+Combined Name :  div#outbl
+Attrib name :  id
+Attrib name :  style
+________________________________________________________________________
+Tag :  a  --- ID:  285
+***Parent :  284
+	Kids :  []
+Combined Name :  a
+Attrib name :  onclick
+Attrib name :  style
+________________________________________________________________________
+Tag :  div  --- ID:  286
+***Parent :  282
+	Kids :  [287, 288]
+Combined Name :  div#popup1
+Attrib name :  id
+________________________________________________________________________
+Tag :  a  --- ID:  287
+***Parent :  286
+	Kids :  []
+Combined Name :  a.closed
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  288
+***Parent :  286
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  div  --- ID:  289
+***Parent :  282
+	Kids :  [290]
+Combined Name :  div#outbr
+Attrib name :  id
+Attrib name :  style
+Attrib name :  onclick
+________________________________________________________________________
+Tag :  a  --- ID:  290
+***Parent :  289
+	Kids :  []
+Combined Name :  a
+Attrib name :  style
+________________________________________________________________________
+Tag :  div  --- ID:  291
+***Parent :  282
+	Kids :  [292, 293]
+Combined Name :  div#popup
+Attrib name :  id
+________________________________________________________________________
+Tag :  a  --- ID:  292
+***Parent :  291
+	Kids :  []
+Combined Name :  a.closed
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  293
+***Parent :  291
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  script  --- ID:  294
+***Parent :  282
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+________________________________________________________________________
+Tag :  div  --- ID:  295
+***Parent :  229
+	Kids :  [296]
+Combined Name :  div#ob_holder
+Attrib name :  style
+Attrib name :  id
+________________________________________________________________________
+Tag :  iframe  --- ID:  296
+***Parent :  295
+	Kids :  []
+Combined Name :  iframe#ob_iframe
+Attrib name :  src
+Attrib name :  style
+Attrib name :  id
+________________________________________________________________________
+Tag :  div  --- ID:  297
+***Parent :  229
+	Kids :  [298, 353, 354, 375]
+Combined Name :  div#outbrain_widget_0.OUTBRAIN
+Attrib name :  id
+Attrib name :  data-dynload
+Attrib name :  data-ob-mark
+Attrib name :  class
+Attrib name :  data-src
+Attrib name :  data-widget-id
+Attrib name :  data-ob-template
+________________________________________________________________________
+Tag :  div  --- ID:  298
+***Parent :  297
+	Kids :  [299]
+Combined Name :  div.ob_dual_container AR_1
+Attrib name :  class
+________________________________________________________________________
+Tag :  span  --- ID:  299
+***Parent :  298
+	Kids :  [300, 301, 302, 303, 326, 349, 352]
+Combined Name :  span.ob_empty
+Attrib name :  class
+________________________________________________________________________
+Tag :  wbr  --- ID:  300
+***Parent :  299
+	Kids :  []
+Combined Name :  wbr
+________________________________________________________________________
+Tag :  style  --- ID:  301
+***Parent :  299
+	Kids :  []
+Combined Name :  style
+Attrib name :  type
+________________________________________________________________________
+Tag :  style  --- ID:  302
+***Parent :  299
+	Kids :  []
+Combined Name :  style.ob-custom-css
+Attrib name :  type
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  303
+***Parent :  299
+	Kids :  [304, 305]
+Combined Name :  div.ob_dual_left
+Attrib name :  class
+________________________________________________________________________
+Tag :  span  --- ID:  304
+***Parent :  303
+	Kids :  []
+Combined Name :  span.ob_org_header
+Attrib name :  class
+________________________________________________________________________
+Tag :  ul  --- ID:  305
+***Parent :  303
+	Kids :  [306, 310, 314, 318, 322]
+Combined Name :  ul
+________________________________________________________________________
+Tag :  li  --- ID:  306
+***Parent :  305
+	Kids :  [307]
+Combined Name :  li.odb_li ob-recIdx-0  ob-odd
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  307
+***Parent :  306
+	Kids :  [308, 309]
+Combined Name :  div.ob-text-content
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  308
+***Parent :  307
+	Kids :  []
+Combined Name :  a.rec-link
+Attrib name :  target
+Attrib name :  href
+Attrib name :  onmousedown
+Attrib name :  rel
+Attrib name :  class
+________________________________________________________________________
+Tag :  span  --- ID:  309
+***Parent :  307
+	Kids :  []
+Combined Name :  span.ob_source
+Attrib name :  class
+________________________________________________________________________
+Tag :  li  --- ID:  310
+***Parent :  305
+	Kids :  [311]
+Combined Name :  li.odb_li ob-recIdx-1  ob-even
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  311
+***Parent :  310
+	Kids :  [312, 313]
+Combined Name :  div.ob-text-content
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  312
+***Parent :  311
+	Kids :  []
+Combined Name :  a.rec-link
+Attrib name :  target
+Attrib name :  href
+Attrib name :  onmousedown
+Attrib name :  rel
+Attrib name :  class
+________________________________________________________________________
+Tag :  span  --- ID:  313
+***Parent :  311
+	Kids :  []
+Combined Name :  span.ob_source
+Attrib name :  class
+________________________________________________________________________
+Tag :  li  --- ID:  314
+***Parent :  305
+	Kids :  [315]
+Combined Name :  li.odb_li ob-recIdx-2  ob-odd
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  315
+***Parent :  314
+	Kids :  [316, 317]
+Combined Name :  div.ob-text-content
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  316
+***Parent :  315
+	Kids :  []
+Combined Name :  a.rec-link
+Attrib name :  target
+Attrib name :  href
+Attrib name :  onmousedown
+Attrib name :  rel
+Attrib name :  class
+________________________________________________________________________
+Tag :  span  --- ID:  317
+***Parent :  315
+	Kids :  []
+Combined Name :  span.ob_source
+Attrib name :  class
+________________________________________________________________________
+Tag :  li  --- ID:  318
+***Parent :  305
+	Kids :  [319]
+Combined Name :  li.odb_li ob-recIdx-3  ob-even
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  319
+***Parent :  318
+	Kids :  [320, 321]
+Combined Name :  div.ob-text-content
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  320
+***Parent :  319
+	Kids :  []
+Combined Name :  a.rec-link
+Attrib name :  target
+Attrib name :  href
+Attrib name :  onmousedown
+Attrib name :  rel
+Attrib name :  class
+________________________________________________________________________
+Tag :  span  --- ID:  321
+***Parent :  319
+	Kids :  []
+Combined Name :  span.ob_source
+Attrib name :  class
+________________________________________________________________________
+Tag :  li  --- ID:  322
+***Parent :  305
+	Kids :  [323]
+Combined Name :  li.odb_li ob-recIdx-4  ob-odd
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  323
+***Parent :  322
+	Kids :  [324, 325]
+Combined Name :  div.ob-text-content
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  324
+***Parent :  323
+	Kids :  []
+Combined Name :  a.rec-link
+Attrib name :  target
+Attrib name :  href
+Attrib name :  onmousedown
+Attrib name :  rel
+Attrib name :  class
+________________________________________________________________________
+Tag :  span  --- ID:  325
+***Parent :  323
+	Kids :  []
+Combined Name :  span.ob_source
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  326
+***Parent :  299
+	Kids :  [327, 328]
+Combined Name :  div.ob_dual_right
+Attrib name :  class
+________________________________________________________________________
+Tag :  span  --- ID:  327
+***Parent :  326
+	Kids :  []
+Combined Name :  span.ob_ads_header
+Attrib name :  class
+________________________________________________________________________
+Tag :  ul  --- ID:  328
+***Parent :  326
+	Kids :  [329, 333, 337, 341, 345]
+Combined Name :  ul
+________________________________________________________________________
+Tag :  li  --- ID:  329
+***Parent :  328
+	Kids :  [330]
+Combined Name :  li.odb_li ob-recIdx-0  ob-odd
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  330
+***Parent :  329
+	Kids :  [331, 332]
+Combined Name :  div.ob-text-content
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  331
+***Parent :  330
+	Kids :  []
+Combined Name :  a.rec-link
+Attrib name :  target
+Attrib name :  href
+Attrib name :  onmousedown
+Attrib name :  rel
+Attrib name :  class
+________________________________________________________________________
+Tag :  span  --- ID:  332
+***Parent :  330
+	Kids :  []
+Combined Name :  span.ob_source
+Attrib name :  class
+________________________________________________________________________
+Tag :  li  --- ID:  333
+***Parent :  328
+	Kids :  [334]
+Combined Name :  li.odb_li ob-recIdx-1  ob-even
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  334
+***Parent :  333
+	Kids :  [335, 336]
+Combined Name :  div.ob-text-content
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  335
+***Parent :  334
+	Kids :  []
+Combined Name :  a.rec-link
+Attrib name :  target
+Attrib name :  href
+Attrib name :  onmousedown
+Attrib name :  rel
+Attrib name :  class
+________________________________________________________________________
+Tag :  span  --- ID:  336
+***Parent :  334
+	Kids :  []
+Combined Name :  span.ob_source
+Attrib name :  class
+________________________________________________________________________
+Tag :  li  --- ID:  337
+***Parent :  328
+	Kids :  [338]
+Combined Name :  li.odb_li ob-recIdx-2  ob-odd
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  338
+***Parent :  337
+	Kids :  [339, 340]
+Combined Name :  div.ob-text-content
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  339
+***Parent :  338
+	Kids :  []
+Combined Name :  a.rec-link
+Attrib name :  target
+Attrib name :  href
+Attrib name :  onmousedown
+Attrib name :  rel
+Attrib name :  class
+________________________________________________________________________
+Tag :  span  --- ID:  340
+***Parent :  338
+	Kids :  []
+Combined Name :  span.ob_source
+Attrib name :  class
+________________________________________________________________________
+Tag :  li  --- ID:  341
+***Parent :  328
+	Kids :  [342]
+Combined Name :  li.odb_li ob-recIdx-3  ob-even
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  342
+***Parent :  341
+	Kids :  [343, 344]
+Combined Name :  div.ob-text-content
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  343
+***Parent :  342
+	Kids :  []
+Combined Name :  a.rec-link
+Attrib name :  target
+Attrib name :  href
+Attrib name :  onmousedown
+Attrib name :  rel
+Attrib name :  class
+________________________________________________________________________
+Tag :  span  --- ID:  344
+***Parent :  342
+	Kids :  []
+Combined Name :  span.ob_source
+Attrib name :  class
+________________________________________________________________________
+Tag :  li  --- ID:  345
+***Parent :  328
+	Kids :  [346]
+Combined Name :  li.odb_li ob-recIdx-4  ob-odd
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  346
+***Parent :  345
+	Kids :  [347, 348]
+Combined Name :  div.ob-text-content
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  347
+***Parent :  346
+	Kids :  []
+Combined Name :  a.rec-link
+Attrib name :  target
+Attrib name :  href
+Attrib name :  onmousedown
+Attrib name :  rel
+Attrib name :  class
+________________________________________________________________________
+Tag :  span  --- ID:  348
+***Parent :  346
+	Kids :  []
+Combined Name :  span.ob_source
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  349
+***Parent :  299
+	Kids :  [350]
+Combined Name :  div.ob_what
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  350
+***Parent :  349
+	Kids :  [351]
+Combined Name :  a
+Attrib name :  href
+Attrib name :  onclick
+________________________________________________________________________
+Tag :  span  --- ID:  351
+***Parent :  350
+	Kids :  []
+Combined Name :  span.ob_amelia
+Attrib name :  class
+Attrib name :  title
+________________________________________________________________________
+Tag :  div  --- ID:  352
+***Parent :  299
+	Kids :  []
+Combined Name :  div.ob_clear
+Attrib name :  class
+________________________________________________________________________
+Tag :  script  --- ID:  353
+***Parent :  297
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+Attrib name :  async
+Attrib name :  src
+________________________________________________________________________
+Tag :  div  --- ID:  354
+***Parent :  297
+	Kids :  [355, 356, 359, 361, 364, 366, 370]
+Combined Name :  div#addshare
+Attrib name :  id
+________________________________________________________________________
+Tag :  div  --- ID:  355
+***Parent :  354
+	Kids :  []
+Combined Name :  div.line1
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  356
+***Parent :  354
+	Kids :  [357]
+Combined Name :  div.fb-like fb_edge_widget_with_comment fb_iframe_widget
+Attrib name :  fb-xfbml-state
+Attrib name :  class
+Attrib name :  data-href
+Attrib name :  data-send
+Attrib name :  data-layout
+Attrib name :  data-show-faces
+Attrib name :  data-font
+________________________________________________________________________
+Tag :  span  --- ID:  357
+***Parent :  356
+	Kids :  [358]
+Combined Name :  span
+Attrib name :  style
+________________________________________________________________________
+Tag :  iframe  --- ID:  358
+***Parent :  357
+	Kids :  []
+Combined Name :  iframe.fb_ltr#fa0775946d58b2
+Attrib name :  src
+Attrib name :  class
+Attrib name :  title
+Attrib name :  style
+Attrib name :  name
+Attrib name :  id
+Attrib name :  scrolling
+________________________________________________________________________
+Tag :  div  --- ID:  359
+***Parent :  354
+	Kids :  [360]
+Combined Name :  div.twit
+Attrib name :  class
+________________________________________________________________________
+Tag :  iframe  --- ID:  360
+***Parent :  359
+	Kids :  []
+Combined Name :  iframe.twitter-share-button twitter-count-horizontal
+Attrib name :  data-twttr-rendered
+Attrib name :  title
+Attrib name :  style
+Attrib name :  class
+Attrib name :  src
+Attrib name :  allowtransparency
+Attrib name :  frameborder
+Attrib name :  scrolling
+________________________________________________________________________
+Tag :  div  --- ID:  361
+***Parent :  354
+	Kids :  [362]
+Combined Name :  div.gplus
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  362
+***Parent :  361
+	Kids :  [363]
+Combined Name :  div#___plusone_1
+Attrib name :  id
+Attrib name :  style
+________________________________________________________________________
+Tag :  iframe  --- ID:  363
+***Parent :  362
+	Kids :  []
+Combined Name :  iframe#I3_1379182089771
+Attrib name :  title
+Attrib name :  data-gapiattached
+Attrib name :  src
+Attrib name :  name
+Attrib name :  id
+Attrib name :  vspace
+Attrib name :  tabindex
+Attrib name :  style
+Attrib name :  marginwidth
+Attrib name :  marginheight
+Attrib name :  hspace
+Attrib name :  frameborder
+Attrib name :  scrolling
+Attrib name :  width
+________________________________________________________________________
+Tag :  div  --- ID:  364
+***Parent :  354
+	Kids :  [365]
+Combined Name :  div.twit1
+Attrib name :  class
+________________________________________________________________________
+Tag :  script  --- ID:  365
+***Parent :  364
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+________________________________________________________________________
+Tag :  div  --- ID:  366
+***Parent :  354
+	Kids :  [367]
+Combined Name :  div.pin
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  367
+***Parent :  366
+	Kids :  [368]
+Combined Name :  a.PIN_1379182088843_pin_it_button PIN_1379182088843_pin_it_button_inline PIN_1379182088843_pin_it_beside
+Attrib name :  data-pin-config
+Attrib name :  data-pin-log
+Attrib name :  target
+Attrib name :  class
+Attrib name :  href
+________________________________________________________________________
+Tag :  span  --- ID:  368
+***Parent :  367
+	Kids :  [369]
+Combined Name :  span#PIN_1379182088843_pin_count_1.PIN_1379182088843_hidden
+Attrib name :  id
+Attrib name :  class
+________________________________________________________________________
+Tag :  i  --- ID:  369
+***Parent :  368
+	Kids :  []
+Combined Name :  i
+________________________________________________________________________
+Tag :  div  --- ID:  370
+***Parent :  354
+	Kids :  [371]
+Combined Name :  div.twit1
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  371
+***Parent :  370
+	Kids :  [372, 374]
+Combined Name :  a.addthis_counter addthis_pill_style
+Attrib name :  style
+Attrib name :  href
+Attrib name :  class
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  372
+***Parent :  371
+	Kids :  [373]
+Combined Name :  a.atc_s addthis_button_compact
+Attrib name :  class
+________________________________________________________________________
+Tag :  span  --- ID:  373
+***Parent :  372
+	Kids :  []
+Combined Name :  span
+________________________________________________________________________
+Tag :  a  --- ID:  374
+***Parent :  371
+	Kids :  []
+Combined Name :  a.addthis_button_expanded
+Attrib name :  href
+Attrib name :  title
+Attrib name :  target
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  375
+***Parent :  297
+	Kids :  []
+Combined Name :  div.line2
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  376
+***Parent :  229
+	Kids :  []
+Combined Name :  div.noline
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  377
+***Parent :  213
+	Kids :  [378, 379, 380, 381, 383, 384]
+Combined Name :  div#vuukle_env
+Attrib name :  id
+________________________________________________________________________
+Tag :  a  --- ID:  378
+***Parent :  377
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  a  --- ID:  379
+***Parent :  377
+	Kids :  []
+Combined Name :  a
+Attrib name :  name
+________________________________________________________________________
+Tag :  b  --- ID:  380
+***Parent :  377
+	Kids :  []
+Combined Name :  b
+________________________________________________________________________
+Tag :  div  --- ID:  381
+***Parent :  377
+	Kids :  [382]
+Combined Name :  div#vuukle_div
+Attrib name :  id
+________________________________________________________________________
+Tag :  iframe  --- ID:  382
+***Parent :  381
+	Kids :  []
+Combined Name :  iframe#vuukle_proxy
+Attrib name :  id
+Attrib name :  name
+Attrib name :  style
+Attrib name :  src
+Attrib name :  frameborder
+Attrib name :  scrolling
+________________________________________________________________________
+Tag :  script  --- ID:  383
+***Parent :  377
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+________________________________________________________________________
+Tag :  div  --- ID:  384
+***Parent :  377
+	Kids :  [385, 387, 388, 389, 390, 391, 392, 393]
+Combined Name :  div
+Attrib name :  style
+________________________________________________________________________
+Tag :  span  --- ID:  385
+***Parent :  384
+	Kids :  [386]
+Combined Name :  span
+Attrib name :  style
+________________________________________________________________________
+Tag :  br  --- ID:  386
+***Parent :  385
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  br  --- ID:  387
+***Parent :  384
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  br  --- ID:  388
+***Parent :  384
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  br  --- ID:  389
+***Parent :  384
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  br  --- ID:  390
+***Parent :  384
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  br  --- ID:  391
+***Parent :  384
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  br  --- ID:  392
+***Parent :  384
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  br  --- ID:  393
+***Parent :  384
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  div  --- ID:  394
+***Parent :  213
+	Kids :  []
+Combined Name :  div.noline
+Attrib name :  class
+________________________________________________________________________
+Tag :  script  --- ID:  395
+***Parent :  213
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+________________________________________________________________________
+Tag :  script  --- ID:  396
+***Parent :  213
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+________________________________________________________________________
+Tag :  script  --- ID:  397
+***Parent :  213
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  398
+***Parent :  213
+	Kids :  []
+Combined Name :  script
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  399
+***Parent :  213
+	Kids :  []
+Combined Name :  script
+________________________________________________________________________
+Tag :  script  --- ID:  400
+***Parent :  213
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  div  --- ID:  401
+***Parent :  213
+	Kids :  [402]
+Combined Name :  div.ad_below_label
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  402
+***Parent :  401
+	Kids :  []
+Combined Name :  a.ad_below_attribution
+Attrib name :  class
+Attrib name :  href
+Attrib name :  target
+________________________________________________________________________
+Tag :  div  --- ID:  403
+***Parent :  213
+	Kids :  [404, 405, 406, 407, 408, 409]
+Combined Name :  div.ad_below_background
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  404
+***Parent :  403
+	Kids :  []
+Combined Name :  a.ad_below_title
+Attrib name :  class
+Attrib name :  href
+Attrib name :  target
+________________________________________________________________________
+Tag :  br  --- ID:  405
+***Parent :  403
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  span  --- ID:  406
+***Parent :  403
+	Kids :  []
+Combined Name :  span.ad_below_text
+Attrib name :  class
+________________________________________________________________________
+Tag :  br  --- ID:  407
+***Parent :  403
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  a  --- ID:  408
+***Parent :  403
+	Kids :  []
+Combined Name :  a.ad_below_url
+Attrib name :  class
+Attrib name :  href
+Attrib name :  target
+________________________________________________________________________
+Tag :  br  --- ID:  409
+***Parent :  403
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  div  --- ID:  410
+***Parent :  213
+	Kids :  [411, 412, 413, 414, 415, 416]
+Combined Name :  div.ad_below_background
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  411
+***Parent :  410
+	Kids :  []
+Combined Name :  a.ad_below_title
+Attrib name :  class
+Attrib name :  href
+Attrib name :  target
+________________________________________________________________________
+Tag :  br  --- ID:  412
+***Parent :  410
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  span  --- ID:  413
+***Parent :  410
+	Kids :  []
+Combined Name :  span.ad_below_text
+Attrib name :  class
+________________________________________________________________________
+Tag :  br  --- ID:  414
+***Parent :  410
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  a  --- ID:  415
+***Parent :  410
+	Kids :  []
+Combined Name :  a.ad_below_url
+Attrib name :  class
+Attrib name :  href
+Attrib name :  target
+________________________________________________________________________
+Tag :  br  --- ID:  416
+***Parent :  410
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  div  --- ID:  417
+***Parent :  213
+	Kids :  []
+Combined Name :  div.noline
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  418
+***Parent :  213
+	Kids :  []
+Combined Name :  div.line
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  419
+***Parent :  213
+	Kids :  []
+Combined Name :  div.line
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  420
+***Parent :  169
+	Kids :  []
+Combined Name :  div.rightborder
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  421
+***Parent :  169
+	Kids :  [422]
+Combined Name :  div#right-column
+Attrib name :  id
+________________________________________________________________________
+Tag :  div  --- ID:  422
+***Parent :  421
+	Kids :  [423, 424, 425, 426, 427, 428]
+Combined Name :  div#ad1.right-tout
+Attrib name :  id
+Attrib name :  class
+________________________________________________________________________
+Tag :  script  --- ID:  423
+***Parent :  422
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+________________________________________________________________________
+Tag :  script  --- ID:  424
+***Parent :  422
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  425
+***Parent :  422
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  426
+***Parent :  422
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  span  --- ID:  427
+***Parent :  422
+	Kids :  []
+Combined Name :  span#Zedo-Ad=1687807_58_2_300_250;Domain=.zedo.com
+Attrib name :  id
+________________________________________________________________________
+Tag :  object  --- ID:  428
+***Parent :  422
+	Kids :  [429]
+Combined Name :  object
+Attrib name :  classid
+Attrib name :  codebase
+Attrib name :  height
+Attrib name :  width
+________________________________________________________________________
+Tag :  param  --- ID:  429
+***Parent :  428
+	Kids :  [430, 714, 731, 732]
+Combined Name :  param
+Attrib name :  name
+Attrib name :  value
+________________________________________________________________________
+Tag :  param  --- ID:  430
+***Parent :  429
+	Kids :  [431, 645, 646, 647, 648, 653, 662, 663, 664, 702, 703, 704, 705, 706, 708, 709, 710, 711]
+Combined Name :  param
+Attrib name :  name
+Attrib name :  value
+________________________________________________________________________
+Tag :  param  --- ID:  431
+***Parent :  430
+	Kids :  [432, 644]
+Combined Name :  param
+Attrib name :  name
+Attrib name :  value
+________________________________________________________________________
+Tag :  param  --- ID:  432
+***Parent :  431
+	Kids :  [433, 435, 442, 449, 457, 464, 475, 477, 479, 481, 483, 485, 487, 489, 491, 493, 495, 497, 499, 501, 503, 505, 507, 509, 511, 513, 515, 516, 520, 521, 523, 563, 565, 598, 599, 610, 629, 633]
+Combined Name :  param
+Attrib name :  name
+Attrib name :  value
+________________________________________________________________________
+Tag :  param  --- ID:  433
+***Parent :  432
+	Kids :  [434]
+Combined Name :  param
+Attrib name :  name
+Attrib name :  value
+________________________________________________________________________
+Tag :  embed  --- ID:  434
+***Parent :  433
+	Kids :  []
+Combined Name :  embed
+Attrib name :  quality
+Attrib name :  allowscriptaccess
+Attrib name :  wmode
+Attrib name :  type
+Attrib name :  pluginspage
+Attrib name :  src
+Attrib name :  flashvars
+Attrib name :  height
+Attrib name :  width
+________________________________________________________________________
+Tag :  div  --- ID:  435
+***Parent :  432
+	Kids :  [436, 437, 438, 439, 440, 441]
+Combined Name :  div#ad1.right-tout
+Attrib name :  id
+Attrib name :  class
+________________________________________________________________________
+Tag :  script  --- ID:  436
+***Parent :  435
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+________________________________________________________________________
+Tag :  script  --- ID:  437
+***Parent :  435
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  438
+***Parent :  435
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  439
+***Parent :  435
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  span  --- ID:  440
+***Parent :  435
+	Kids :  []
+Combined Name :  span#Zedo-Ad=1393180_74_2_300_250;Domain=.zedo.com
+Attrib name :  id
+________________________________________________________________________
+Tag :  iframe  --- ID:  441
+***Parent :  435
+	Kids :  []
+Combined Name :  iframe#zzblankad
+Attrib name :  style
+Attrib name :  id
+Attrib name :  height
+Attrib name :  width
+________________________________________________________________________
+Tag :  div  --- ID:  442
+***Parent :  432
+	Kids :  [443, 444, 445, 446, 447, 448]
+Combined Name :  div#ad1.right-tout
+Attrib name :  id
+Attrib name :  class
+________________________________________________________________________
+Tag :  script  --- ID:  443
+***Parent :  442
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+________________________________________________________________________
+Tag :  script  --- ID:  444
+***Parent :  442
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  445
+***Parent :  442
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  446
+***Parent :  442
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  span  --- ID:  447
+***Parent :  442
+	Kids :  []
+Combined Name :  span#Zedo-Ad=1393180_122_0_300_250;Domain=.zedo.com
+Attrib name :  id
+________________________________________________________________________
+Tag :  iframe  --- ID:  448
+***Parent :  442
+	Kids :  []
+Combined Name :  iframe#zzblankad
+Attrib name :  style
+Attrib name :  id
+Attrib name :  height
+Attrib name :  width
+________________________________________________________________________
+Tag :  div  --- ID:  449
+***Parent :  432
+	Kids :  [450]
+Combined Name :  div#ad1.right-tout
+Attrib name :  id
+Attrib name :  class
+________________________________________________________________________
+Tag :  center  --- ID:  450
+***Parent :  449
+	Kids :  [451, 452, 453, 454, 455, 456]
+Combined Name :  center
+________________________________________________________________________
+Tag :  script  --- ID:  451
+***Parent :  450
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+________________________________________________________________________
+Tag :  script  --- ID:  452
+***Parent :  450
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  453
+***Parent :  450
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  454
+***Parent :  450
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  span  --- ID:  455
+***Parent :  450
+	Kids :  []
+Combined Name :  span#Zedo-Ad=1393180_61_2_300_250;Domain=.zedo.com
+Attrib name :  id
+________________________________________________________________________
+Tag :  iframe  --- ID:  456
+***Parent :  450
+	Kids :  []
+Combined Name :  iframe#zzblankad
+Attrib name :  style
+Attrib name :  id
+Attrib name :  height
+Attrib name :  width
+________________________________________________________________________
+Tag :  div  --- ID:  457
+***Parent :  432
+	Kids :  [458, 459, 460, 461, 462, 463]
+Combined Name :  div#ad1.right-tout
+Attrib name :  id
+Attrib name :  class
+________________________________________________________________________
+Tag :  script  --- ID:  458
+***Parent :  457
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+________________________________________________________________________
+Tag :  script  --- ID:  459
+***Parent :  457
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  460
+***Parent :  457
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  461
+***Parent :  457
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  span  --- ID:  462
+***Parent :  457
+	Kids :  []
+Combined Name :  span#Zedo-Ad=1393180_71_2_300_250;Domain=.zedo.com
+Attrib name :  id
+________________________________________________________________________
+Tag :  iframe  --- ID:  463
+***Parent :  457
+	Kids :  []
+Combined Name :  iframe#zzblankad
+Attrib name :  style
+Attrib name :  id
+Attrib name :  height
+Attrib name :  width
+________________________________________________________________________
+Tag :  div  --- ID:  464
+***Parent :  432
+	Kids :  [465, 466, 467, 468, 469, 470, 471, 473]
+Combined Name :  div#ad1.right-tout
+Attrib name :  id
+Attrib name :  class
+________________________________________________________________________
+Tag :  script  --- ID:  465
+***Parent :  464
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+________________________________________________________________________
+Tag :  script  --- ID:  466
+***Parent :  464
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+________________________________________________________________________
+Tag :  script  --- ID:  467
+***Parent :  464
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  468
+***Parent :  464
+	Kids :  []
+Combined Name :  script
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  469
+***Parent :  464
+	Kids :  []
+Combined Name :  script
+________________________________________________________________________
+Tag :  script  --- ID:  470
+***Parent :  464
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  div  --- ID:  471
+***Parent :  464
+	Kids :  [472]
+Combined Name :  div.ad_label
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  472
+***Parent :  471
+	Kids :  []
+Combined Name :  a.ad_attribution
+Attrib name :  class
+Attrib name :  href
+________________________________________________________________________
+Tag :  a  --- ID:  473
+***Parent :  464
+	Kids :  [474]
+Combined Name :  a
+Attrib name :  href
+Attrib name :  target
+Attrib name :  title
+________________________________________________________________________
+Tag :  img  --- ID:  474
+***Parent :  473
+	Kids :  []
+Combined Name :  img
+Attrib name :  src
+Attrib name :  height
+Attrib name :  width
+Attrib name :  border
+________________________________________________________________________
+Tag :  div  --- ID:  475
+***Parent :  432
+	Kids :  [476]
+Combined Name :  div.breakingNews_link
+Attrib name :  class
+________________________________________________________________________
+Tag :  h2  --- ID:  476
+***Parent :  475
+	Kids :  []
+Combined Name :  h2
+________________________________________________________________________
+Tag :  a  --- ID:  477
+***Parent :  432
+	Kids :  [478]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  h4  --- ID:  478
+***Parent :  477
+	Kids :  []
+Combined Name :  h4
+________________________________________________________________________
+Tag :  a  --- ID:  479
+***Parent :  432
+	Kids :  [480]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  h4  --- ID:  480
+***Parent :  479
+	Kids :  []
+Combined Name :  h4
+________________________________________________________________________
+Tag :  a  --- ID:  481
+***Parent :  432
+	Kids :  [482]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  h4  --- ID:  482
+***Parent :  481
+	Kids :  []
+Combined Name :  h4
+________________________________________________________________________
+Tag :  a  --- ID:  483
+***Parent :  432
+	Kids :  [484]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  h4  --- ID:  484
+***Parent :  483
+	Kids :  []
+Combined Name :  h4
+________________________________________________________________________
+Tag :  a  --- ID:  485
+***Parent :  432
+	Kids :  [486]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  h4  --- ID:  486
+***Parent :  485
+	Kids :  []
+Combined Name :  h4
+________________________________________________________________________
+Tag :  a  --- ID:  487
+***Parent :  432
+	Kids :  [488]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  h4  --- ID:  488
+***Parent :  487
+	Kids :  []
+Combined Name :  h4
+________________________________________________________________________
+Tag :  a  --- ID:  489
+***Parent :  432
+	Kids :  [490]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  h4  --- ID:  490
+***Parent :  489
+	Kids :  []
+Combined Name :  h4
+________________________________________________________________________
+Tag :  a  --- ID:  491
+***Parent :  432
+	Kids :  [492]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  h4  --- ID:  492
+***Parent :  491
+	Kids :  []
+Combined Name :  h4
+________________________________________________________________________
+Tag :  a  --- ID:  493
+***Parent :  432
+	Kids :  [494]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  h4  --- ID:  494
+***Parent :  493
+	Kids :  []
+Combined Name :  h4
+________________________________________________________________________
+Tag :  a  --- ID:  495
+***Parent :  432
+	Kids :  [496]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  h4  --- ID:  496
+***Parent :  495
+	Kids :  []
+Combined Name :  h4
+________________________________________________________________________
+Tag :  a  --- ID:  497
+***Parent :  432
+	Kids :  [498]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  h4  --- ID:  498
+***Parent :  497
+	Kids :  []
+Combined Name :  h4
+________________________________________________________________________
+Tag :  a  --- ID:  499
+***Parent :  432
+	Kids :  [500]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  h4  --- ID:  500
+***Parent :  499
+	Kids :  []
+Combined Name :  h4
+________________________________________________________________________
+Tag :  a  --- ID:  501
+***Parent :  432
+	Kids :  [502]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  h4  --- ID:  502
+***Parent :  501
+	Kids :  []
+Combined Name :  h4
+________________________________________________________________________
+Tag :  a  --- ID:  503
+***Parent :  432
+	Kids :  [504]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  h4  --- ID:  504
+***Parent :  503
+	Kids :  []
+Combined Name :  h4
+________________________________________________________________________
+Tag :  a  --- ID:  505
+***Parent :  432
+	Kids :  [506]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  h4  --- ID:  506
+***Parent :  505
+	Kids :  []
+Combined Name :  h4
+________________________________________________________________________
+Tag :  a  --- ID:  507
+***Parent :  432
+	Kids :  [508]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  h4  --- ID:  508
+***Parent :  507
+	Kids :  []
+Combined Name :  h4
+________________________________________________________________________
+Tag :  a  --- ID:  509
+***Parent :  432
+	Kids :  [510]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  h4  --- ID:  510
+***Parent :  509
+	Kids :  []
+Combined Name :  h4
+________________________________________________________________________
+Tag :  a  --- ID:  511
+***Parent :  432
+	Kids :  [512]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  h4  --- ID:  512
+***Parent :  511
+	Kids :  []
+Combined Name :  h4
+________________________________________________________________________
+Tag :  a  --- ID:  513
+***Parent :  432
+	Kids :  [514]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  h4  --- ID:  514
+***Parent :  513
+	Kids :  []
+Combined Name :  h4
+________________________________________________________________________
+Tag :  div  --- ID:  515
+***Parent :  432
+	Kids :  []
+Combined Name :  div.noline
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  516
+***Parent :  432
+	Kids :  [517]
+Combined Name :  div#ad1.right-tout
+Attrib name :  id
+Attrib name :  class
+________________________________________________________________________
+Tag :  center  --- ID:  517
+***Parent :  516
+	Kids :  [518]
+Combined Name :  center
+________________________________________________________________________
+Tag :  a  --- ID:  518
+***Parent :  517
+	Kids :  [519]
+Combined Name :  a
+Attrib name :  href
+Attrib name :  target
+________________________________________________________________________
+Tag :  img  --- ID:  519
+***Parent :  518
+	Kids :  []
+Combined Name :  img
+Attrib name :  src
+Attrib name :  alt
+Attrib name :  title
+________________________________________________________________________
+Tag :  div  --- ID:  520
+***Parent :  432
+	Kids :  []
+Combined Name :  div.articlespace
+Attrib name :  class
+________________________________________________________________________
+Tag :  h3  --- ID:  521
+***Parent :  432
+	Kids :  [522]
+Combined Name :  h3.breaking-link
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  522
+***Parent :  521
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  div  --- ID:  523
+***Parent :  432
+	Kids :  [524]
+Combined Name :  div.right-tout headlines
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  524
+***Parent :  523
+	Kids :  [525, 562]
+Combined Name :  div
+________________________________________________________________________
+Tag :  ul  --- ID:  525
+***Parent :  524
+	Kids :  [526, 528, 530, 532, 534, 536, 538, 540, 542, 544, 546, 548, 550, 552, 554, 556, 558, 560]
+Combined Name :  ul
+________________________________________________________________________
+Tag :  h3  --- ID:  526
+***Parent :  525
+	Kids :  [527]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  527
+***Parent :  526
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  target
+________________________________________________________________________
+Tag :  h3  --- ID:  528
+***Parent :  525
+	Kids :  [529]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  529
+***Parent :  528
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  target
+________________________________________________________________________
+Tag :  h3  --- ID:  530
+***Parent :  525
+	Kids :  [531]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  531
+***Parent :  530
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  target
+________________________________________________________________________
+Tag :  h3  --- ID:  532
+***Parent :  525
+	Kids :  [533]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  533
+***Parent :  532
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  target
+________________________________________________________________________
+Tag :  h3  --- ID:  534
+***Parent :  525
+	Kids :  [535]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  535
+***Parent :  534
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  target
+________________________________________________________________________
+Tag :  h3  --- ID:  536
+***Parent :  525
+	Kids :  [537]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  537
+***Parent :  536
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  target
+________________________________________________________________________
+Tag :  h3  --- ID:  538
+***Parent :  525
+	Kids :  [539]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  539
+***Parent :  538
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  target
+________________________________________________________________________
+Tag :  h3  --- ID:  540
+***Parent :  525
+	Kids :  [541]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  541
+***Parent :  540
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  target
+________________________________________________________________________
+Tag :  h3  --- ID:  542
+***Parent :  525
+	Kids :  [543]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  543
+***Parent :  542
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  target
+________________________________________________________________________
+Tag :  h3  --- ID:  544
+***Parent :  525
+	Kids :  [545]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  545
+***Parent :  544
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  target
+________________________________________________________________________
+Tag :  h3  --- ID:  546
+***Parent :  525
+	Kids :  [547]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  547
+***Parent :  546
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  target
+________________________________________________________________________
+Tag :  h3  --- ID:  548
+***Parent :  525
+	Kids :  [549]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  549
+***Parent :  548
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  target
+________________________________________________________________________
+Tag :  h3  --- ID:  550
+***Parent :  525
+	Kids :  [551]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  551
+***Parent :  550
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  target
+________________________________________________________________________
+Tag :  h3  --- ID:  552
+***Parent :  525
+	Kids :  [553]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  553
+***Parent :  552
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  target
+________________________________________________________________________
+Tag :  h3  --- ID:  554
+***Parent :  525
+	Kids :  [555]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  555
+***Parent :  554
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  target
+________________________________________________________________________
+Tag :  h3  --- ID:  556
+***Parent :  525
+	Kids :  [557]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  557
+***Parent :  556
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  target
+________________________________________________________________________
+Tag :  h3  --- ID:  558
+***Parent :  525
+	Kids :  [559]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  559
+***Parent :  558
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  target
+________________________________________________________________________
+Tag :  h3  --- ID:  560
+***Parent :  525
+	Kids :  [561]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  561
+***Parent :  560
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  target
+________________________________________________________________________
+Tag :  ul  --- ID:  562
+***Parent :  524
+	Kids :  []
+Combined Name :  ul
+________________________________________________________________________
+Tag :  div  --- ID:  563
+***Parent :  432
+	Kids :  [564]
+Combined Name :  div#ad1.right-tout
+Attrib name :  id
+Attrib name :  class
+________________________________________________________________________
+Tag :  iframe  --- ID:  564
+***Parent :  563
+	Kids :  []
+Combined Name :  iframe
+Attrib name :  src
+Attrib name :  frameborder
+Attrib name :  height
+Attrib name :  scrolling
+Attrib name :  width
+________________________________________________________________________
+Tag :  div  --- ID:  565
+***Parent :  432
+	Kids :  [566, 570, 591]
+Combined Name :  div#most-tab
+Attrib name :  id
+________________________________________________________________________
+Tag :  div  --- ID:  566
+***Parent :  565
+	Kids :  [567, 568, 569]
+Combined Name :  div#most-tab-header.tab-header
+Attrib name :  id
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  567
+***Parent :  566
+	Kids :  []
+Combined Name :  a.tabhead active#th1
+Attrib name :  class
+Attrib name :  id
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  568
+***Parent :  566
+	Kids :  []
+Combined Name :  a.tabhead#th2
+Attrib name :  class
+Attrib name :  id
+Attrib name :  title
+________________________________________________________________________
+Tag :  div  --- ID:  569
+***Parent :  566
+	Kids :  []
+Combined Name :  div.clear
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  570
+***Parent :  565
+	Kids :  [571, 573, 575, 577, 579, 581, 583, 585, 587, 589]
+Combined Name :  div.tab1 tab
+Attrib name :  style
+Attrib name :  class
+________________________________________________________________________
+Tag :  h3  --- ID:  571
+***Parent :  570
+	Kids :  [572]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  572
+***Parent :  571
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  alt
+________________________________________________________________________
+Tag :  h3  --- ID:  573
+***Parent :  570
+	Kids :  [574]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  574
+***Parent :  573
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  alt
+________________________________________________________________________
+Tag :  h3  --- ID:  575
+***Parent :  570
+	Kids :  [576]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  576
+***Parent :  575
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  alt
+________________________________________________________________________
+Tag :  h3  --- ID:  577
+***Parent :  570
+	Kids :  [578]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  578
+***Parent :  577
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  alt
+________________________________________________________________________
+Tag :  h3  --- ID:  579
+***Parent :  570
+	Kids :  [580]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  580
+***Parent :  579
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  alt
+________________________________________________________________________
+Tag :  h3  --- ID:  581
+***Parent :  570
+	Kids :  [582]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  582
+***Parent :  581
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  alt
+________________________________________________________________________
+Tag :  h3  --- ID:  583
+***Parent :  570
+	Kids :  [584]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  584
+***Parent :  583
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  alt
+________________________________________________________________________
+Tag :  h3  --- ID:  585
+***Parent :  570
+	Kids :  [586]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  586
+***Parent :  585
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  alt
+________________________________________________________________________
+Tag :  h3  --- ID:  587
+***Parent :  570
+	Kids :  [588]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  588
+***Parent :  587
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  alt
+________________________________________________________________________
+Tag :  h3  --- ID:  589
+***Parent :  570
+	Kids :  [590]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  590
+***Parent :  589
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  alt
+________________________________________________________________________
+Tag :  div  --- ID:  591
+***Parent :  565
+	Kids :  [592, 597]
+Combined Name :  div.tab2 tab
+Attrib name :  style
+Attrib name :  class
+________________________________________________________________________
+Tag :  span  --- ID:  592
+***Parent :  591
+	Kids :  [593]
+Combined Name :  span#mostcom
+Attrib name :  id
+________________________________________________________________________
+Tag :  h3  --- ID:  593
+***Parent :  592
+	Kids :  [594]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  div  --- ID:  594
+***Parent :  593
+	Kids :  [595, 596]
+Combined Name :  div.commentspan
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  595
+***Parent :  594
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  span  --- ID:  596
+***Parent :  594
+	Kids :  []
+Combined Name :  span.mostCount
+Attrib name :  class
+________________________________________________________________________
+Tag :  script  --- ID:  597
+***Parent :  591
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+________________________________________________________________________
+Tag :  br  --- ID:  598
+***Parent :  432
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  div  --- ID:  599
+***Parent :  432
+	Kids :  [600, 601, 602, 603, 604, 605, 606, 608]
+Combined Name :  div#ad1.right-tout
+Attrib name :  id
+Attrib name :  class
+________________________________________________________________________
+Tag :  script  --- ID:  600
+***Parent :  599
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+________________________________________________________________________
+Tag :  script  --- ID:  601
+***Parent :  599
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+________________________________________________________________________
+Tag :  script  --- ID:  602
+***Parent :  599
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  603
+***Parent :  599
+	Kids :  []
+Combined Name :  script
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  604
+***Parent :  599
+	Kids :  []
+Combined Name :  script
+________________________________________________________________________
+Tag :  script  --- ID:  605
+***Parent :  599
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  div  --- ID:  606
+***Parent :  599
+	Kids :  [607]
+Combined Name :  div.ad_label
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  607
+***Parent :  606
+	Kids :  []
+Combined Name :  a.ad_attribution
+Attrib name :  class
+Attrib name :  href
+________________________________________________________________________
+Tag :  a  --- ID:  608
+***Parent :  599
+	Kids :  [609]
+Combined Name :  a
+Attrib name :  href
+Attrib name :  target
+Attrib name :  title
+________________________________________________________________________
+Tag :  img  --- ID:  609
+***Parent :  608
+	Kids :  []
+Combined Name :  img
+Attrib name :  src
+Attrib name :  height
+Attrib name :  width
+Attrib name :  border
+________________________________________________________________________
+Tag :  div  --- ID:  610
+***Parent :  432
+	Kids :  [611, 613, 628]
+Combined Name :  div.bk-colour
+Attrib name :  class
+________________________________________________________________________
+Tag :  h3  --- ID:  611
+***Parent :  610
+	Kids :  [612]
+Combined Name :  h3.breaking-link
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  612
+***Parent :  611
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  div  --- ID:  613
+***Parent :  610
+	Kids :  [614, 617, 620, 623, 626]
+Combined Name :  div.breakingNews_list
+Attrib name :  class
+________________________________________________________________________
+Tag :  h3  --- ID:  614
+***Parent :  613
+	Kids :  [615, 616]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  615
+***Parent :  614
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  alt
+________________________________________________________________________
+Tag :  span  --- ID:  616
+***Parent :  614
+	Kids :  []
+Combined Name :  span.ns_timestamp
+Attrib name :  class
+________________________________________________________________________
+Tag :  h3  --- ID:  617
+***Parent :  613
+	Kids :  [618, 619]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  618
+***Parent :  617
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  alt
+________________________________________________________________________
+Tag :  span  --- ID:  619
+***Parent :  617
+	Kids :  []
+Combined Name :  span.ns_timestamp
+Attrib name :  class
+________________________________________________________________________
+Tag :  h3  --- ID:  620
+***Parent :  613
+	Kids :  [621, 622]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  621
+***Parent :  620
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  alt
+________________________________________________________________________
+Tag :  span  --- ID:  622
+***Parent :  620
+	Kids :  []
+Combined Name :  span.ns_timestamp
+Attrib name :  class
+________________________________________________________________________
+Tag :  h3  --- ID:  623
+***Parent :  613
+	Kids :  [624, 625]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  624
+***Parent :  623
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  alt
+________________________________________________________________________
+Tag :  span  --- ID:  625
+***Parent :  623
+	Kids :  []
+Combined Name :  span.ns_timestamp
+Attrib name :  class
+________________________________________________________________________
+Tag :  h3  --- ID:  626
+***Parent :  613
+	Kids :  [627]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  627
+***Parent :  626
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+Attrib name :  alt
+________________________________________________________________________
+Tag :  a  --- ID:  628
+***Parent :  610
+	Kids :  []
+Combined Name :  a.block-more
+Attrib name :  href
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  629
+***Parent :  432
+	Kids :  [630]
+Combined Name :  div#ad1.right-tout
+Attrib name :  id
+Attrib name :  class
+________________________________________________________________________
+Tag :  center  --- ID:  630
+***Parent :  629
+	Kids :  [631]
+Combined Name :  center
+________________________________________________________________________
+Tag :  a  --- ID:  631
+***Parent :  630
+	Kids :  [632]
+Combined Name :  a
+Attrib name :  href
+Attrib name :  target
+________________________________________________________________________
+Tag :  img  --- ID:  632
+***Parent :  631
+	Kids :  []
+Combined Name :  img
+Attrib name :  src
+Attrib name :  alt
+Attrib name :  title
+________________________________________________________________________
+Tag :  div  --- ID:  633
+***Parent :  432
+	Kids :  [634, 635, 636, 637, 638, 639, 640, 642]
+Combined Name :  div#ad1.right-tout
+Attrib name :  id
+Attrib name :  class
+________________________________________________________________________
+Tag :  script  --- ID:  634
+***Parent :  633
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+________________________________________________________________________
+Tag :  script  --- ID:  635
+***Parent :  633
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+________________________________________________________________________
+Tag :  script  --- ID:  636
+***Parent :  633
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  637
+***Parent :  633
+	Kids :  []
+Combined Name :  script
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  638
+***Parent :  633
+	Kids :  []
+Combined Name :  script
+________________________________________________________________________
+Tag :  script  --- ID:  639
+***Parent :  633
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  div  --- ID:  640
+***Parent :  633
+	Kids :  [641]
+Combined Name :  div.ad_label
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  641
+***Parent :  640
+	Kids :  []
+Combined Name :  a.ad_attribution
+Attrib name :  class
+Attrib name :  href
+________________________________________________________________________
+Tag :  a  --- ID:  642
+***Parent :  633
+	Kids :  [643]
+Combined Name :  a
+Attrib name :  href
+Attrib name :  target
+Attrib name :  title
+________________________________________________________________________
+Tag :  img  --- ID:  643
+***Parent :  642
+	Kids :  []
+Combined Name :  img
+Attrib name :  src
+Attrib name :  height
+Attrib name :  width
+Attrib name :  border
+________________________________________________________________________
+Tag :  div  --- ID:  644
+***Parent :  431
+	Kids :  []
+Combined Name :  div.noline
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  645
+***Parent :  430
+	Kids :  []
+Combined Name :  div.noline
+Attrib name :  class
+________________________________________________________________________
+Tag :  script  --- ID:  646
+***Parent :  430
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+________________________________________________________________________
+Tag :  br  --- ID:  647
+***Parent :  430
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  div  --- ID:  648
+***Parent :  430
+	Kids :  [649]
+Combined Name :  div#topover
+Attrib name :  id
+________________________________________________________________________
+Tag :  p  --- ID:  649
+***Parent :  648
+	Kids :  [650, 651, 652]
+Combined Name :  p
+________________________________________________________________________
+Tag :  br  --- ID:  650
+***Parent :  649
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  br  --- ID:  651
+***Parent :  649
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  br  --- ID:  652
+***Parent :  649
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  div  --- ID:  653
+***Parent :  430
+	Kids :  [654, 655, 656]
+Combined Name :  div#slidebox
+Attrib name :  id
+________________________________________________________________________
+Tag :  a  --- ID:  654
+***Parent :  653
+	Kids :  []
+Combined Name :  a.close
+Attrib name :  class
+________________________________________________________________________
+Tag :  h4  --- ID:  655
+***Parent :  653
+	Kids :  []
+Combined Name :  h4
+________________________________________________________________________
+Tag :  div  --- ID:  656
+***Parent :  653
+	Kids :  [657, 659]
+Combined Name :  div.slide-headlines
+Attrib name :  class
+________________________________________________________________________
+Tag :  h3  --- ID:  657
+***Parent :  656
+	Kids :  [658]
+Combined Name :  h3
+________________________________________________________________________
+Tag :  a  --- ID:  658
+***Parent :  657
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  div  --- ID:  659
+***Parent :  656
+	Kids :  [660]
+Combined Name :  div.sl-lead
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  660
+***Parent :  659
+	Kids :  [661]
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  span  --- ID:  661
+***Parent :  660
+	Kids :  []
+Combined Name :  span.arrows
+Attrib name :  class
+________________________________________________________________________
+Tag :  script  --- ID:  662
+***Parent :  430
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+________________________________________________________________________
+Tag :  br  --- ID:  663
+***Parent :  430
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  div  --- ID:  664
+***Parent :  430
+	Kids :  [665, 700, 701]
+Combined Name :  div.footercol
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  665
+***Parent :  664
+	Kids :  [666, 667, 668, 669, 670, 671, 672, 673, 674, 675, 676, 677, 678, 679, 680, 681, 682, 683, 684, 685, 686, 687, 688, 689, 690, 691, 692, 693, 694, 695, 696, 697, 698, 699]
+Combined Name :  div.footerbold
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  666
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  667
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  668
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  669
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  670
+***Parent :  665
+	Kids :  []
+Combined Name :  a.active
+Attrib name :  href
+Attrib name :  title
+Attrib name :  class
+________________________________________________________________________
+Tag :  a  --- ID:  671
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  672
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  673
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  674
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  675
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  676
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  677
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  br  --- ID:  678
+***Parent :  665
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  a  --- ID:  679
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  680
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  681
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  682
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  683
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  684
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  685
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  686
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  687
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  target
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  688
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  689
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  690
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  target
+Attrib name :  title
+________________________________________________________________________
+Tag :  br  --- ID:  691
+***Parent :  665
+	Kids :  []
+Combined Name :  br
+________________________________________________________________________
+Tag :  a  --- ID:  692
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  target
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  693
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  target
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  694
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  target
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  695
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  target
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  696
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  target
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  697
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  target
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  698
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  target
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  699
+***Parent :  665
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+Attrib name :  target
+Attrib name :  title
+________________________________________________________________________
+Tag :  a  --- ID:  700
+***Parent :  664
+	Kids :  []
+Combined Name :  a
+Attrib name :  href
+________________________________________________________________________
+Tag :  i  --- ID:  701
+***Parent :  664
+	Kids :  []
+Combined Name :  i
+________________________________________________________________________
+Tag :  script  --- ID:  702
+***Parent :  430
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+________________________________________________________________________
+Tag :  script  --- ID:  703
+***Parent :  430
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  704
+***Parent :  430
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+________________________________________________________________________
+Tag :  script  --- ID:  705
+***Parent :  430
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+Attrib name :  src
+________________________________________________________________________
+Tag :  div  --- ID:  706
+***Parent :  430
+	Kids :  [707]
+Combined Name :  div#_atssh
+Attrib name :  id
+Attrib name :  style
+________________________________________________________________________
+Tag :  iframe  --- ID:  707
+***Parent :  706
+	Kids :  []
+Combined Name :  iframe#_atssh959
+Attrib name :  src
+Attrib name :  style
+Attrib name :  title
+Attrib name :  id
+________________________________________________________________________
+Tag :  script  --- ID:  708
+***Parent :  430
+	Kids :  []
+Combined Name :  script
+Attrib name :  src
+Attrib name :  type
+________________________________________________________________________
+Tag :  script  --- ID:  709
+***Parent :  430
+	Kids :  []
+Combined Name :  script
+Attrib name :  type
+________________________________________________________________________
+Tag :  img  --- ID:  710
+***Parent :  430
+	Kids :  []
+Combined Name :  img
+Attrib name :  src
+Attrib name :  alt
+Attrib name :  height
+Attrib name :  width
+________________________________________________________________________
+Tag :  noscript  --- ID:  711
+***Parent :  430
+	Kids :  [712]
+Combined Name :  noscript
+________________________________________________________________________
+Tag :  div  --- ID:  712
+***Parent :  711
+	Kids :  [713]
+Combined Name :  div
+________________________________________________________________________
+Tag :  img  --- ID:  713
+***Parent :  712
+	Kids :  []
+Combined Name :  img
+Attrib name :  src
+Attrib name :  alt
+Attrib name :  width
+Attrib name :  height
+________________________________________________________________________
+Tag :  div  --- ID:  714
+***Parent :  429
+	Kids :  [715]
+Combined Name :  div#ad1.right-tout
+Attrib name :  id
+Attrib name :  class
+________________________________________________________________________
+Tag :  div  --- ID:  715
+***Parent :  714
+	Kids :  [716, 717, 718, 719, 720, 721, 722, 730]
+Combined Name :  div#blzedo
+Attrib name :  id
+________________________________________________________________________
+Tag :  script  --- ID:  716
+***Parent :  715
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+________________________________________________________________________
+Tag :  script  --- ID:  717
+***Parent :  715
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  718
+***Parent :  715
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  719
+***Parent :  715
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  script  --- ID:  720
+***Parent :  715
+	Kids :  []
+Combined Name :  script
+Attrib name :  language
+Attrib name :  src
+________________________________________________________________________
+Tag :  style  --- ID:  721
+***Parent :  715
+	Kids :  []
+Combined Name :  style
+________________________________________________________________________
+Tag :  div  --- ID:  722
+***Parent :  715
+	Kids :  [723, 726]
+Combined Name :  div#zzsliderlayer_box
+Attrib name :  id
+________________________________________________________________________
+Tag :  div  --- ID:  723
+***Parent :  722
+	Kids :  [724]
+Combined Name :  div#zzcontent
+Attrib name :  id
+Attrib name :  style
+________________________________________________________________________
+Tag :  div  --- ID:  724
+***Parent :  723
+	Kids :  [725]
+Combined Name :  div#zzad
+Attrib name :  id
+________________________________________________________________________
+Tag :  iframe  --- ID:  725
+***Parent :  724
+	Kids :  []
+Combined Name :  iframe#zzmainframe
+Attrib name :  id
+Attrib name :  name
+Attrib name :  src
+Attrib name :  marginheight
+Attrib name :  marginwidth
+Attrib name :  allowtransparency
+Attrib name :  frameborder
+Attrib name :  height
+Attrib name :  scrolling
+Attrib name :  width
+________________________________________________________________________
+Tag :  div  --- ID:  726
+***Parent :  722
+	Kids :  [727, 728, 729]
+Combined Name :  div#zzclosediv
+Attrib name :  id
+Attrib name :  style
+________________________________________________________________________
+Tag :  span  --- ID:  727
+***Parent :  726
+	Kids :  []
+Combined Name :  span#zzzinc
+Attrib name :  id
+Attrib name :  onclick
+Attrib name :  style
+________________________________________________________________________
+Tag :  span  --- ID:  728
+***Parent :  726
+	Kids :  []
+Combined Name :  span#zzcomment
+Attrib name :  id
+Attrib name :  onclick
+________________________________________________________________________
+Tag :  span  --- ID:  729
+***Parent :  726
+	Kids :  []
+Combined Name :  span#zzclosebt
+Attrib name :  id
+Attrib name :  onclick
+________________________________________________________________________
+Tag :  div  --- ID:  730
+***Parent :  715
+	Kids :  []
+Combined Name :  div.zzopenclosediv#zzopenclosediv
+Attrib name :  class
+Attrib name :  id
+Attrib name :  onclick
+________________________________________________________________________
+Tag :  iframe  --- ID:  731
+***Parent :  429
+	Kids :  []
+Combined Name :  iframe#oauth2relay403788858
+Attrib name :  style
+Attrib name :  src
+Attrib name :  id
+Attrib name :  name
+________________________________________________________________________
+Tag :  script  --- ID:  732
+***Parent :  429
+	Kids :  []
+Combined Name :  script#PIN_1379182088843.f.callback[2]
+Attrib name :  src
+Attrib name :  charset
+Attrib name :  type
+Attrib name :  id
+________________________________________________________________________
+****************************************************

@@ -1,0 +1,94 @@
+
+{
+	"response": {
+		"version": "0.1"
+		,"termsofService": "http://www.wunderground.com/weather/api/d/terms.html"
+		,"features": {
+		"conditions": 1
+		}
+	}
+		,	"current_observation": {
+		"image": {
+		"url":"http://icons-ak.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Jalali, India",
+		"city":"Jalali",
+		"state":"",
+		"state_name":"India",
+		"country":"IN",
+		"country_iso3166":"IN",
+		"zip":"00000",
+		"latitude":"27.789000",
+		"longitude":"78.234000",
+		"elevation":"180.00000000"
+		},
+		"observation_location": {
+		"full":", ",
+		"city":"",
+		"state":"",
+		"country":"",
+		"country_iso3166":"IN",
+		"latitude":"",
+		"longitude":"",
+		"elevation":" ft"
+		},
+		"estimated": {
+		"estimated": 1,
+		"description": "These are estimated conditions. There are no weather stations nearby."
+		},
+		"station_id":"",
+		"observation_time":"Last Updated on , ",
+		"observation_time_rfc822":"",
+		"observation_epoch":"",
+		"local_time_rfc822":"Sat, 08 Jun 2013 17:56:22 +0530",
+		"local_epoch":"1370694382",
+		"local_tz_short":"IST",
+		"local_tz_long":"Asia/Kolkata",
+		"local_tz_offset":"+0530",
+		"weather":"Partly Cloudy",
+		"temperature_string":"111 F (44 C)",
+		"temp_f":111,
+		"temp_c":44,
+		"relative_humidity":"15%",
+		"wind_string":"From the West at 3 MPH",
+		"wind_dir":"West",
+		"wind_degrees":327,
+		"wind_mph":3,
+		"wind_gust_mph":0,
+		"wind_kph":5,
+		"wind_gust_kph":0,
+		"pressure_mb":"",
+		"pressure_in":"",
+		"pressure_trend":"",
+		"dewpoint_string":"55 F (13 C)",
+		"dewpoint_f":55,
+		"dewpoint_c":13,
+		"heat_index_string":"NA",
+		"heat_index_f":"NA",
+		"heat_index_c":"NA",
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":"111 F (44 C)",
+		"feelslike_f":"111",
+		"feelslike_c":"44",
+		"visibility_mi":"",
+		"visibility_km":"",
+		"solarradiation":"",
+		"UV":"",
+		"precip_1hr_string":" in ( mm)",
+		"precip_1hr_in":"",
+		"precip_1hr_metric":"",
+		"precip_today_string":" in ( mm)",
+		"precip_today_in":"",
+		"precip_today_metric":"",
+		"icon":"partlycloudy",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/partlycloudy.gif",
+		"forecast_url":"http://www.wunderground.com/global/stations/42262.html",
+		"history_url":"http://www.wunderground.com/history/airport/////DailyHistory.html",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=,"
+	}
+}

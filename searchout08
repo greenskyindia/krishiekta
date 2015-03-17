@@ -1,0 +1,106 @@
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 57;
+Something went wrong again: Unread result found.
+Value Condition: 0
+Source Name: Business LIne
+List of Tags: 
+['channel', 'item', 'pubDate']
+___________________________________________________
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 7;
+Something went wrong again: Unread result found.
+Value Condition: 0
+Source Name: The Hindu
+List of Tags: 
+['html', 'body', 'div#bgwhite', 'div#container', 'div#content', 'div#left-column', 'h1.detail-title']
+___________________________________________________
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 5;
+Something went wrong again: Unread result found.
+Value Condition: 1
+Source Name: Business Line
+List of Tags: 
+['html', 'body#homebg', 'div#container', 'div#content', 'div#left-column', 'div.art-horizontal-colored', 'div#hcenter', 'img.main-image']
+___________________________________________________
+We're in the initiator!
+Bye Bye Initiator!
+We're in the initiator!
+Bye Bye Initiator!
+INSERT INTO KEDBTST007.table04 (id, name, value, remarks) VALUES(%s,%s,%s,%s)
+-------------------
+34
+test34
+442.2
+this is another test entry
+Something went wrong: 1146 (42S02): Table 'KEDBTST007.table04' doesn't exist
+code begins
+Processor starts
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, uid, source_id, url, date, date_string, location, title, content, tags, keywords, image, video, audio, related, cge_ready, error_check, category1, wt_cat1, category2, wt_cat2, category3, wt_cat3, crop1, wt_crop1, crop2, wt_crop2 FROM KEDBTST007.raw_data WHERE content="temp";
+Something went wrong again: Unread result found.
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, name, url, short_name, information, language, gen_page_type, date_format, last_fetch_date, 	last_base_date, gen_date_id, gen_title_id, gen_url_id, spec_date_id, spec_title_id, spec_url_id, spec_content_id, spec_location_id, spec_tag_id, spec_keyword_id, spec_image_id, spec_video_id, spec_audio_id, spec_related_id, category1, weight_cat1, category2, weight_cat2, category3, weight_cat3  FROM KEDBTST007.source WHERE id = 7;
+Something went wrong again: Unread result found.
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 32;
+Something went wrong again: Unread result found.
+[('content', '"temp"')]
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 33;
+Something went wrong again: Unread result found.
+[('content', '"temp"'), ('keywords', '"None"')]
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 34;
+Something went wrong again: Unread result found.
+[('content', '"temp"'), ('keywords', '"None"'), ('location', '"None"')]
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 35;
+Something went wrong again: Unread result found.
+No problem
+Error
+
+
+Data : 
+[('content', '"temp"'), ('keywords', '"None"'), ('location', '"None"'), ('image', '""')]
+[('content', '"temp"'), ('keywords', '"None"'), ('location', '"None"'), ('image', '""')]
+We're in the initiator!
+Bye Bye Initiator!
+UPDATE KEDBTST007.raw_data SET content="temp", keywords="None", location="None", image="" WHERE id = 28;
+-------------------
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, name, url, short_name, information, language, gen_page_type, date_format, last_fetch_date, 	last_base_date, gen_date_id, gen_title_id, gen_url_id, spec_date_id, spec_title_id, spec_url_id, spec_content_id, spec_location_id, spec_tag_id, spec_keyword_id, spec_image_id, spec_video_id, spec_audio_id, spec_related_id, category1, weight_cat1, category2, weight_cat2, category3, weight_cat3  FROM KEDBTST007.source WHERE id = 7;
+Something went wrong again: Unread result found.
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 32;
+Something went wrong again: Unread result found.
+[('content', '"temp"')]
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 33;
+Something went wrong again: Unread result found.
+[('content', '"temp"'), ('keywords', '"None"')]
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 34;
+Something went wrong again: Unread result found.
+[('content', '"temp"'), ('keywords', '"None"'), ('location', '"None"')]
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, identifier_type, page_type, source_name, value_condition, l1_tag, l2_tag, l3_tag, l4_tag, l5_tag, l6_tag, l7_tag, l8_tag, l9_tag, l10_tag, l11_tag, l12_tag, l13_tag, l14_tag, l15_tag, l16_tag, l17_tag, l18_tag, l19_tag, l20_tag, attribute, delimiter, recognizer_text, flow_file, last_updated, options FROM KEDBTST007.identifier WHERE id = 35;
+Something went wrong again: Unread result found.
+Error as the identifier doesn't exist
+[('content', '"temp"'), ('keywords', '"None"'), ('location', '"None"')]
+We're in the initiator!
+Bye Bye Initiator!
+UPDATE KEDBTST007.raw_data SET content="temp", keywords="None", location="None" WHERE id = 29;
+-------------------
+We're in the initiator!
+Bye Bye Initiator!
+SELECT id, name, url, short_name, information, language, gen_page_type, date_format, last_fetch_date, 	last_base_date, gen_date_id, gen_title_id, gen_url_id, spec_date_id, spec_title_id, spec_url_id, spec_content_id, spec_location_id, spec_tag_id, spec_keyword_id, spec_image_id, spec_video_id, spec_audio_id, spec_related_id, category1, weight_cat1, category2, weight_cat2, category3, weight_cat3  FROM KEDBTST007.source WHERE id = 7;

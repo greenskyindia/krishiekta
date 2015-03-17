@@ -1,0 +1,270 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Copyright (C) 2010 Microsoft Corporation -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Microsoft® Translator Developer Offerings
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Microsoft Translator provides developers a wide spectrum of translation and language APIs for integration into applications and services, including AJAX, SOAP and http REST APIs for language translation and detection." />
+<meta name="keywords" content="Translator AJAX, Translator SOAP, Translator  REST, Translator  API, Translator  APIs, language detection API, translator API, translation API" />
+<link rel="shortcut icon" href="http://www.microsofttranslator.com/Icon.ico"/>
+<link rel="stylesheet" href="http://www.microsofttranslator.com/static/189029/css/mstbrand.css" />
+
+<style type="text/css">
+.Invisible { display: none; visibility: hidden; position: absolute; width: 0px; height: 0px; }
+.NormHoriz { text-align: left; }
+.FlipHoriz { text-align: right; }
+.FloatLeft { float: left; }
+.FloatRight { float: right; }
+.AdHeader { background-color: #025B93; }
+.TDBorder { border-top: solid 1px #DDD; border-bottom: solid 1px #DDD; padding: 8px 4px 8px 4px; }
+
+#dvPageContent 
+{ 
+	font-family: Arial; 
+	font-size: 11px; 
+	color: #000; 
+	background-color: #FFF; 
+	margin: 0px 0px 0px 0px; 
+}
+
+#dvPageContent .Title { font-size: 16px; font-weight: normal; color: #549C00; }
+#dvPageContent .Subtitle { font-size: 13px; font-weight: normal; color: #555; }
+#dvPageContent .TitleLink { font-size: 16px; font-weight: normal; color: #00C; text-decoration: underline; }
+#dvPageContent .Label { font-size: 13px; font-weight: bold; }
+#dvPageContent .Sublabel { font-weight: bold; }
+#dvPageContent .FrameLang { font-weight: bold; color: #555; }
+#dvPageContent .mttextareainit { font-size: 13px; font-family: Arial; font-style: italic; color: #555; }
+#dvPageContent .mttextarea { font-size: 13px; font-family: Arial; }
+
+#dvPageContent a { color: #555; text-decoration: underline; border-style: none; }
+#dvPageContent a img { padding: 0; margin: 0 }
+#dvPageContent b { font-weight: bold; }
+#dvPageContent i, #ww { font-style: italic; }
+
+.LinkButton { font-size: 13px; }
+.mstbrand-main { font-family: Arial; }
+.MstMetaNavBar { font-size: 12px; }
+.MstMetaNavBar .StaticSelectedStyle { font-weight: bold; }
+.MstPathMenuBar { font-size: 11px; }
+.MstPathMenuBar .StaticSelectedStyle { font-weight: bold; }
+.MstFooter { font-size: 11px; }
+.MstPageTitle { font-size: 28px; }
+.MstPageTitle .mstbrand-page-subtitle { font-size: 12px; }
+.MstPassportLogin .user-name { font-size: 12px; font-weight: bold; }
+.MstPassportLogin .login-link { font-size: 12px; font-weight: bold; }
+.pageContentTable .pageDescription { font-size: 13px; line-height: 18px; }
+.pageContentTable .pageContentItemTitle { font-size: 13px; font-weight: bold; }
+.pageContentTable .pageContentItemText { font-size: 11px; }
+.pageContentTable .pageContentSubItemTitle { font-size: 11px; }
+.pageContentTable .pageContentSubItemText { font-size: 11px; }
+.pageContentTable .pageContentGroupTitle { font-size: 13px;	font-weight: bold; }
+.mstbrand-body .PanelHeading { font-size: 13px; font-weight: bold; }
+.mstbrand-body .PanelContentHeading { font-size: 12px; font-weight: bold; }
+.mstbrand-body .PanelContentText { font-size: 12px; }
+.mstbrand-body .Required { font-style: italic; font-size: 12px; }
+.mstbrand-body .HeaderPanel { font-size: 13px; line-height: 18px; }
+</style>
+<style type="text/css">
+</style><script type="text/javascript"> window.staticContentFolder = "http://www.microsofttranslator.com/static/189029"; </script><script type="text/javascript" src="http://www.microsofttranslator.com/static/189029/js/MT.js"></script>
+</head>
+<body>
+	<form name="form1" method="post" action="" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTk5ODQ1MjEyMA9kFgICAQ9kFgRmD2QWBAIDD2QWAmYPZBYCAgEPZBYCZg9kFgZmDw8WAh4HVmlzaWJsZWhkFgICAQ8WAh4EVGV4dAUFR3Vlc3RkAgEPDxYCHwBoZGQCAg9kFgICAQ8WAh8BBdcBPGEgaHJlZj0iaHR0cHM6Ly9sb2dpbi5saXZlLmNvbS9sb2dpbi5zcmY/d2E9d3NpZ25pbjEuMCZhbXA7cnBzbnY9MTEmYW1wO2N0PTEzNzkxNTYzMDcmYW1wO3J2ZXI9Ni4wLjUyNzYuMCZhbXA7d3A9TEJJJmFtcDt3cmVwbHk9aHR0cDolMkYlMkZ3d3cubWljcm9zb2Z0dHJhbnNsYXRvci5jb20lMkZkZXYlMkYmYW1wO2xjPTEwMzMmYW1wO2lkPTI2ODE2MCI+U2lnbiBpbjwvYT5kAgUPZBYCAgUPFgIfAQUTRGV2ZWxvcGVyIE9mZmVyaW5nc2QCCw9kFgICAQ9kFgJmD2QWCAIBDw8WAh4LTmF2aWdhdGVVcmwFIWh0dHA6Ly9nLmxpdmUuY29tLzl1eHA5ZW4tVVMvZnRyMWRkAgMPDxYCHwIFLGh0dHA6Ly9nby5taWNyb3NvZnQuY29tL2Z3bGluay8/TGlua0lkPTc0MTcwZGQCBQ8PFgIfAgU3aHR0cDovL2hlbHAubGl2ZS5jb20vaGVscC5hc3B4P3Byb2plY3Q9dG91Jm1hcmtldD1lbi1VU2RkAgcPDxYCHwIFRGh0dHA6Ly9mZWVkYmFjay5saXZlLmNvbS9kZWZhdWx0LmFzcHg/cHJvZHVjdGtleT13bHRyYW5zbGF0b3ImTUtUPWVuZGRksbaXRPpNsU8ypmyA+CyxQBOOiAE=" />
+
+<script type="text/javascript"> window.staticContentFolder = "http://www.microsofttranslator.com/static/189029"; </script><script type="text/javascript" src="http://www.microsofttranslator.com/static/189029/js/MT.js"></script>
+
+		
+
+		<div class="mstbrand-main mstbrand-container-layout">
+			<div class="mstbrand-header mstbrand-container-layout">
+				<div class="mstbrand-content-layout">
+					<table cellspacing="0px" width="100%">
+						<tr>
+							<td width="100%">
+								<div id="brandingHead_MstMetaNavBar1_ContainerPanel" class="MstMetaNavBar">
+	
+<table cellspacing="0px" border="0">
+		<tr>
+			<td><div class="StaticMenuItemStyle">
+				<a title="Translator" href="/">Home</a>
+			</div></td><td><div class="mstbrand-vertical-line">
+				&nbsp;
+			</div></td><td><div class="StaticMenuItemStyle">
+				<a title="User Offerings" href="/user/">Users</a>
+			</div></td><td><div class="mstbrand-vertical-line">
+				&nbsp;
+			</div></td><td><div class="StaticMenuItemStyle StaticSelectedStyle">
+				<a title="Developer Offerings" href="/dev/">Developers</a>
+			</div></td><td><div class="mstbrand-vertical-line">
+				&nbsp;
+			</div></td><td><div class="StaticMenuItemStyle">
+				<a title="Webmaster Offerings" href="/web/">Webmasters</a>
+			</div></td><td><div class="mstbrand-vertical-line">
+				&nbsp;
+			</div></td><td><div class="StaticMenuItemStyle">
+				<a title="Tools" href="/tools/">Tools</a>
+			</div></td><td><div class="mstbrand-vertical-line">
+				&nbsp;
+			</div></td><td><div class="StaticMenuItemStyle">
+				<a title="Partners" href="/partner/">Partners</a>
+			</div></td><td><div class="mstbrand-vertical-line">
+				&nbsp;
+			</div></td><td><div class="StaticMenuItemStyle">
+				<a title="Attribution" href="/attribution/">Attribution</a>
+			</div></td><td><div class="mstbrand-vertical-line">
+				&nbsp;
+			</div></td><td><div class="StaticMenuItemStyle">
+				<a title="Language Labs" href="http://labs.microsofttranslator.com/">Labs</a>
+			</div></td>
+		</tr>
+	</table>
+</div>
+
+							</td>
+							<td>
+								<div id="brandingHead_MstPassportLogin1_ContainerPanel" class="MstPassportLogin">
+	
+	<table cellspacing="0" border="0">
+		<tr>
+			<td id="brandingHead_MstPassportLogin1_SignInLinkCell">
+				<span class="login-link">
+					<a href="https://login.live.com/login.srf?wa=wsignin1.0&amp;rpsnv=11&amp;ct=1379156307&amp;rver=6.0.5276.0&amp;wp=LBI&amp;wreply=http:%2F%2Fwww.microsofttranslator.com%2Fdev%2F&amp;lc=1033&amp;id=268160">Sign in</a>
+				</span>
+			</td>
+		</tr>
+	</table>
+
+</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2">
+								
+<div class="MstPageTitle">
+	<img src="http://www.microsofttranslator.com/static/189029/img/mst_logo2.gif" border="0" />
+	<img class="mstbrand-vertical-line" src="http://www.microsofttranslator.com/static/189029/img/transparent.gif" border="0" style="width: 2px; height: 24px; background-color: White;" />
+	<div class="mstbrand-page-title" style="display: inline;">
+		Developer Offerings
+	</div>
+	<div class="mstbrand-page-subtitle">
+		
+	</div>
+</div>
+
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2">
+								<div class="mstbrand-horizontal-line" />
+							</td>
+						</tr>
+					</table>
+				</div>
+			</div>
+			<div class="mstbrand-body mstbrand-container-layout">
+				<table cellspacing="0px" width="100%">
+					<tr>
+						<td>
+							<div class="mstbrand-header-height"></div>
+							<div class="mstbrand-content mstbrand-content-layout">
+
+			<table class="pageContentTable">
+				<tr>
+					<td colspan="2">
+						<div class="pageDescription">
+							Translation is a tool, not a destination. Microsoft Translator developer offerings provide developers a wide spectrum of translation and language APIs for integration into their applications and services. 
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div class="pageContentColumn1">
+							<div class="pageContentItem">
+								<div class="pageContentItemTitle"><h2><a href="http://go.microsoft.com/?linkid=9671506">AJAX Interface</a></h2></div>
+								<div class="pageContentItemText">The AJAX interface provides your web applications with JavaScript based access to translation services.</div>
+							</div>
+							<div class="pageContentSpacer">&nbsp;</div>
+							<div class="pageContentItem">
+								<div class="pageContentItemTitle"><h2><a href="http://go.microsoft.com/?linkid=9671507">SOAP Interface</a></h2></div>
+								<div class="pageContentItemText">The SOAP interface provides a strongly typed, web service standards based programming model supporting rich development environments such as the .NET framework.</div>
+							</div>
+							<div class="pageContentSpacer">&nbsp;</div>
+							<div class="pageContentItem">
+								<div class="pageContentItemTitle"><h2><a href="http://go.microsoft.com/?linkid=9671505">HTTP Interface</a></h2></div>
+								<div class="pageContentItemText">The HTTP interface provides a high degree of interoperability for any network enabled application and supports a broad range of development environments.</div>
+							</div>
+							<div class="pageContentSpacer">&nbsp;</div>
+							<div class="pageContentItem">
+								<div class="pageContentItemTitle"><h2><a href="http://go.microsoft.com/?linkid=9655926">MSDN reference for Microsoft Translator APIs</a></h2></div>
+								<div class="pageContentItemText">Comprehensive reference for Microsoft Translator APIs on MSDN.</div>
+							</div>
+						</div>
+					</td>
+					<td>
+						<div class="pageContentColumn2">
+							<div class="pageContentItem">
+								<div class="pageContentItemTitle"><h2><a href="http://go.microsoft.com/?linkid=9782667">Sign up for the Microsoft Translator API</a></h2></div>
+								<div class="pageContentItemText"><a href=http://go.microsoft.com/?linkid=9782667>Windows Azure Marketplace</a> gives you a convenient way to <a href=http://go.microsoft.com/?linkid=9782667>sign up</a> for the Microsoft Translator API. The set of offers includes an option for FREE use of the API. You can try out the functionality of the Translator API without having to write any code, right there on the <a href=http://go.microsoft.com/?linkid=9782667>Windows Azure Marketplace</a>.</div>
+							</div>
+							<div class="pageContentSpacer">&nbsp;</div>
+							<div class="pageContentGroupTitle"><h2>News, Feedback &amp; Support</h2></div>
+							<div class="pageContentItem">
+								<div class="pageContentItemTitle"><h2><a href="http://go.microsoft.com/?linkid=9690486">Microsoft Translator Blog</a></h2></div>
+							</div>
+							<div class="pageContentItem">
+								<div class="pageContentItemTitle"><h2><a href="http://go.microsoft.com/?linkid=9656020">Microsoft Translator Developer Forum</a></h2></div>
+							</div>
+						</div>
+					</td>
+				</tr>
+			</table>
+		
+
+							</div>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<div class="mstbrand-content-layout">
+								<div id="brandingTail_MstFooter1_ContainerPanel" class="MstFooter">
+	
+	<table cellspacing="0px">
+		<tr>
+			<td>
+				<a id="brandingTail_MstFooter1_CopyrightHyperLink" class="HyperLink" href="http://g.live.com/9uxp9en-US/ftr1">&#169;&nbsp;Microsoft<sup style="vertical-align:super;font-size:70%;">&reg;</sup></a>
+			</td>
+			<td>
+				<div class="mstbrand-vertical-line">
+				</div>
+			</td>
+			<td>
+				<a id="brandingTail_MstFooter1_PrivacyHyperLink" class="HyperLink" href="http://go.microsoft.com/fwlink/?LinkId=74170">Translator Privacy</a>
+			</td>
+			<td>
+				<div class="mstbrand-vertical-line">
+				</div>
+			</td>
+			<td>
+				<a id="brandingTail_MstFooter1_LegalHyperLink" class="HyperLink" href="http://help.live.com/help.aspx?project=tou&amp;market=en-US">Legal</a>
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td>
+				<a id="brandingTail_MstFooter1_FeedbackHyperLink" class="HyperLink" href="http://feedback.live.com/default.aspx?productkey=wltranslator&amp;MKT=en">Feedback</a>
+			</td>
+		</tr>
+	</table>
+
+</div>
+
+							</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+		</div>
+
+	</form>
+</body>
+</html>

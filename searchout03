@@ -1,0 +1,91 @@
+MySQLCursor: SELECT id, identifier_type, pa..
+ID: 2, Type: content for Page article of Source: Business Line, 
+	Tags 2: html, 6: body#homebg, 8 div#container, 9: div#content, 10: div#left-column, 11: div#article-block
+Tag list =  ['html', 'body#homebg', 'div#container', 'div#content', 'div#left-column', 'div#article-block', 'div.article-text', 'p.body', None, None, None, None, None, None, None] 
+
+
+15
+['html', 'body#homebg', 'div#container', 'div#content', 'div#left-column', 'div#article-block', 'div.article-text', 'p.body', None, None, None, None, None, None, None]
+html : 0
+15
+['html', 'body#homebg', 'div#container', 'div#content', 'div#left-column', 'div#article-block', 'div.article-text', 'p.body', None, None, None, None, None, None, None]
+body#homebg : 1
+15
+['html', 'body#homebg', 'div#container', 'div#content', 'div#left-column', 'div#article-block', 'div.article-text', 'p.body', None, None, None, None, None, None, None]
+div#container : 2
+15
+['html', 'body#homebg', 'div#container', 'div#content', 'div#left-column', 'div#article-block', 'div.article-text', 'p.body', None, None, None, None, None, None, None]
+div#content : 3
+15
+['html', 'body#homebg', 'div#container', 'div#content', 'div#left-column', 'div#article-block', 'div.article-text', 'p.body', None, None, None, None, None, None, None]
+div#left-column : 4
+15
+['html', 'body#homebg', 'div#container', 'div#content', 'div#left-column', 'div#article-block', 'div.article-text', 'p.body', None, None, None, None, None, None, None]
+div#article-block : 5
+15
+['html', 'body#homebg', 'div#container', 'div#content', 'div#left-column', 'div#article-block', 'div.article-text', 'p.body', None, None, None, None, None, None, None]
+div.article-text : 6
+15
+['html', 'body#homebg', 'div#container', 'div#content', 'div#left-column', 'div#article-block', 'div.article-text', 'p.body', None, None, None, None, None, None, None]
+p.body : 7
+8
+['html', 'body#homebg', 'div#container', 'div#content', 'div#left-column', 'div#article-block', 'div.article-text', 'p.body']
+
+List length: 8
+No problem
+Error
+****************************************************
+<__main__.PEMain object at 0x7f7cf5b16e10>
+733
+7
+****************************************************
+****************************************************
+****************************************************
+Success at Level 0 for tag in list as html and tag in tree as html
+Level 0 | Tag in tree as body#homebg
+Success at Level 1 for tag in list as body#homebg and tag in tree as body#homebg
+Level 1 | Tag in tree as div#container
+Success at Level 2 for tag in list as div#container and tag in tree as div#container
+Level 2 | Tag in tree as div#content
+Success at Level 3 for tag in list as div#content and tag in tree as div#content
+Level 3 | Tag in tree as div#left-column
+Success at Level 4 for tag in list as div#left-column and tag in tree as div#left-column
+Level 4 | Tag in tree as div#article-block
+Success at Level 5 for tag in list as div#article-block and tag in tree as div#article-block
+Level 5 | Tag in tree as div.article-text
+Success at Level 6 for tag in list as div.article-text and tag in tree as div.article-text
+Level 6 | Tag in tree as p.body
+Level 6 | Tag in tree as p.body
+Level 6 | Tag in tree as p.body
+Level 6 | Tag in tree as p.body
+Level 6 | Tag in tree as p.body
+Level 6 | Tag in tree as p.body
+Level 6 | Tag in tree as p.body
+Success at Level 7 for tag in list as p.body and tag in tree as p.body
+
+
+Data :  
+The Punjab Government today decided to waive the Rural Development Fee 
+(RDF) and market fee on basmati variety of paddy in the State.
+ 
+The nod in this regard was given by Chief Minister Parkash Singh Badal, a Government spokesperson said.
+ 
+The decision is likely to boost basmati cultivation by extending a 
+benefit of nearly Rs 200 crore to its trade in the State, the 
+spokesperson added.
+ 
+“The main objective of providing these exemptions to rice millers and 
+exporters by the State Government under the diversification plan was to 
+make basmati milling competitive so that the basmati produce of farmers 
+was lifted at remunerative prices,” he said.
+ 
+As a result, the State would be able to increase the area under basmati 
+cultivation, conserve depleting underground water levels besides 
+motivating the farmers to shift to basmati cultivation, which is a far 
+less water intensive crop than normal paddy, he added.
+ 
+This decision was taken following a series of deliberations between the 
+Punjab Rice Millers and Export Association and the Chief Minister.
+ 
+The Rural Development Fee (RDF) and market fee of 2 per cent each was being charged on basmati crop. 
+****************************************************

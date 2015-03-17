@@ -1,0 +1,233 @@
+OAuth Token : http%3a%2f%2fschemas.xmlsoap.org%2fws%2f2005%2f05%2fidentity%2fclaims%2fnameidentifier=GreenSkyWeather&http%3a%2f%2fschemas.microsoft.com%2faccesscontrolservice%2f2010%2f07%2fclaims%2fidentityprovider=https%3a%2f%2fdatamarket.accesscontrol.windows.net%2f&Audience=http%3a%2f%2fapi.microsofttranslator.com&ExpiresOn=1379947244&Issuer=https%3a%2f%2fdatamarket.accesscontrol.windows.net%2f&HMACSHA256=%2bX1voqnOpw7ZlaKqbCyAyEgV%2fDtW9Y2UdMQFsC7C2rQ%3d
+-------------------------------------------
+Expires In: "599"
+b''
+<!-- NdxICC, languageOption=0, charsetOption=0 -->
+<META http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<SCRIPT Language="JavaScript">
+var usgDebugOn = false;
+var iccConsoleOption = 1;
+var iccLocation = 0;
+</SCRIPT>
+<!-- ************************ -->
+<!-- *      NdxICC.htm      * -->
+<!-- ************************ -->
+<!-- * 2005-12-22  BPHolmen * -->
+<!-- ************************ -->
+
+<Script Language='JavaScript'>
+var jsVersion = 1.0;
+</Script>
+<Script Language='JavaScript1.1'>
+var jsVersion = 1.1;
+</Script>
+<Script Language='JavaScript1.2'>
+var jsVersion = 1.2;
+</Script>
+<Script Language='JavaScript1.3'>
+var jsVersion = 1.3;
+</Script>
+
+<Head>
+<Title>Launch the Nomadix Console</Title>
+</Head>
+
+<Script Language='JavaScript'>
+if (usgDebugOn) alert('NdxICC...');
+if (usgDebugOn) alert('jsVersion='+jsVersion);
+
+	window.name = '_NdxBrowser';
+
+var docURL = window.location.href;
+if (usgDebugOn) alert(docURL);
+
+	var x1 = 0;
+	var x2 = 0;
+
+	// IP = USG IP Address ...
+	var strIP = '';
+	x1 = docURL.indexOf('IP=',x1);
+	if (x1 > 0)
+	{
+		x1 += 3;
+		x2 = docURL.indexOf('&',x1);
+		if (x2 < 1) { x2 = docURL.length; }
+		strIP = unescape(docURL.substring(x1,x2));
+	}
+	if (usgDebugOn) alert('strIP='+strIP);
+
+	// MA = MAC Address ...
+	var strMA = '';
+	x1 = docURL.indexOf('MA=',x1);
+	if (x1 > 0)
+	{
+		x1 += 3;
+		x2 = docURL.indexOf('&',x1);
+		if (x2 < 1) { x2 = docURL.length; }
+		strMA = unescape(docURL.substring(x1,x2));
+	}
+	if (usgDebugOn) alert('strMA='+strMA);
+
+	// OS = Origin Server
+	var strOS = '';
+	x1 = docURL.indexOf('OS=',x1);
+	if (x1 > 0)
+	{
+		x1 += 3;
+		x2 = docURL.indexOf('&',x1);
+		if (x2 < 1) { x2 = docURL.length; }
+		strOS = unescape(docURL.substring(x1,x2));
+		if (strOS.substring(0,7) != 'http://')
+		{
+			strOS = 'http://' + strOS;
+		}
+	} else {
+		x1 = 0;
+	}
+	if (usgDebugOn) alert('strOS='+strOS);
+
+	// are we running on MSIE? if so, what version?
+	var appVersion = 0;
+	var idxMSIE = navigator.userAgent.indexOf('MSIE');
+	if (0 <= idxMSIE)
+	{
+		var idxChr1 = navigator.userAgent.indexOf(' ',idxMSIE+1);
+		var idxChr2 = navigator.userAgent.indexOf(';',idxChr1+1);
+		if (idxMSIE < idxChr1 && idxChr1 < idxChr2)
+		{
+			appVersion = navigator.userAgent.substring(idxChr1+1,idxChr2) - 0;
+		}
+	}
+
+	var defaultWidth  = 0;
+	var defaultHeight = 0;
+
+	if (iccConsoleOption == 0)
+	{	// ICC
+		if (0 < appVersion && appVersion < 6)
+		{	// MSEI 5.x?
+			defaultWidth  = 480;
+			defaultHeight = 180;
+		} else {
+			defaultWidth  = 420;
+			defaultHeight = 180;
+		}
+	} else { // LC
+		if (0 < appVersion && appVersion < 6)
+		{	// MSEI 5.x?
+			defaultWidth  = 275;
+			defaultHeight =  65;
+		} else {
+			defaultWidth  = 240;
+			defaultHeight =  60;
+		}
+	}
+
+	if (usgDebugOn) {
+		defaultHeight *= 2;
+	}
+
+
+// WinCE screen size = 240x320
+var scrWidth  = 240;
+var scrHeight = 320;
+
+	if ((jsVersion >= 1.2) && (screen != null))
+	{
+		if (screen.width > 0 && screen.height > 0)
+		{
+			scrWidth  = screen.width;
+			scrHeight = screen.height;
+		}
+	}
+
+	// allow for scroll bar
+	scrWidth  -= 20;
+
+	if (usgDebugOn) alert('Screen=(' + scrWidth + 'x' + scrHeight + ')');
+
+var winWidth;
+var winHeight;
+
+	if (defaultWidth < scrWidth)
+	{	// rectangle, for wide screens
+		winWidth  = defaultWidth;
+		winHeight = defaultHeight;
+	}
+	else
+	{	// square, for small screens
+		winWidth  = scrWidth;
+		winHeight = scrWidth;
+	}
+
+	if (usgDebugOn) alert('NdxICC.winWidth  = '+winWidth);
+	if (usgDebugOn) alert('NdxICC.winHeight = '+winHeight);
+
+var winFeat = 'Resizable=no,Scrollbars=no,Status=no,Toolbar=no';
+	winFeat += (',Width=' + winWidth + ',Height=' + winHeight);
+
+	// Window Position ...
+	// ... Upper Left (default)
+	var vLeft = 0;
+	var vTop  = 0;
+	if (iccConsoleOption != 0)
+	{	// Logout Popup
+		switch (iccLocation)
+		{
+			case 0:
+				// Upper Left
+				break;
+			case 1:
+				// Upper Right
+				vLeft = (scrWidth  - winWidth);
+				break;
+			case 2:
+				// Lower Left
+				vTop  = (scrHeight - winHeight);
+				break;
+			case 3:
+				// Lower Right
+				vLeft = (scrWidth  - winWidth);
+				vTop  = (scrHeight - winHeight);
+				break;
+			default:
+				break;
+		}
+		// allow room for status bar at bottom of screen
+		vTop -= 65;
+	}
+	// ... Sanity check
+	vLeft = (vLeft < 0) ? 0 : vLeft;
+	vTop  = (vTop  < 0) ? 0 : vTop;
+	// ... Window Position
+	winFeat += (',Left=' + vLeft + ',Top=' + vTop);
+
+	winHREF  = ('http://' + strIP + ':2111/usg/NdxBegin.htm');
+	winHREF += ('?IP=' + escape(strIP));
+	winHREF += ('&MA=' + escape(strMA));
+	winHREF += ('&OS=' + escape(strOS));
+	winHREF += ('&width='  + winWidth);
+	winHREF += ('&height=' + winHeight);
+
+	if (navigator.userAgent.indexOf('Windows CE') < 0)
+	{
+		if (usgDebugOn) alert('NOT Windows CE');
+		window.open(winHREF,'_NdxICC',winFeat);
+	}
+	else
+	{
+		if (usgDebugOn) alert('Windows CE');
+		window.location.replace(winHREF);
+	}
+</Script>
+
+<Body onLoad='window.open(strOS,"_NdxBrowser");'>
+<Script Language='JavaScript'>
+	document.writeln('<' + 'Img Src="http://' + strIP + ':3111/Nomadix.bmp">');
+</Script>
+</Body>
+
+<!-- ************************ -->
+<!-- * eof: NdxICC.htm      * -->
+<!-- ************************ -->
+

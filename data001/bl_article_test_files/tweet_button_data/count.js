@@ -1,0 +1,1 @@
+twttr.receiveCount({"count":2,"url":"http:\/\/www.thehindubusinessline.com\/industry-and-economy\/agri-biz\/punjab-waives-rural-development-market-fee-on-basmati\/article5128380.ece\/"});

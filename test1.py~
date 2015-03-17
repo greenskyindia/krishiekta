@@ -1,0 +1,48 @@
+#!/usr/local/bin/python
+
+import subprocess
+import urllib, urllib2, json
+import datetime
+import MySQLdb,sys
+
+server='127.0.0.1'
+port='3306'
+username='greensky'
+db_name='test'
+
+
+# mysql query to enter the data into our database
+try:
+	conn = MySQLdb.connect (host = "localhost",
+			port = 3306,
+			unix_socket = "/tmp/mysql.sock",
+                        user = username,
+                        #passwd = password,
+                        db = db_name)
+except MySQLdb.Error, e:
+        print "Error %d: %s" % (e.args[0], e.args[1])
+        sys.exit (1)
+
+cursor = conn.cursor ()
+
+
+cursor.execute ("SET character_set_results = 'utf8', character_set_client = 'utf8', character_set_connection = 'utf8', character_set_database = 'utf8', character_set_server = 'utf8'")
+
+
+cursor.execute (u"INSERT INTO " + " tab1 " + u""" (idtab1,tab1col)
+		 VALUES(16, 'Test entry for 16') """)
+
+cursor.execute ("SELECT * FROM " + "tab1" )
+
+conn.commit()
+
+
+	
+
+
+conn.commit()
+cursor.close ()
+conn.close ()
+
+
+

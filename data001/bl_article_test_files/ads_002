@@ -1,0 +1,29 @@
+{
+
+var google_ads = new Array();
+var google_ad;
+var google_radlinks = new Array();
+var google_radlink;
+var google_info = new Object();
+google_ad = {}; 
+google_ad.n = 1; 
+google_ad.type = "image"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = ""; 
+google_ad.url = "http://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=CuYQHCKY0UrXSB6vMigf3oIGwCJC75YAEmOTM_WeIycjb0QEQASC9g78TUJKh290BYOWy5YOsDqAByKnv5QPIAQKpAgpNWCsC8lA-qAMBqgTsAU_QeE2gEAs5cWycMIuEYeIEBLr3pX61lVfqSdU-9HIQgOVBG_EXujqUn7AWND8PbQFv9hzk8cZrOef_Vjv_k1y3TF-hoDmZpbMGgBdbf0X6nXcJ7AOmT74udwd1-6wKWkZ24CEFKuW4n862khqRq_uKmulvzRC4WOrkyEu2jJc54PqcHLZFMde4-IXBkE7Ve6ZlYBX54Z0z3VfQ_4mlcec2Ph7ydHBjGc_i4bAemTQFL7HHt7t3Nrt5m6Cy5KH85Y-B19zCadBzYrdytxXosHQDdUEPVmzXQKhSAXwsSc0783Rdew_428uNLM31iAYBoAYCgAeg1pAa&amp;num=1&amp;cid=5GhgNQ4D6tqmVmRYJEq5Q5oL&amp;sig=AOD64_1xqVQ1m9cQPsOU2DLSxBnpYf1RWw&amp;client=ca-hindu_site_html&amp;adurl=http://tracking-in.sokrati.com/click%3Fclient_id%3D180%26tag%3Dg-7e7d7y5jv8xujg_180%26svt%3D1%7C%7C%7Cd%7Cwww.thehindubusinessline.com%7C27834288056%7Cnone%7Cboomuserlist%253A%253A3682616%26redirect_url%3Dhttp%253A%252F%252Fwww.tatasky.com%252Fcampaigns%252Fhd-tv%252F%253Fsokratitag%253D%2524soksid%2524"; 
+google_ad.visible_url = "www.tatasky.com/Instant-Callback"; 
+google_ad.image_url = "http://pagead2.googlesyndication.com/simgad/3510796080131299866";
+google_ad.image_width = "300";
+google_ad.image_height = "250";
+google_ad.image_alt_text = "";
+google_ads[0] = google_ad; 
+google_info.feedback_url = "http://www.google.com/url?ct\x3dabg\x26q\x3dhttps://www.google.com/adsense/support/bin/request.py%3Fcontact%3Dabg_afc%26url%3Dhttp://www.thehindubusinessline.com/industry-and-economy/agri-biz/punjab-waives-rural-development-market-fee-on-basmati/article5128380.ece%26gl%3DIN%26hl%3Den%26client%3Dca-hindu_site_html%26hideleadgen%3D1%26ai0%3DCuYQHCKY0UrXSB6vMigf3oIGwCJC75YAEmOTM_WeIycjb0QEQASC9g78TUJKh290BYOWy5YOsDqAByKnv5QPIAQKpAgpNWCsC8lA-qAMBqgTsAU_QeE2gEAs5cWycMIuEYeIEBLr3pX61lVfqSdU-9HIQgOVBG_EXujqUn7AWND8PbQFv9hzk8cZrOef_Vjv_k1y3TF-hoDmZpbMGgBdbf0X6nXcJ7AOmT74udwd1-6wKWkZ24CEFKuW4n862khqRq_uKmulvzRC4WOrkyEu2jJc54PqcHLZFMde4-IXBkE7Ve6ZlYBX54Z0z3VfQ_4mlcec2Ph7ydHBjGc_i4bAemTQFL7HHt7t3Nrt5m6Cy5KH85Y-B19zCadBzYrdytxXosHQDdUEPVmzXQKhSAXwsSc0783Rdew_428uNLM31iAYBoAYCgAeg1pAa\x26usg\x3dAFQjCNHUBfX6bMcmxeIfjkYGEyd58-fq2A";
+var google_attribution_text = "AdChoices";
+var google_is_rtl = false;
+if (window.google_ad_request_done) {
+google_ad_request_done(google_ads);
+}
+if (window.google_radlink_request_done) {
+google_radlink_request_done(google_radlinks);
+}
+}

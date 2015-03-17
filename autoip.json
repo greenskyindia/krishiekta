@@ -1,0 +1,52 @@
+
+{
+	"response": {
+		"version": "0.1"
+		,"termsofService": "http://www.wunderground.com/weather/api/d/terms.html"
+		,"features": {
+		"geolookup": 1
+		}
+	}
+		,	"location": {
+		"type":"INTLCITY",
+		"country":"IN",
+		"country_iso3166":"IN",
+		"country_name":"India",
+		"state":"",
+		"city":"New Delhi",
+		"tz_short":"IST",
+		"tz_long":"Asia/Kolkata",
+		"lat":"28.56999969",
+		"lon":"77.12000275",
+		"zip":"00000",
+		"magic":"1",
+		"wmo":"42181",
+		"l":"/q/zmw:00000.1.42181",
+		"requesturl":"global/stations/42181.html",
+		"wuiurl":"http://www.wunderground.com/global/stations/42181.html",
+		"nearby_weather_stations": {
+		"airport": {
+		"station": [
+		{ "city":"New Delhi / Palam", "state":"", "country":"India", "icao":"VIDP", "lat":"28.56666756", "lon":"77.11666870" },
+		{ "city":"New Delhi", "state":"", "country":"IN", "icao":"VIDP", "lat":"28.56999969", "lon":"77.12000275" }
+		]
+		}
+		,
+		"pws": {
+		"station": [
+		{
+		"neighborhood":"New Delhi - GK2",
+		"city":"New Delhi",
+		"state":"Delhi",
+		"country":"India",
+		"id":"IDELHINE8",
+		"lat":28.530685,
+		"lon":77.241058,
+		"distance_km":12,
+		"distance_mi":7
+		}
+		]
+		}
+		}
+	}
+}

@@ -1,0 +1,767 @@
+Encountered some data  : Cotton farmers in Haryana advised to monitor crop against pests - The Economic Times
+Encountered some data  : 
+	                      
+Encountered some data  : 
+	                
+Encountered some data  : var seoPath="/news/economy/agriculture/cotton-farmers-in-haryana-advised-to-monitor-crop-against-pests";
+				var otherchannelstory = 0,
+					gourl = document.location.href,
+					urlParams = document.location.search,
+					finalUrl = "http://economictimes.indiatimes.com",
+					matchRegEx = /.cms\?msid=/,
+					templatePath;
+
+				//
+				seoPath=seoPath.toLowerCase();
+				if(seoPath.charAt(0) != "/"){
+					seoPath = "/" + seoPath;
+				}
+				gourl=gourl.toLowerCase();
+				
+				//
+				if(document.referrer.toLowerCase().indexOf('indiatimes') == -1 || document.referrer == ""){
+					if(seoPath.indexOf('http://')!=-1 && seoPath.indexOf('economictimes.indiatimes.com')==-1){
+						otherchannelstory=1;
+					}
+					else if(seoPath.indexOf('economictimes.indiatimes.com')==-1){
+						var arr = gourl.split("/");
+						if(!matchRegEx.test(gourl)){
+							templatePath = "/" + arr[arr.length-2]+"/"+arr[arr.length-1];
+						} else {
+							templatePath = "/" + arr[arr.length-1];
+						}
+						finalUrl = finalUrl + seoPath + templatePath;
+					}
+					else if(seoPath.indexOf('http://economictimes.indiatimes.com') == 0){
+						finalUrl = seoPath;
+					}
+					if(gourl != finalUrl && gourl.indexOf('http://economictimes.indiatimes.com') >= 0 && seoPath.indexOf('http://timesofindia.indiatimes.com') != 0){
+						if(otherchannelstory==0){
+							document.location.href = finalUrl;
+						}
+					}
+				}
+			
+Encountered some data  : 
+					// Creating Elements for IE : HTML 5
+					var elem = ["article", "aside", "figure", "footer", "figcaption", "header", "nav", "section"];
+					for(var i=0; i<=elem.length-1; i++){
+						document.createElement(elem[i])
+					}
+					
+				
+Encountered some data  : #adfloater {position:absolute; bottom: 0px;}
+			div > div#adfloater{position: fixed; }
+Encountered some data  : var _sf_startpt=(new Date()).getTime()
+Encountered some data  : var qstr='cms-sec0=1202099874&cms-sec1=1373380680&cms-sec2=1715249553&cms-sec3=2147477890';
+		var qmsid='22100493';
+				var cmsur_type='viewed';        
+		function blockError(){return true;} 
+	    window.onerror = blockError; 
+	    var dtTT_startofpage = new Date();
+	    var rndtno = Math.random();	    
+	    document.write('<img border="0" width="0" height="0" style="display:none;visibility:hidden;" src="http://timeslog.indiatimes.com/timeslog.dll/topcnt?CHUR=economictimes.indiatimes.com&randomno='+ rndtno +'" align="left"/>'); 
+		 var myImage = new Image;
+         myImage.src = 'http://cmstrendslog.indiatimes.com/cmslog.dll?cms-msid='+qmsid+'&'+qstr+'&cmsurtype='+cmsur_type+'&randomno='+ rndtno;
+	 
+Encountered some data  : var WRInitTime=(new Date()).getTime();
+Encountered some data  :  
+				  var _gaq = _gaq || [];
+				  _gaq.push(['_setAccount', 'UA-198011-5']);
+				  _gaq.push(['_setDomainName', '.indiatimes.com']);
+				 _gaq.push(['_addIgnoredOrganic', 'economic times']); 
+				  _gaq.push(['_addIgnoredOrganic', 'the economic times']);
+				_gaq.push(['_addIgnoredOrganic', 'economictimes']);
+				_gaq.push(['_addIgnoredOrganic', 'economics times']);
+				_gaq.push(['_addIgnoredOrganic', 'www.economictimes.com']);
+				_gaq.push(['_addIgnoredOrganic', 'economictimes.com']);
+				_gaq.push(['_addIgnoredOrganic', 'economic times of india']);
+				_gaq.push(['_addIgnoredOrganic', 'economic times epaper']); 
+				_gaq.push(['_addIgnoredOrganic', 'economictimes.indiatimes.com']);
+				  _gaq.push(['_trackPageview']);
+			
+Encountered some data  :  
+					 var _comscore = _comscore || [];
+					  _comscore.push({ c1: "2", c2: "6036484" });
+					  (function() {
+					    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+					    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+					    el.parentNode.insertBefore(s, el);
+					  })();
+			
+Encountered some data  : 
+					/* ========== Some on page scripts ============ */
+
+					// cross domain checks
+					var hdomain='indiatimes.com';
+					if (document.domain != hdomain)
+					{if ((document.domain.indexOf(hdomain)) != -1)
+					{document.domain = hdomain}}						
+					var intv,intv2;var fo;
+				
+					/* =========== Double Click Ad Header ========== */
+					(function() {
+					var useSSL = 'https:' == document.location.protocol;
+					var src = (useSSL ? 'https:' : 'http:') +
+					'//www.googletagservices.com/tag/js/gpt.js';
+					document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+					})();
+				
+Encountered some data  : googleDCHead("articleshow",1715249553,1373380680,1202099874)
+Encountered some data  : showDC("inter","articleshow",1715249553,1373380680,1202099874);
+Encountered some data  : Indiatimes
+Encountered some data  : |
+Encountered some data  : The Times of India
+Encountered some data  : |
+Encountered some data  : The Economic Times
+Encountered some data  : |
+Encountered some data  : More
+Encountered some data  : More
+Encountered some data  : Follow
+Encountered some data  : |
+Encountered some data  : Log In
+Encountered some data  : |
+Encountered some data  : Join
+Encountered some data  : |
+Encountered some data  : Log in with Facebook
+Encountered some data  : Agriculture
+Encountered some data  : showDC("top728","articleshow",1715249553,1373380680,1202099874);
+Encountered some data  : Home
+Encountered some data  : News
+Encountered some data  : Markets
+Encountered some data  : IPO
+Encountered some data  : Personal Finance
+Encountered some data  : Mutual Funds
+Encountered some data  : Tech
+Encountered some data  : Jobs
+Encountered some data  : Opinion
+Encountered some data  : New
+Encountered some data  : Features
+Encountered some data  : Blogs
+Encountered some data  : Slideshows
+Encountered some data  : ET NOW
+Encountered some data  : ET Speed
+Encountered some data  : Top News
+Encountered some data  : News By Industry
+Encountered some data  : News By Company
+Encountered some data  : Economy
+Encountered some data  : Politics and Nation
+Encountered some data  : International Business
+Encountered some data  : Emerging Businesses
+Encountered some data  : PSU Press Releases
+Encountered some data  : Other Press Releases
+Encountered some data  : NRI
+Encountered some data  : Indicators
+Encountered some data  : Policy
+Encountered some data  : Finance
+Encountered some data  : Foreign Trade
+Encountered some data  : Infrastructure
+Encountered some data  : Agriculture
+Encountered some data  : You are here: 
+Encountered some data  : ET Home
+Encountered some data  : News
+Encountered some data  : Economy
+Encountered some data  : Agriculture
+Encountered some data  : 
+								  var ord = window.ord || Math.floor(Math.random() * 1e16);
+								  document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N7176/adj/Economictimes/ET_News_Pushdown_1003;sz=1003x90;ord=' + ord + '?"><\/script>');
+						
+Encountered some data  : 0
+Encountered some data  : 0
+Encountered some data  : Share More
+Encountered some data  : 0
+Encountered some data  : Post Your
+Encountered some data  : Comment
+Encountered some data  : showDC("right1","articleshow",1715249553,1373380680,1202099874);
+Encountered some data  : Hi there,
+Encountered some data  : Login with your Facebook ID to see what your friends are reading on Times of India and Economic Times.
+Encountered some data  : Your Activity 
+Encountered some data  : | 
+Encountered some data  : Social 
+Encountered some data  : ON
+Encountered some data  :  | 
+Encountered some data  : Options
+Encountered some data  : Your Activity 
+Encountered some data  : Recent Activity (
+Encountered some data  : 0
+Encountered some data  : )
+Encountered some data  : Social 
+Encountered some data  : ON
+Encountered some data  : Turn social 
+Encountered some data  : OFF
+Encountered some data  : Options 
+Encountered some data  : Invite friends
+Encountered some data  : Not you? Log out of Facebook
+Encountered some data  : YOUR FRIENDS' ACTIVITY
+Encountered some data  : 1 of 1
+Encountered some data  : SPOTLIGHT
+Encountered some data  : Luxury Brands: Fight for Indian Market
+Encountered some data  : Hermes, Gucci, LV take on fast growing fakes in India
+Encountered some data  : French luxury house Hermes and Indian retailer Da Milano are locked in a legal battle over the similarity of some of the latter's handbags to Hermes' Birkin range.
+Encountered some data  : Rolls Royce launches Wraith in India at Rs 4.6 crore
+Encountered some data  : Sahara to launch luxury clubs with fees upto Rs 30 cr
+Encountered some data  : NSEL Crisis
+Encountered some data  : NSEL Crisis: Follow Satyam example 
+Encountered some data  :  protect investors
+Encountered some data  : NSEL crisis won't be the last. What is important is how we deal--Some facts: 24 borrowers - not one is credit worthy; 88 godowns--not one has all the stocks.
+Encountered some data  : NSEL's promoter lines up bridge loan of Rs 177.23 cr 
+Encountered some data  : Govt closely watching NSEL developments, will take action: PC
+Encountered some data  : Viewpoint
+Encountered some data  : Modi on a strong wicket but should tone down aggression
+Encountered some data  : Chetan Bhagat says understanding of Indian cultures, and adapting one's personality and body language to attune to the locals is essential. 
+Encountered some data  : Need to own real assets in India: Jim Rogers
+Encountered some data  : Why India is facing problems today
+Encountered some data  : Did Sonia Destroy India Growth Story?
+Encountered some data  : The Sonia years: Is it welfare or farewell to India
+Encountered some data  : s growth?
+Encountered some data  : History's verdict will depend on whether 4 "Sonia laws" 
+Encountered some data  :  Right to Information, Right to Education, MGNREGA 
+Encountered some data  :  Food Security 
+Encountered some data  :  will do for India what she wants them to.
+Encountered some data  : Sonia Gandhi's unwell image stamped her name on food bill
+Encountered some data  : Eye on 2014: Delhi Wakf landgrab worries Sonia
+Encountered some data  : Hottest Gadgets 
+Encountered some data  :  Tips for Gizmo Freak
+Encountered some data  : 7 awesome things you can learn online for free
+Encountered some data  : Internet has revolutionised so many aspects of our lives. A new language, designing, art, cooking 
+Encountered some data  :  things you would normally expect to pay for - are all available online for free.
+Encountered some data  : Nokia Lumia 925 better bet than Galaxy S4? 
+Encountered some data  : MacBook, Vaio 
+Encountered some data  :  Aspire: Which is better on battery life?
+Encountered some data  : Auto: New Cars to Scorch Indian roads
+Encountered some data  : Maruti's bet against Duster 
+Encountered some data  :  Ecosport: XA Alpha
+Encountered some data  : XA Alpha will make an entry into a segment where Renault's Duster and Ford's EcoSport are popular. Click through to know about what the SUV is about...
+Encountered some data  : Seven cars launched in India this week
+Encountered some data  : Volkswagen launches new Cross Polo at Rs 7.75 lakh
+Encountered some data  : Food Bill: Can it Translate to Votes?
+Encountered some data  : Food Bill won
+Encountered some data  : t eliminate hunger, can't win elections
+Encountered some data  : In the poorest states where NREGA was supposed to have the most impact - Cong won only 20% of the seats. A big New Delhi scheme simply did not translate into votes.
+Encountered some data  : Food Bill being brought with an eye on polls: Mulayam Yadav
+Encountered some data  : Food bill will affect Tamil Nadu; PDS to be implemented in state
+Encountered some data  : Political Wars
+Encountered some data  : Ramesh's green hurdles have shaved 2.5% off GDP: Sinha
+Encountered some data  : Jairam Ramesh, had in an interview, accused Sinha of BJP, of being the "single most destabilizing factor in government-opposition relations".
+Encountered some data  : Our self-flagellation partly to blame for India
+Encountered some data  : s pain: Ramesh
+Encountered some data  : 4 ways to think out of our pastime: Gloom, doom hypothesis
+Encountered some data  : Economic Slowdown: The Blame Game
+Encountered some data  : PC blames Pranab for the dire state of the economy
+Encountered some data  : PC, who moved from home to finance ministry after Pranab became President, appeared to criticise his predecessor's stewardship in 3 yrs between 2009 
+Encountered some data  :  2012.
+Encountered some data  : Govt clears 36 stalled infra projects worth Rs 1.83 lakh crore
+Encountered some data  : We can foot the Food Security Bill: P Chidambaram
+Encountered some data  : India: Breakout to Breakdown Nation
+Encountered some data  : World looked at China for next emerging mkt crisis; India got there 1st
+Encountered some data  : Ruchir Sharma says, past decade, India was celebrated as one of the emerging nations destined to rise indefinitely. Behind the scenes the picture was deteriorating. What went wrong....
+Encountered some data  : India's secret weapon for competing with emerging markets
+Encountered some data  : Road rocky for India; not a repeat of 1997 Asia crisis: S
+Encountered some data  : P
+Encountered some data  : Fall of Rupee: Symptom of India's mess
+Encountered some data  : Will rupee plunge below 70 or will it recover?
+Encountered some data  : The latest one to spook markets has been the geo-political concerns in Middle East. There are allegations that Syria used chemical weapons on civilians.
+Encountered some data  : Rupee slide: Did LIC intervene?
+Encountered some data  : Interest rates not high enough to stabilise rupee: Credit Suisse
+Encountered some data  : Syrian Crisis, Diplomacy 
+Encountered some data  :  Ethics
+Encountered some data  : Legitimize Intervention: Bomb Syria, even if it is illegal
+Encountered some data  : As a legal matter, the Syrian govt's use of chemical weapons does not automatically justify armed intervention by US. There are moral reasons.
+Encountered some data  : West could strike Syria in days: What's led to crisis
+Encountered some data  : China has much at stake but no reach in Syria conflict
+Encountered some data  : showDC("right3","articleshow",1715249553,1373380680,1202099874);
+Encountered some data  : Most
+Encountered some data  : Read
+Encountered some data  : Most
+Encountered some data  : Shared
+Encountered some data  : Most
+Encountered some data  : Commented
+Encountered some data  : Eight smart money moves to make before the ag...
+Encountered some data  : Google goes down for 5 minutes, web traffic t...
+Encountered some data  : Amrit Kaur: Aged 80, she's India's newest bil...
+Encountered some data  : A weaker rupee is not a bad thing
+Encountered some data  : Step-by-step guide to file your income tax re...
+Encountered some data  : More 
+Encountered some data  : Eight smart money moves to make before the ag...
+Encountered some data  : Rented your property? Steps to take if a tena...
+Encountered some data  : How to transfer your property
+Encountered some data  : Little-known tax deductions you might have mi...
+Encountered some data  : When and how can you withdraw from your EPF?
+Encountered some data  : More 
+Encountered some data  : Hard political reality is that Narendra Modi ...
+Encountered some data  : Poke Me: Don't write Narendra Modi off yet
+Encountered some data  : A weaker rupee is not a bad thing
+Encountered some data  : Amartya Sen vs Bhagwati: Who is right in the ...
+Encountered some data  : Narendra Modi slams government on falling rup...
+Encountered some data  : More 
+Encountered some data  : News in Pics
+Encountered some data  : 1/20
+Encountered some data  : Maruti's bet against Duster 
+Encountered some data  :  EcoSport: XA Alpha!
+Encountered some data  : Is Nokia Lumia 925 a better bet than Galaxy S4?
+Encountered some data  : National media centre: Check out the swanky new hub!
+Encountered some data  : How AirAsia stacks up against IndiGo Airlines
+Encountered some data  : Who will be next to lead Microsoft?
+Encountered some data  : Inside Mumbai's Shakti Mills compound 
+Encountered some data  :  its 'unseen zones'
+Encountered some data  : Gamescom 2013: Europe's largest video games trade fair begins
+Encountered some data  : Fukushima radioactive leak may contaminate Pacific Sea
+Encountered some data  : Volkswagen launches new Cross Polo at Rs 7.75 lakh
+Encountered some data  : 15 lesser-known smartphones taking on market leaders
+Encountered some data  : China's latest rooftop building: a temple
+Encountered some data  : Ten tech launches to know about this week
+Encountered some data  : Eleven cars that WagonR Stingray will take on
+Encountered some data  : Maruti launches WagonR Stingray
+Encountered some data  : 8 interesting envt-friendly transportation systems
+Encountered some data  : Nokia launches Lumia 925 and 625 in India
+Encountered some data  : Coca-Cola inaugurates new plant in Greater Noida
+Encountered some data  : Images of devastating floods from around the world
+Encountered some data  : Measures taken by the govt and RBI to curb gold import
+Encountered some data  : Tropical storm Trami devastates Taiwan
+Encountered some data  : Most Watched Videos
+Encountered some data  : Roshni Nadar appointed additional director of HCL Tech
+Encountered some data  : Stock recommendations: Yes Bank, HCL Tech, Tata Steel
+Encountered some data  : Markets tomorrow: Trading cues by experts
+Encountered some data  : Roshni Nadar appointed additional direct...
+Encountered some data  : Stock recommendations: Yes Bank, HCL Tec...
+Encountered some data  : Markets tomorrow: Trading cues by expert...
+Encountered some data  : MORE FROM VIDEOS
+Encountered some data  : Slide Shows
+Encountered some data  : Ten remarkable infrastructure developments in India
+Encountered some data  : From roadways, railways to airports and other smart-city initiatives, the last few years have ...
+Encountered some data  : Ten metro rail projects transforming Indian cities
+Encountered some data  : We take a look at how Metro connectivity has helped many cities in India and the upcoming netw...
+Encountered some data  : Maruti Suzuki set to launch SUV XA Alpha
+Encountered some data  : Aiming to make its mark in the SUV segment, Maruti is all set to launch the XA Alpha, which wa...
+Encountered some data  : More Slideshows 
+Encountered some data  : Cotton farmers in Haryana advised to monitor crop against pests
+Encountered some data  : By 
+Encountered some data  : Madhvi Sally
+Encountered some data  : , ET Bureau | 27 Aug, 2013, 08.32PM IST
+Encountered some data  : Post a Comment
+Encountered some data  : 0
+Encountered some data  : Share More
+Encountered some data  : READ MORE ON 
+Encountered some data  :  
+Encountered some data  : whitefly
+Encountered some data  :  | 
+Encountered some data  : sucking pests
+Encountered some data  :  | 
+Encountered some data  : Haryana Agricultural University
+Encountered some data  :  | 
+Encountered some data  : Cotton
+Encountered some data  :  | 
+Encountered some data  : Chaudhary Charan Singh
+Encountered some data  : He said that the farmers are advised to start the sowing of palak, methi, brinjal, chilli, onion and early cauliflower on ridge.
+Encountered some data  : ET SPECIAL:
+Encountered some data  : Get latest Dollar price updates on your mobile
+Encountered some data  : NEW DELHI: The department of agri meteorology,  
+Encountered some data  : Chaudhary Charan Singh
+Encountered some data  :   
+Encountered some data  : Haryana Agricultural university
+Encountered some data  : , Hisar has predicted variable weather, partly clouds and scattered rain drops at isolated places in the state from August 28 to September 2. 
+Encountered some data  :  A spokesman of the university said that in view of these weather conditions, the farm scientists of the university have advised the farmers for constant monitoring of american and desi  
+Encountered some data  : cotton
+Encountered some data  :  crops against  
+Encountered some data  : whitefly
+Encountered some data  :  and  
+Encountered some data  : sucking pests
+Encountered some data  :  and spray the recommended insecticide when weather is clear. He said that due to humid weather, there may be attack of whitefly and incidence of bacterial leaf blight. They were advised for the spray of recommended insecticides or pesticides when the weather is clear. 
+Encountered some data  :  He said that the farmers are advised to start the sowing of palak, methi, brinjal, chilli, onion and early cauliflower on ridge. They have been advised that it is the right time to transplant the fruit and shade plants. The farmers have also been advised to complete the sowing of green fodder crops. 
+Encountered some data  :  In the next 24 hours the maximum temperature may vary between 31.9 degree to 36.8 degree Celsius and minimum may be between 25 to 27.1 degree Celsius. The average wind speed would range from 2.4 to 5.2 kilometer per hour. 
+Encountered some data  : READ MORE ON 
+Encountered some data  :  
+Encountered some data  : whitefly
+Encountered some data  :  | 
+Encountered some data  : sucking pests
+Encountered some data  :  | 
+Encountered some data  : Haryana Agricultural University
+Encountered some data  :  | 
+Encountered some data  : Cotton
+Encountered some data  :  | 
+Encountered some data  : Chaudhary Charan Singh
+Encountered some data  : PREVIOUS STORY
+Encountered some data  : Government to give Rs 703 crore to states under intensive dairy development programme
+Encountered some data  : NEXT STORY
+Encountered some data  : Onion production estimated to fall by 5 per cent in 2012-13: Sharad Pawar
+Encountered some data  : Follow Economic Times
+									Agriculture Section, For The Latest News!
+Encountered some data  : Email
+Encountered some data  : RSS
+Encountered some data  : Have something to say? 
+Encountered some data  : Post your comment
+Encountered some data  : Comments are moderated and will be allowed if they are about the topic and not abusive.
+Encountered some data  : Characters remaining (
+Encountered some data  : 1500
+Encountered some data  : )
+Encountered some data  : To post this comment you must
+Encountered some data  : Log In/Connect with:
+Encountered some data  : Indiatimes Network
+Encountered some data  : or
+Encountered some data  : Fill in your details:
+Encountered some data  : Will be displayed
+Encountered some data  : Will not be displayed
+Encountered some data  : Will be displayed
+Encountered some data  : Share this Comment:
+Encountered some data  : Post to Facebook 
+Encountered some data  : Post to Twitter 
+Encountered some data  : Please answer this simple math question.
+Encountered some data  : 3 + 1 =
+Encountered some data  : Have something to say? 
+Encountered some data  : Post your comment
+Encountered some data  : Comments are moderated and will be allowed if they are about the topic and not abusive.
+Encountered some data  : Characters remaining (
+Encountered some data  : 1500
+Encountered some data  : )
+Encountered some data  : To post this comment you must
+Encountered some data  : Log In/Connect with:
+Encountered some data  : Indiatimes Network
+Encountered some data  : or
+Encountered some data  : Fill in your details:
+Encountered some data  : Will be displayed
+Encountered some data  : Will not be displayed
+Encountered some data  : Will be displayed
+Encountered some data  : Share this Comment:
+Encountered some data  : Post to Facebook 
+Encountered some data  : Post to Twitter 
+Encountered some data  : Please answer this simple math question.
+Encountered some data  : 3 + 1 =
+Encountered some data  : Get a Quote
+Encountered some data  : Browse Companies
+Encountered some data  : A
+Encountered some data  : B
+Encountered some data  : C
+Encountered some data  : D
+Encountered some data  : E
+Encountered some data  : F
+Encountered some data  : G
+Encountered some data  : H
+Encountered some data  : I
+Encountered some data  : J
+Encountered some data  : K
+Encountered some data  : L
+Encountered some data  : M
+Encountered some data  : N
+Encountered some data  : O
+Encountered some data  : P
+Encountered some data  : Q
+Encountered some data  : R
+Encountered some data  : S
+Encountered some data  : T
+Encountered some data  : U
+Encountered some data  : V
+Encountered some data  : W
+Encountered some data  : X
+Encountered some data  : Y
+Encountered some data  : Z
+Encountered some data  : |
+Encountered some data  : 1
+Encountered some data  : 2
+Encountered some data  : 3
+Encountered some data  : 4
+Encountered some data  : 5
+Encountered some data  : 6
+Encountered some data  : 7
+Encountered some data  : 8
+Encountered some data  : 9
+Encountered some data  : showDC("bot728","articleshow",1715249553,1373380680,1202099874);
+Encountered some data  : The Economic Times
+Encountered some data  : Home
+Encountered some data  : |
+Encountered some data  : News
+Encountered some data  : |
+Encountered some data  : Markets
+Encountered some data  : |
+Encountered some data  : Personal Finance
+Encountered some data  : |
+Encountered some data  : Mutual Funds
+Encountered some data  : |
+Encountered some data  : Infotech
+Encountered some data  : |
+Encountered some data  : Jobs
+Encountered some data  : |
+Encountered some data  : Opinion
+Encountered some data  : |
+Encountered some data  : Features
+Encountered some data  : |
+Encountered some data  : Videos
+Encountered some data  : |
+Encountered some data  : My Portfolio
+Encountered some data  : |
+Encountered some data  : Budget 2013
+Encountered some data  : Live Market
+Encountered some data  : News
+Encountered some data  : Portfolio
+Encountered some data  : Mobile
+Encountered some data  : Live TV
+Encountered some data  : Newsletter
+Encountered some data  : Commodities
+Encountered some data  : Speed
+Encountered some data  : QnA
+Encountered some data  : Blogs
+Encountered some data  : Alerts
+Encountered some data  : Other Times Group news sites
+Encountered some data  : Times of India
+Encountered some data  : |
+Encountered some data  :  
+Encountered some data  :  
+Encountered some data  : |
+Encountered some data  : Mumbai Mirror
+Encountered some data  : Times Now
+Encountered some data  : |
+Encountered some data  : Indiatimes
+Encountered some data  :  
+Encountered some data  : |
+Encountered some data  :  
+Encountered some data  :  
+Encountered some data  : Living and entertainment
+Encountered some data  : Timescity
+Encountered some data  : |
+Encountered some data  : iDiva
+Encountered some data  : |
+Encountered some data  : Bollywood
+Encountered some data  : Zoom
+Encountered some data  : |
+Encountered some data  : Healthmeup
+Encountered some data  : |
+Encountered some data  : Luxpresso
+Encountered some data  : Technology
+Encountered some data  : |
+Encountered some data  : Guylife
+Encountered some data  : |
+Encountered some data  : Online Songs
+Encountered some data  : Networking
+Encountered some data  : itimes
+Encountered some data  : |
+Encountered some data  : Dating 
+Encountered some data  :  Chat
+Encountered some data  : |
+Encountered some data  : Email
+Encountered some data  : MensXP.com
+Encountered some data  : Hot on the Web
+Encountered some data  : Breast Feeding
+Encountered some data  : |
+Encountered some data  : Online Shopping
+Encountered some data  : Movie Review Videos
+Encountered some data  : |
+Encountered some data  : Miss India
+Encountered some data  : Used Cars in Chandigarh
+Encountered some data  : |
+Encountered some data  : Bike Price India
+Encountered some data  : Services
+Encountered some data  : Book print ads
+Encountered some data  : |
+Encountered some data  : Online shopping
+Encountered some data  : |
+Encountered some data  : Free SMS
+Encountered some data  : |
+Encountered some data  : Website design
+Encountered some data  : |
+Encountered some data  : CRM
+Encountered some data  : |
+Encountered some data  : Tenders
+Encountered some data  : Matrimonial
+Encountered some data  : |
+Encountered some data  : Ringtones
+Encountered some data  : |
+Encountered some data  : Astrology
+Encountered some data  : |
+Encountered some data  : Jobs
+Encountered some data  : |
+Encountered some data  : Property
+Encountered some data  : |
+Encountered some data  : Buy car
+Encountered some data  : |
+Encountered some data  : Bikes in India
+Encountered some data  : Used Cars
+Encountered some data  : |
+Encountered some data  : Online Deals
+Encountered some data  : |
+Encountered some data  : Restaurants in Delhi
+Encountered some data  : |
+Encountered some data  : Movie Show Timings in Mumbai
+Encountered some data  : Remit to India
+Encountered some data  : |
+Encountered some data  : Buy Mobiles
+Encountered some data  : |
+Encountered some data  : Listen Songs
+Encountered some data  : About us
+Encountered some data  : /
+Encountered some data  : Advertise with us
+Encountered some data  : /
+Encountered some data  : Terms of Use and Grievance Redressal Policy
+Encountered some data  : /
+Encountered some data  : Privacy Policy
+Encountered some data  : /
+Encountered some data  : Feedback
+Encountered some data  : /
+Encountered some data  : Sitemap
+Encountered some data  : /
+Encountered some data  : Code of Ethics
+Encountered some data  : Copyright 
+Encountered some data  :  2013 Times Internet Limited. All rights reserved.
+Encountered some data  : Hotklix
+Encountered some data  : Digg
+Encountered some data  : Google Bookmarks
+Encountered some data  : StumbleUpon
+Encountered some data  : Reddit
+Encountered some data  : Newsvine
+Encountered some data  : Live Bookmarks
+Encountered some data  : Technorati
+Encountered some data  : Yahoo Bookmarks
+Encountered some data  : Blogmarks
+Encountered some data  : Del.icio.us
+Encountered some data  : ApnaCircle
+Encountered some data  : Mail This Article
+Encountered some data  : My Saved Articles
+Encountered some data  : Sign in
+Encountered some data  : Sign up
+Encountered some data  : Find this comment offensive?
+Encountered some data  : Choose your reason below and click on the Report button. This will alert our moderators to take action
+Encountered some data  : Name
+Encountered some data  : Reason for reporting:
+Encountered some data  : Foul language
+Encountered some data  : Slanderous
+Encountered some data  : Inciting hatred against a certain community
+Encountered some data  : Others
+Encountered some data  : Your Reason has been Reported to the admin.
+Encountered some data  : var isMarket = 0;
+						var lp_read_act = "read";var page = {
+						msid : '22100493',
+						fbImg : 'http://economictimes.indiatimes.com/thumb/msid-22100532,width-310,resizemode-4/govt-may-allay-gm-crop-concerns-in-house-today.jpg'
+					}
+
+						
+					
+					var docIsready = false; // Fixing doc not ready error
+					
+					$(document).ready(function(){
+						
+						docIsready = true;
+						
+						// populating comment after 5 seconds
+						setTimeout(function () {
+							getComments();	
+						}, 5000);
+
+						if(document.referrer.indexOf("indiaretailnews.com") > 0 || document.referrer.indexOf("indiaretailing.com") > 0 || document.referrer.indexOf("retailangle.com") > 0){
+							$("#etRetailImg").show();
+						}
+						
+					});
+
+					if(!docIsready){
+						setTimeout(function(){
+							$(document).ready();
+						}, 2000);
+					}
+
+					
+					
+					
+Encountered some data  :    (function() {
+		    var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		    })();
+		
+Encountered some data  : 
+					function blockError(){return true;} 
+					window.onerror = blockError; 
+					var timeslog_channel_url = 'economictimes.indiatimes.com';
+					var ttrendlogmsid='22100493';
+Encountered some data  : var secname='News Economy Agriculture';
+		var agename='ET Bureau';
+Encountered some data  : 
+			var _sf_async_config={uid:10538,domain:"economictimes.indiatimes.com"};
+			_sf_async_config.sections = secname;
+			_sf_async_config.authors = agename;
+			(function(){
+			  function loadChartbeat() {
+			  	//alert(chartbeat);
+			    window._sf_endpt=(new Date()).getTime();
+			    var e = document.createElement('script');
+			    e.setAttribute('language', 'javascript');
+			    e.setAttribute('type', 'text/javascript');
+			    e.setAttribute('src',
+			       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") + "static.chartbeat.com/js/chartbeat.js");
+			    document.body.appendChild(e);
+			  }
+			  var oldonload = window.onload;
+			  window.onload = (typeof window.onload != 'function') ?
+			     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+			})();
+			
+			
+Encountered some data  : 
+				window.fbAsyncInit = function() {
+				    // init the FB JS SDK
+				    FB.init({appId: '117787264903013',oauth:true, status: true, cookie: true, xfbml: true});
+					
+				
+					FB.Event.subscribe('edge.create', function(href, widget){
+						log('like_fb',page.msid);
+						logonmyt("Shared", page.msid, "Facebook");
+					});
+					FB.Event.subscribe('message.send', function(href, widget){
+						log('sh_fb',page.msid);
+						logonmyt("Shared", page.msid, "Facebook");
+					});
+					
+				
+					setTimeout(function(){
+						FB.getLoginStatus(function (response) {
+							loginFbSts = response.status;
+							if (response.authResponse) {
+								usersessionkey = response.authResponse.accessToken;
+							}
+							if (usersessionkey != '' && Get_Ckie('autologin') == null && Get_Ckie('MSCSAuth') == null) {
+								fbAutoLoginStatusProceed = false;
+								Set_Ckie("autologin", "1", 0, "/", ".indiatimes.com", "");
+								//$("#signupsso").attr("src", "/autologin.cms");
+								document.getElementById("signupsso").src = "/autologin.cms"
+							} else {
+								fbAutoLoginStatusProceed = true;
+							}
+						});
+					}, 2000);
+				};
+
+			  // Load the SDK asynchronously
+			  (function(d, s, id){
+			     var js, fjs = d.getElementsByTagName(s)[0];
+			     if (d.getElementById(id)) {return;}
+			     js = d.createElement(s); js.id = id;
+			     js.src = "//connect.facebook.net/en_US/all.js";
+			     fjs.parentNode.insertBefore(js, fjs);
+			   }(document, 'script', 'facebook-jssdk'));
+				
+			
+Encountered some data  : 	
+					function invokeLogin(){
+						try{						
+						isLoggedSso = getCookievaluetwitt('MSCSAuth');
+						if(Get_Ckie('autologin')!=null){
+							Delete_Ckie("autologin","/",".indiatimes.com");
+						}
+						tpbar1();												
+						setTimeout("twtFbSso();",1000);
+						setTimeout("dolike();",2000);
+						setTimeout(function(){populate_wf_new('/cmtofartfb/
+					22100493.cms?msid=22100493','populatecomment','no','putMathQ(1);fillformdetail(1);putCmtCnt();getemid();')},5000);
+						}
+						catch(ex){							
+						}					
+					}
+					
+Encountered some data  : 
+			(function() {
+				var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+				em.src = ('https:' == document.location.protocol ? 'https://in-ssl' : 'http://in-cdn') + '.effectivemeasure.net/em.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+			})();
+		
+Encountered some data  : _cc2802.bcp();
+Encountered some data  : showDC("ros","articleshow",1715249553,1373380680,1202099874);
+****************************************************
+<__main__.MyHTMLParser object at 0x7f1912389b10>

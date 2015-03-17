@@ -1,0 +1,47 @@
+'''
+https://public-api.wordpress.com/oauth2/authorize?client_id=12123&redirect_uri=http://www.greenskymedia.wordpress.com&response_type=code
+
+https://public-api.wordpress.com/oauth2/token?client_id=12123&redirect_uri=http://www.greenskymedia.wordpress.com&response_type=code
+
+
+Code collected on 4 September, 2013 at 3:50 PM IST
+
+http://greenskymedia.wordpress.com/?code=lTPRBe7rgk&state
+'''
+
+
+
+import urllib.parse
+import urllib.request
+
+url = 'https://public-api.wordpress.com/oauth2/token'
+
+
+values ={	'client_id' : '12123',
+		'client_secret' : 'cnZoj5XbQtRqKUeJJwfvdsv6D7nOjAJTkugcZSY2jgTgfoaHCj67thB0LlWUtWgO',
+		'redirect_uri' : 'http://www.greenskymedia.wordpress.com',
+		'code' : 'g8SO4NA6JD',
+		'grant_type' : 'authorization_code'
+	}
+
+
+data  = urllib.parse.urlencode(values)
+data = data.encode('utf-8')
+req = urllib.request.Request(url, data)
+response = urllib.request.urlopen(req)
+the_page = response.read()
+
+print(the_page)
+
+'''
+
+b'{"access_token":"N5Eq4T^a%Q#Oijm1ARY9Rf2fTVxUJaJfpat%0l#7dWFH1t3pkZzxg8ebWNvleu(j","token_type":"bearer","blog_id":"56993732","blog_url":"http:\\/\\/greenskymedia.wordpress.com","scope":""}'
+
+
+
+
+
+b'{"access_token":"N5Eq4T^a%Q#Oijm1ARY9Rf2fTVxUJaJfpat%0l#7dWFH1t3pkZzxg8ebWNvleu(j","token_type":"bearer","blog_id":"56993732","blog_url":"http:\\/\\
+/greenskymedia.wordpress.com","scope":""}'
+'''
+

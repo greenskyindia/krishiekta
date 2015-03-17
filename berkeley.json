@@ -1,0 +1,501 @@
+
+{
+	"response": {
+		"version": "0.1"
+		,"termsofService": "http://www.wunderground.com/weather/api/d/terms.html"
+		,"features": {
+		"geolookup": 1
+		,
+		"conditions": 1
+		}
+	}
+		,	"location": {
+		"type":"CITY",
+		"country":"US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"state":"CA",
+		"city":"Berkeley",
+		"tz_short":"PDT",
+		"tz_long":"America/Los_Angeles",
+		"lat":"37.86912155",
+		"lon":"-122.26962280",
+		"zip":"94701",
+		"magic":"1",
+		"wmo":"99999",
+		"l":"/q/zmw:94701.1.99999",
+		"requesturl":"US/CA/Berkeley.html",
+		"wuiurl":"http://www.wunderground.com/US/CA/Berkeley.html",
+		"nearby_weather_stations": {
+		"airport": {
+		"station": [
+		{ "city":"Oakland", "state":"CA", "country":"US", "icao":"KOAK", "lat":"37.72000122", "lon":"-122.22000122" },
+		{ "city":"Concord", "state":"CA", "country":"US", "icao":"KCCR", "lat":"37.99000168", "lon":"-122.05999756" },
+		{ "city":"Hayward", "state":"CA", "country":"US", "icao":"KHWD", "lat":"37.65999985", "lon":"-122.12000275" },
+		{ "city":"San Francisco", "state":"CA", "country":"US", "icao":"KSFO", "lat":"37.61999893", "lon":"-122.37000275" }
+		]
+		}
+		,
+		"pws": {
+		"station": [
+		{
+		"neighborhood":"Alcatraz Ave",
+		"city":"Oakland",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAOAKLA44",
+		"lat":37.849438,
+		"lon":-122.263641,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"West Berkeley",
+		"city":"Berkeley",
+		"state":"CA",
+		"country":"US",
+		"id":"KCABERKE28",
+		"lat":37.851902,
+		"lon":-122.287788,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Elmwood, near Claremont Hotel",
+		"city":"Berkeley",
+		"state":"CA",
+		"country":"US",
+		"id":"KCABERKE6",
+		"lat":37.856392,
+		"lon":-122.243973,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Thousand Oaks",
+		"city":"Berkeley",
+		"state":"CA",
+		"country":"US",
+		"id":"KCABERKE25",
+		"lat":37.892567,
+		"lon":-122.280258,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Triple Point",
+		"city":"Oakland",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAOAKLA34",
+		"lat":37.847557,
+		"lon":-122.286209,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Lower Claremont Canyon",
+		"city":"Berkeley",
+		"state":"CA",
+		"country":"US",
+		"id":"KCABERKE26",
+		"lat":37.860859,
+		"lon":-122.238602,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Berkeley Hills",
+		"city":"Berkeley",
+		"state":"CA",
+		"country":"US",
+		"id":"KCABERKE27",
+		"lat":37.894798,
+		"lon":-122.260002,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Claremont Hills",
+		"city":"Oakland",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAOAKLA31",
+		"lat":37.861351,
+		"lon":-122.231384,
+		"distance_km":3,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Grand View Dr., Oakland",
+		"city":"Berkeley",
+		"state":"CA",
+		"country":"US",
+		"id":"KCABERKE22",
+		"lat":37.857765,
+		"lon":-122.231819,
+		"distance_km":3,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"RAWS OAKLAND NORTH CA US",
+		"city":"Berkeley",
+		"state":"CA",
+		"country":"US",
+		"id":"MONOC1",
+		"lat":37.865002,
+		"lon":-122.220833,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"MAP SIBLEY VOLCANO (P224) CA PSD",
+		"city":"Berkeley",
+		"state":"CA",
+		"country":"US",
+		"id":"MSVCCA",
+		"lat":37.860001,
+		"lon":-122.220001,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Upper Temescal",
+		"city":"Oakland",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAOAKLA11",
+		"lat":37.831886,
+		"lon":-122.249855,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Berkeley Highlands Terrace",
+		"city":"Kensington",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAKENSI3",
+		"lat":37.909771,
+		"lon":-122.277924,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Near Blake Garden",
+		"city":"Kensington",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAKENSI4",
+		"lat":37.916149,
+		"lon":-122.286041,
+		"distance_km":5,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Broadway Terrace @ Skyline",
+		"city":"Oakland",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAOAKLA49",
+		"lat":37.848549,
+		"lon":-122.213341,
+		"distance_km":5,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"APRSWXNET Richmond CA US",
+		"city":"El Cerrito",
+		"state":"CA",
+		"country":"US",
+		"id":"ME1611",
+		"lat":37.909672,
+		"lon":-122.305832,
+		"distance_km":5,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Indian Wy, Montclair, Oakland Hills",
+		"city":"Oakland",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAOAKLA22",
+		"lat":37.840294,
+		"lon":-122.206421,
+		"distance_km":6,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Downtown Oakland",
+		"city":"Oakland",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAOAKLA38",
+		"lat":37.808689,
+		"lon":-122.267540,
+		"distance_km":6,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Montclair- corner of Skyline and Snake",
+		"city":"Oakland",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAOAKLA15",
+		"lat":37.839901,
+		"lon":-122.197586,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Forestland",
+		"city":"Oakland",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAOAKLA21",
+		"lat":37.841438,
+		"lon":-122.195366,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Country Club",
+		"city":"Orinda",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAORIND9",
+		"lat":37.888096,
+		"lon":-122.188652,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Promontory",
+		"city":"Richmond",
+		"state":"CA",
+		"country":"US",
+		"id":"KCARICHM9",
+		"lat":37.909950,
+		"lon":-122.339310,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"El Cerrito Hills",
+		"city":"El Cerrito",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAELCER3",
+		"lat":37.929630,
+		"lon":-122.311829,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"El Cerrito Hills Garden",
+		"city":"El Cerrito",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAELCER7",
+		"lat":37.929802,
+		"lon":-122.312187,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Downtown Oakland - Lake Merritt",
+		"city":"Oakland",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAOAKLA41",
+		"lat":37.797092,
+		"lon":-122.254227,
+		"distance_km":8,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Lake Merritt",
+		"city":"Oakland",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAOAKLA37",
+		"lat":37.797016,
+		"lon":-122.254128,
+		"distance_km":8,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"APRSWXNET Alameda CA US",
+		"city":"Oakland",
+		"state":"CA",
+		"country":"US",
+		"id":"MD8533",
+		"lat":37.799999,
+		"lon":-122.300003,
+		"distance_km":8,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Produce and Waterfront",
+		"city":"Oakland",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAOAKLA42",
+		"lat":37.795559,
+		"lon":-122.272934,
+		"distance_km":8,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"NOS_PORTS Oakland Berth 67, CA",
+		"city":"Oakland",
+		"state":"CA",
+		"country":"US",
+		"id":"MLNDC1",
+		"lat":37.795029,
+		"lon":-122.288139,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"El Cerrito / Richmond Heights",
+		"city":"El Cerrito",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAELCER5",
+		"lat":37.937054,
+		"lon":-122.314453,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"NOS_PORTS Oakland Berth, CA",
+		"city":"Oakland",
+		"state":"CA",
+		"country":"US",
+		"id":"MOKXC1",
+		"lat":37.810612,
+		"lon":-122.333107,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Glorietta Area",
+		"city":"Orinda",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAORIND3",
+		"lat":37.870953,
+		"lon":-122.169792,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Marina Bay",
+		"city":"Richmond",
+		"state":"CA",
+		"country":"US",
+		"id":"KCARICHM5",
+		"lat":37.913631,
+		"lon":-122.354767,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"NOS_PORTS Point Potrero, CA",
+		"city":"Richmond",
+		"state":"CA",
+		"country":"US",
+		"id":"MPPXC1",
+		"lat":37.905807,
+		"lon":-122.365028,
+		"distance_km":9,
+		"distance_mi":5
+		}
+		]
+		}
+		}
+	}
+		,	"current_observation": {
+		"image": {
+		"url":"http://icons-ak.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Berkeley, CA",
+		"city":"Berkeley",
+		"state":"CA",
+		"state_name":"California",
+		"country":"US",
+		"country_iso3166":"US",
+		"zip":"94701",
+		"latitude":"37.86912155",
+		"longitude":"-122.26962280",
+		"elevation":"59.00000000"
+		},
+		"observation_location": {
+		"full":"Alcatraz Ave, Oakland, California",
+		"city":"Alcatraz Ave, Oakland",
+		"state":"California",
+		"country":"US",
+		"country_iso3166":"US",
+		"latitude":"37.849438",
+		"longitude":"-122.263641",
+		"elevation":"138 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"KCAOAKLA44",
+		"observation_time":"Last Updated on June 8, 5:19 AM PDT",
+		"observation_time_rfc822":"Sat, 08 Jun 2013 05:19:20 -0700",
+		"observation_epoch":"1370693960",
+		"local_time_rfc822":"Sat, 08 Jun 2013 05:19:38 -0700",
+		"local_epoch":"1370693978",
+		"local_tz_short":"PDT",
+		"local_tz_long":"America/Los_Angeles",
+		"local_tz_offset":"-0700",
+		"weather":"Clear",
+		"temperature_string":"57.0 F (13.9 C)",
+		"temp_f":57.0,
+		"temp_c":13.9,
+		"relative_humidity":"87%",
+		"wind_string":"From the NW at 2.2 MPH Gusting to 2.7 MPH",
+		"wind_dir":"NW",
+		"wind_degrees":315,
+		"wind_mph":2.2,
+		"wind_gust_mph":"2.7",
+		"wind_kph":3.5,
+		"wind_gust_kph":"4.3",
+		"pressure_mb":"1007",
+		"pressure_in":"29.75",
+		"pressure_trend":"0",
+		"dewpoint_string":"53 F (12 C)",
+		"dewpoint_f":53,
+		"dewpoint_c":12,
+		"heat_index_string":"NA",
+		"heat_index_f":"NA",
+		"heat_index_c":"NA",
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":"57.0 F (13.9 C)",
+		"feelslike_f":"57.0",
+		"feelslike_c":"13.9",
+		"visibility_mi":"10.0",
+		"visibility_km":"16.1",
+		"solarradiation":"",
+		"UV":"0.0",
+		"precip_1hr_string":"0.00 in ( 0 mm)",
+		"precip_1hr_in":"0.00",
+		"precip_1hr_metric":" 0",
+		"precip_today_string":"0.00 in (0 mm)",
+		"precip_today_in":"0.00",
+		"precip_today_metric":"0",
+		"icon":"clear",
+		"icon_url":"http://icons-ak.wxug.com/i/c/k/nt_clear.gif",
+		"forecast_url":"http://www.wunderground.com/US/CA/Berkeley.html",
+		"history_url":"http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KCAOAKLA44",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=37.849438,-122.263641"
+	}
+}

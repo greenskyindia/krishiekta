@@ -1,0 +1,47 @@
+
+#--Class for source list storage
+
+class SourceBox:
+
+	counter = 0
+	indx = None
+
+	source_id = 0
+	name = ''
+	url = ''
+	short_name = ''
+	information = ''
+	language = ''
+	gen_page_type = ''
+	last_fetch_date = ''
+	last_base_date = ''
+	gen_tag_list = dict(date=None,title=None,url=None)
+	#	gen_date_id = 0
+	#	gen_title_id = 0
+	#	gen_url_id = 0
+	spec_tag_list = dict(date=None, title=None, url=None, content=None, location=None, tag=None, keyword=None, image=None, video=None, audio=None, related=None)
+	#	spec_date_id = 0
+	#	spec_title_id = 0
+	#	spec_url_id = 0
+	#	spec_content_id = 0
+	#	spec_location_id = 0
+	#	spec_tag_id = 0
+	#	spec_keyword_id = 0
+	#	spec_image_id = 0
+	#	spec_video_id = 0
+	#	spec_audio_id = 0
+	#	spec_related_id = 0
+	category1 = ''
+	weight_cat1 = 0.0
+	category2 = ''
+	weight_cat2 = 0.0
+	category3 = ''
+	weight_cat3 = 0.0	
+
+
+	def __init__(self,val):
+		self.indx = val
+		self.gen_tag_list = {}
+		self.spec_tag_list = {}
+		SourceBox.counter = SourceBox.counter + 1
+

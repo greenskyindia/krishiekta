@@ -1,0 +1,38 @@
+from html.parser import HTMLParser
+
+class MyHTMLParser(HTMLParser):
+	
+#	def initialize(self):
+#		ctr
+	ctr = 0
+	def handle_starttag(self, tag, attrs):
+		print("Encountered a start tag:", tag)
+		MyHTMLParser.ctr = MyHTMLParser.ctr+1
+		print("**Current Counter: ",MyHTMLParser.ctr)		
+		#self.tname = tag
+		for i in attrs:
+			print("\tAttribute:",i[0])
+			print("\tValue:",i[1])
+	def handle_endtag(self, tag):
+		print("Encountered an end tag :", tag)
+		MyHTMLParser.ctr = MyHTMLParser.ctr -1
+		print("**Current Counter: ",MyHTMLParser.ctr)		
+	def handle_data(self, data):
+		print("Encountered some data  :", data)
+		print("**Current Counter: ",MyHTMLParser.ctr)
+	def getpos(self):
+		print ("Position :",self);
+
+
+parser = MyHTMLParser()
+
+#parser.initialize()
+
+#	For reading from file directly
+
+f= open('data001/file4download.html','r')
+
+parser.feed(f.read())
+
+print("****************************************************")
+print (parser)

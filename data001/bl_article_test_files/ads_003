@@ -1,0 +1,41 @@
+{
+
+var google_ads = new Array();
+var google_ad;
+var google_radlinks = new Array();
+var google_radlink;
+var google_info = new Object();
+google_ad = {}; 
+google_ad.n = 1; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = ""; 
+google_ad.url = "http://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=C42A3BqY0Upu9Joy6igf77IHABuK8ooQGitTTwokBisP55NoBEAEgvYO_EygCUJ6I7m5g5bLlg6wOoAGOmJrcA8gBAakCCk1YKwLyUD6oAwGqBOwBT9ABmzMuJsG7_vGwyz9owcaNFTaSdmZUMGl9geafoX7AQltWwRL-M7Na1w7f5CwrgxcJ2eYJ_YI3E7r7tu30XvoIR9Kfxu01cyZ2jpgAneGWdIC8hn7EXe5D_YFBsguAia8g70IkTGTnCnQ8GnOYqH1exj9CzyaXh9pzY5mMBM9Lm9HJEK92LGMQPFUnaFaZ0Y2XKpPs_vWbCKhmSzInprUQX6Y6PB84xjphcTLjJBPNT-bSJv64kp708pAYkXfmdBdp3m8p2Nu_9v8Ts9r5I15b31_kNbWb7Rxzqr3jQCKMx0RHTlmF73y5DeiIBgGAB9rn5SM&amp;num=1&amp;cid=5GjCuEtpULLW601iXG6Z1p5j&amp;sig=AOD64_3ZeHsJXOLL9LxaU85d8ooEd75MHQ&amp;client=ca-hindu_site_html&amp;adurl=http://www.lenskart.com/eyeglasses/frame-style/rimless.html"; 
+google_ad.visible_url = "www.lenskart.com"; 
+google_ad.line1 = "Rimless Eyeglasses"; 
+google_ad.line2 = "Get 30% Off on Purchase of 1500 \x26amp;"; 
+google_ad.line3 = "Above.Use Code- SUPERSAVER30"; 
+google_ad.regionname = ""; 
+google_ads[0] = google_ad; 
+google_ad = {}; 
+google_ad.n = 2; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = ""; 
+google_ad.url = "http://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=CUdGHBqY0Upu9Joy6igf77IHABrqK_aMF6sHa2YYBusWtp80BEAIgvYO_EygCULOXksr9_____wFg5bLlg6wOoAH--tXgA8gBAakCCk1YKwLyUD6oAwGqBOwBT9BB4Q8sJsK7_vGwyz9owcaNFTaSdmZUMGl9geafoX7AQltWwRL-M7Na1w7f5CwrgxcJ2eYJ_YI3E7r7tu30XvoIR9Kfxu01cyZ2jpgAneGWdIC8hn7EXe5D_YFBsguAia8g70IkTGTnCnQ8GnOYqH1exj9CzyaXh9pzY5mMBM9Lm9HJEK92LGMQPFUnaFaZ0Y2XKpPs_vWbCKhmSzInprUQX6Y6PB84xjphcTLjJBPNT-bSJv64kp708pAYkXfmdBdpvg0a8tu_9v8Ts9r5I15b31_kNbWb7Rxzqr3jQCKMx0RHTlmF71zaSNOIBgGAB-qEqh8&amp;num=2&amp;cid=5GjCuEtpULLW601iXG6Z1p5j&amp;sig=AOD64_1-sxthSLa_nwRIlSxgGJo9MxXazA&amp;client=ca-hindu_site_html&amp;adurl=http://www.drbatras.com/campaigns/Google1/hairloss/default.aspx%3Fclid%3DPB240925GOGHL4%26adn%3DC2-Remarketing-Hair-Loss-GDN_Hair-Loss,utm_term%3D,utm_content%3D36285579218,Network%3DContent,SiteTarget%3Dwww.thehindubusinessline.com"; 
+google_ad.visible_url = "www.drBatras.com/Hair-Loss"; 
+google_ad.line1 = "Hair Loss Treatment"; 
+google_ad.line2 = "Visible Result In Over 92% Patients"; 
+google_ad.line3 = "Call Toll Free:18002660001 For Appt"; 
+google_ad.regionname = ""; 
+google_ads[1] = google_ad; 
+google_info.feedback_url = "http://www.google.com/url?ct\x3dabg\x26q\x3dhttps://www.google.com/adsense/support/bin/request.py%3Fcontact%3Dabg_afc%26url%3Dhttp://www.thehindubusinessline.com/industry-and-economy/agri-biz/punjab-waives-rural-development-market-fee-on-basmati/article5128380.ece%26gl%3DIN%26hl%3Den%26client%3Dca-hindu_site_html%26hideleadgen%3D1%26ai0%3DC42A3BqY0Upu9Joy6igf77IHABuK8ooQGitTTwokBisP55NoBEAEgvYO_EygCUJ6I7m5g5bLlg6wOoAGOmJrcA8gBAakCCk1YKwLyUD6oAwGqBOwBT9ABmzMuJsG7_vGwyz9owcaNFTaSdmZUMGl9geafoX7AQltWwRL-M7Na1w7f5CwrgxcJ2eYJ_YI3E7r7tu30XvoIR9Kfxu01cyZ2jpgAneGWdIC8hn7EXe5D_YFBsguAia8g70IkTGTnCnQ8GnOYqH1exj9CzyaXh9pzY5mMBM9Lm9HJEK92LGMQPFUnaFaZ0Y2XKpPs_vWbCKhmSzInprUQX6Y6PB84xjphcTLjJBPNT-bSJv64kp708pAYkXfmdBdp3m8p2Nu_9v8Ts9r5I15b31_kNbWb7Rxzqr3jQCKMx0RHTlmF73y5DeiIBgGAB9rn5SM%26ai1%3DCUdGHBqY0Upu9Joy6igf77IHABrqK_aMF6sHa2YYBusWtp80BEAIgvYO_EygCULOXksr9_____wFg5bLlg6wOoAH--tXgA8gBAakCCk1YKwLyUD6oAwGqBOwBT9BB4Q8sJsK7_vGwyz9owcaNFTaSdmZUMGl9geafoX7AQltWwRL-M7Na1w7f5CwrgxcJ2eYJ_YI3E7r7tu30XvoIR9Kfxu01cyZ2jpgAneGWdIC8hn7EXe5D_YFBsguAia8g70IkTGTnCnQ8GnOYqH1exj9CzyaXh9pzY5mMBM9Lm9HJEK92LGMQPFUnaFaZ0Y2XKpPs_vWbCKhmSzInprUQX6Y6PB84xjphcTLjJBPNT-bSJv64kp708pAYkXfmdBdpvg0a8tu_9v8Ts9r5I15b31_kNbWb7Rxzqr3jQCKMx0RHTlmF71zaSNOIBgGAB-qEqh8\x26usg\x3dAFQjCNHenkUGlMDAM_nnmPIC-eVOx_QddQ";
+var google_attribution_text = "AdChoices";
+var google_is_rtl = false;
+if (window.google_ad_request_done) {
+google_ad_request_done(google_ads);
+}
+if (window.google_radlink_request_done) {
+google_radlink_request_done(google_radlinks);
+}
+}

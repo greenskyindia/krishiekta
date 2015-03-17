@@ -1,0 +1,29 @@
+{
+
+var google_ads = new Array();
+var google_ad;
+var google_radlinks = new Array();
+var google_radlink;
+var google_info = new Object();
+google_ad = {}; 
+google_ad.n = 1; 
+google_ad.type = "image"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = ""; 
+google_ad.url = "http://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=CuDzMB6Y0UvapMKHHigfakoHgD9XltKkErdXG0HDlvr6vvAEQASC9g78TUPDu5ev______wFg5bLlg6wOoAHRq9jtA8gBA6kCCk1YKwLyUD6oAwGqBOwBT9AJhcNWsayzoWiTrs0snMivcduugnOeZ4Z4tJNm0xE_Dpqlh7Rw6d_C-SR_pcfRxhVJV1Vi9gzbn665wOb9BEeiPwY-9IJ06kj1vTHP2WobLSiO4LUZ0meC61KytuUEqJO-JrRaXaBzL3uh0VNlmG9syn-1981wtDLwd-yK-kPZX5lfGtzmPkjNL4z7iQs7sRTwu9cXU8YRc6p_KSAqDVxE5-9hIhezLtrMdgATAvFiNeVEYSReFptWHw1q3gHdR8uFwyVvhHNZeLWq3eTtYP9c7nsKnsJsUUVuisW_oSABf4Mpixg2NTf6Zz-IBgGgBgOAB5fUpxI&amp;num=1&amp;cid=5GhxU5CLX9jYYKBE8WN654OL&amp;sig=AOD64_1QkdmjjawtYu0FpVqUWoxzvuiC8w&amp;client=ca-hindu_site_html&amp;adurl=http://www.jetairways.com/EN/IN/Home.aspx"; 
+google_ad.visible_url = "www.jetairways.com"; 
+google_ad.image_url = "http://pagead2.googlesyndication.com/simgad/11828407669590005467";
+google_ad.image_width = "300";
+google_ad.image_height = "250";
+google_ad.image_alt_text = "";
+google_ads[0] = google_ad; 
+google_info.feedback_url = "http://www.google.com/url?ct\x3dabg\x26q\x3dhttps://www.google.com/adsense/support/bin/request.py%3Fcontact%3Dabg_afc%26url%3Dhttp://www.thehindubusinessline.com/industry-and-economy/agri-biz/punjab-waives-rural-development-market-fee-on-basmati/article5128380.ece%26gl%3DIN%26hl%3Den%26client%3Dca-hindu_site_html%26hideleadgen%3D1%26ai0%3DCuDzMB6Y0UvapMKHHigfakoHgD9XltKkErdXG0HDlvr6vvAEQASC9g78TUPDu5ev______wFg5bLlg6wOoAHRq9jtA8gBA6kCCk1YKwLyUD6oAwGqBOwBT9AJhcNWsayzoWiTrs0snMivcduugnOeZ4Z4tJNm0xE_Dpqlh7Rw6d_C-SR_pcfRxhVJV1Vi9gzbn665wOb9BEeiPwY-9IJ06kj1vTHP2WobLSiO4LUZ0meC61KytuUEqJO-JrRaXaBzL3uh0VNlmG9syn-1981wtDLwd-yK-kPZX5lfGtzmPkjNL4z7iQs7sRTwu9cXU8YRc6p_KSAqDVxE5-9hIhezLtrMdgATAvFiNeVEYSReFptWHw1q3gHdR8uFwyVvhHNZeLWq3eTtYP9c7nsKnsJsUUVuisW_oSABf4Mpixg2NTf6Zz-IBgGgBgOAB5fUpxI\x26usg\x3dAFQjCNGB_1XE64_cf2lgaXkd5iyr6JNIQQ";
+var google_attribution_text = "AdChoices";
+var google_is_rtl = false;
+if (window.google_ad_request_done) {
+google_ad_request_done(google_ads);
+}
+if (window.google_radlink_request_done) {
+google_radlink_request_done(google_radlinks);
+}
+}
